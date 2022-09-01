@@ -1,0 +1,621 @@
+Key,Turkish
+Account,Hesap
+Account settings,Hesap Ayarları
+Activity log,Sistem Günlüğü
+Add,Ekle
+Add connection,Bağlantı ekle
+Add dictionary,Sözlük ekle
+Add document type,Belge türü ekle
+Add file,Dosya ekle
+Add language,Dil ekle
+Add link,Link ekle
+Add page,Sayfa ekle
+Add template,Şablon ekle
+Add thesaurus,Thesaurus ekle
+Add to all languages,Tüm dillere ekle
+Add user,Kullanıcı ekle
+Add/delete users and assign roles,Kullanıcı ekleme/silme ve roller atama
+Add/edit translations,Çeviri ekle/düzenle
+Admin,Yönetici
+Advanced settings,Gelişmiş ayarlar
+Allowed Public Templates,İzin Verilen Açık Şablonlar
+Any value,Herhangi bir değer
+Apply properties to documents/entities,Belgelere/varlıklara özellikleri uygula
+Attachments,Ekler
+Back,Geriye git
+Cancel,İptal et
+Change password,Parola değiştir
+check as private instance,özel örnek olarak kontrol edin
+Close session,Oturumu kapat
+Collection,Koleksiyon
+Collection settings,Koleksiyon ayarları
+Configure filters,Filtreleri yapılandır
+Confirm,Onayla
+Confirm delete document type message,Belge Türünü Sil mesajını onaylayın
+Confirm delete document type title,Belge Türü Başlıkını Sil
+Confirm delete multiple items,Birden çok öğeyi silin
+Confirm new password,Yeni parolayı onayla
+Connection type,Bağlantı türü
+Connections,Bağlantılar
+connections,bağlantılar
+Create a table of contents,İçindekiler tablosu oluştur
+Create connections and references,Bağlantı ve referans oluştur
+Create dictionaries,Sözlük oluştur
+Create document and entity types,Belge ve varlık türleri oluştur
+Create group,Grup oluştur
+Custom CSS,Özel CSS
+Custom page,Özel sayfa
+Customisation,Özelleştirme
+Date added,Eklenme tarihi
+Date format,Tarih biçimi
+Delete,Sil
+Delete documents and entities,Belgeleri ve varlıkları silin
+Delete language,Dili sil
+Dictionaries,Sözlükler
+Discard changes,Değişiklikleri göz ardı et
+Document and entity types,Belge ve varlık türü
+Document types,Belge türü
+Documents,Belgeler
+documents,belgeler
+Downloads,İndirmeler
+Duplicated name,Mükerrer ad
+Edit,Düzenle
+Editor,Editör
+Email,E-posta
+Email address,E-posta adresi
+Email updated,E-posta güncellendi
+Entities,Varlıklar
+Filename label,dosya adı
+Filters,Filtreler
+Filters AND operator,VE
+Filters configuration,Filtreler
+Filters OR operator,YA DA
+Flag,İşaretle
+Forgot Password?,Parolanızı mı unuttunuz?
+Google Analytics ID,Google Analytics Kimliği
+hubs,hubs
+Icon,Simge
+in,in
+Info,Bilgi
+Invalid form,geçersiz form
+"Label date ""From""",Başlangıç: 
+"Label date ""to""",Son:
+Landing page,Açılış sayfası
+Language,Dil
+Least recently,En yakın zamanda
+Library,Kütüphane
+List view,Liste görünümü
+Login,Giriş
+Login button,Giriş
+Login failed,Giriş başarısız
+Logout,Çıkış
+Mailer configuration,Posta yapılandırması
+Manage site settings and configuration,Site ayarlarını ve yapılandırmasını yönetin
+Map view,Harita görünümü
+MapTiler key,Maptiler Anahtarı
+Maximum,Maksimum
+Menu,Menü
+Metadata,Meta veri
+Minimum,Minimum
+My Files,Dosyalarım
+Name,Ad
+Name connections,Bağlantıları adlandırın
+New entity,Yeni varlık
+New password,Yeni parola
+No,Hayır
+No common filters,Ortak filtre yok
+No Connections,Bağlantı yok
+No Connections description,Bağlantı Yok Açıklama
+No Label,Etiket yok
+No options found,Seçenek bulunamadı
+No property,Mülk yok
+No References,Referans Yok
+No References description,Referans Yok Açıklama
+No Relationships,İlişki yok
+No Relationships description,İlişki Yok Açıklama
+No Table of Contents,İçerik Tablosu yok
+No Table of Contents description,İçerik Tablosu Yok Açıklama
+No text match,Metin Eşleşmesi Yok
+No text match description,Metin Eşleşmesi Açıklama Yok
+No type,Tür yok
+No value,Değer yok
+of,nın-nin
+Order,Düzen
+Other,Diğer
+Pages,Sayfalar
+Password,Parola
+Password Error,Şifre hatası
+Password updated,Parola güncellendi
+Private documents,Özel belgeler
+Private instance,Özel oluşum
+Public documents,Açık belgeler
+Publish,Yayınla
+Recently,Yakında
+References,Referanslar
+Relationship,İlişki
+Relationship types,İlişki türleri
+Relationships,İlişkiler
+RelationType saved,İlişki türü kaydedildi
+Relevance,İlgi
+Reset,Sıfırla
+Role,Rol
+Save,Kaydet
+Search,Ara
+Search connections,Bağlantıları ara
+Search item,Öğe ara
+Search related entities or documents,İlgili varlıkları veya belgeleri arayın
+Search relevance,Alaka arama
+Search text,Metin ara
+Search text description,Arama Metni Açıklama
+Search Tips: boolean,Arama İpuçları: Boolean
+Search Tips: exact term,Arama İpuçları: Tam terim
+Search Tips: one char wildcard,Arama İpuçları: Bir Char Wildcard
+Search Tips: proximity,Arama İpuçları: Yakınlık
+Search Tips: wildcard,Arama İpuçları: Wildcard
+Select list,Liste seç
+selected,seçilmiş
+Send recovery email,Kurtarma e-postası gönder
+Separator,Ayırıcı
+Settings,Ayarlar
+Settings updated,Ayarlar güncellendi.
+Show more,Daha fazla göster
+Sign in,Oturum aç
+Size,Boyut
+Sort by,Sırala
+sorted by,şuna göre sıralandı:
+Table of Contents,İçindekiler
+Templates,Şablonlar
+Text,Metin
+Thesauri,
+Thesaurus saved,Thesaurus kaydedildi
+This action will unselect all the entities.,Bu eylem tüm varlıkların seçimini kaldıracaktır.
+Title,Başlık
+Tools,Araçlar
+Translate,Çevir
+Translations,Çeviriler
+Translations saved,Çeviriler kaydedildi
+Type,Tür
+Update,Güncelle
+Upload documents and create entities,Belgeleri yükleyin ve varlıklar oluşturun
+Uploading,Yükleniyor
+Uploads,Yüklemeler
+User,Kullanıcı
+Username,Kullanıcı adı
+Users,Kullanıcılar
+View,Görüntüle
+View in library,Kitaplıkta görüntüle
+x less,daha az
+x more,daha az
+% of sentences above threshold,eşiğin üzerindeki cümlelerin yüzdesi
+(please keep this key secret and don't share it):,(lütfen bu anahtarı gizli tutun ve paylaşmayın):
+(view page),(sayfaya bak)
+(+) click to select multiple cards,(+) birden fazla fiş seçmek için tıklayın
+- Entity:,- Varlık:
+- Library search:,- Kütüphanede ara:
+- Site page:,- Internet sayfası:
+1. Right-click an image or video on the web and copy the image's URL. Altenatively websites offers share button whereyou can get URL.,"1. Web'deki bir resmi veya videoyu sağ tıklayın ve resmin URL'sini kopyalayın. Alternatif olarak web siteleri, URL'yi alabileceğiniz paylaş düğmesi sunar."
+2. Return here and paste the URL in this field (Ctrl+V or Command+V),2. Buraya dönün ve URL'yi bu alana yapıştırın (Ctrl+V veya Command+V)
+A generated ID will be the default title.,"Oluşturulan kimlik, varsayılan başlık olacaktır."
+Accept,Kabul Et
+Action,Eylem
+Activate this feature for enhanced account security,Gelişmiş hesap güvenliği için bu özelliği etkinleştirin
+Active Languages,Aktif Diller
+Add / remove favorite,Favoriye ekle / Favoriden çıkarı
+Add date,Tarih ekle
+Add entities / documents,Varlık/Döküman ekle
+Add from url,URL'den ekle
+Add from web,WEB'ten ekle
+Add group,Grup ekle
+Add people or groups,Kişi veya grup ekle
+Add resource,Kaynak ekle
+Add supporting file,Destekleyi dosya ekle
+Add to table of contents,İçindekiler tablosuna ekle
+Add users,Kullanıcılar ekle
+Adjacent geolocation properties will render on the same map,Bitişik coğrafi konum özellikleri aynı haritada işlenecek
+Administrators and Editors,Yöneticiler ve Editörler
+"All changes will be lost, are you sure you want to proceed?","Tüm değişiklikler kaybolacak, devam etmek istediğinizden emin misiniz?"
+All entities and documents that have already this property assigned will loose its current value,"Halihazırda bu özelliğe atanmış tüm varlıklar ve belgeler, mevcut değerini kaybedecektir."
+"Always use URLs relative to your site, starting with / and skipping the domain name. Example:","Her zaman sitenize göre URL'ler kullanın, alan adıyla başlamak / ve alan adını atlamak. Örneğin:"
+An error has occured during data export,Veriyi dışa aktarma sırasında bir hata oluştu
+Analytics description,Analitik Açıklama
+Anyone will be able to see them,Herkesin erişimine açık
+Authentication code,Kimlik doğrulama kodu
+Auto-save,Otomatik kaydetme
+Automatic Table of Contents,Otomatik İçindekiler
+Automatically generated,Otomatik olarak oluşturuldu
+Available Languages,Mevcut Diller
+Back to,Geri dön
+Back to search,Aramaya geri dön
+Back to thesauri,Thesauri'ye geri dön
+Back to thesaurus,Thesaurus'a geri dön
+Body,Body
+Browse files to upload,Yüklenecek dosyalara göz atın
+Browse your PDFs to upload,Yüklemek için PDF'lerinize göz atın
+Can edit,Düzenleyebilir
+Can see,Görebilir
+Can view,Görüntüleyebilir
+Cannot use 'any entity or document' if another relationship of the same type is already with a specific entity.,"Belirli bir varlıkla aynı türden başka bir ilişki zaten varsa, 'herhangi bir varlık veya belge' kullanılamaz."
+Captcha,Güvenlik kodu
+Cards,Fişler
+Cards View,Fiş görünümü
+Caution: the selected entities will be,Dikkat: seçilen varlıklar
+Change will take effect after saving the template,Değişiklik şablonu kaydettikten sonra yürürlüğe girecek
+Changing the type will erase all connections to this entity.,"Türün değiştirilmesi, bu varlığa yapılan tüm bağlantıları siler."
+Character support description,Karakter Destek Açıklaması
+Character support process warning,Karakter Destek Süreci Uyarısı
+Character support revert warning,Karakter desteği geri dönme uyarısı
+Check to make this instance private (only logged-in users can access the data),Bu oluşumu özel yapmak için işaretleyin (yalnızca oturum açmış kullanıcılar verilere erişebilir)
+Clear Filters,Filtreleri Temizle
+Clear coordinates,Koordinatları temizle
+Click here,Buraya tıklayın
+Click to fill,Doldurmak için tıklayın
+Close,Kapat
+Collaborator,Katkı Sunan
+Configure suggestions,Önerileri yapılandır
+Configure the default landing page for your site.,Siteniz için varsayılan açılış sayfasını yapılandırın.
+Confirm deletion,Silmeyi onayla
+Confirm publish multiple items,Birden çok öğe yayınlamayı onaylayın
+Congratulations!,Tebrikler!
+Connect to a document,Bir belgeye bağla
+Connect to a paragraph,Bir paragrafa bağla
+Conversion failed,Dönüştürülemedi
+Copy From,Formu Kopyala
+Copy Highlighted,Vurgulananları Kopyala
+Copy link,Bağlantıyı kopyala
+Copy properties to this entity from,Özellikleri şuradan bu varlığa kopyala
+Create,Oluştur
+Create Entity,Varlık oluştur
+Currently connections only need a title.,Şu anda bağlantıların yalnızca bir başlığa ihtiyacı var.
+Custom Uploads,Özel Yüklemeler
+Custom component error,Özel Yüklemeler
+Custom styles,özel stiller
+Data imported,İçe aktarılan veri
+Date modified,Değiştirilme tarihi
+Day,Gün
+Default language,Varsayılan dil
+Default language change success,Varsayılan dil değişikliği başarısı
+Default language description,Varsayılan dil açıklaması
+Default template,Varsayılan şablon
+Delete Group,Grubu Sil
+Delete Property,Özelliği Sil
+Delete User,Kullanıcı Sil
+Description,Tanım
+Discard,Göz ardı et
+Display entity view from page,Sayfadan varlık görünümünü görüntüle
+Document,Belge
+Document Title,Belge Başlığı
+Document contents,Belge içeriği
+Documentation,Dokümantasyon
+Documents for custom filter,Özel filtre için belgeler
+Documents including suggestion:,Öneri içeren belgeler:
+Documents to be reviewed,İncelenecek belgeler
+Download,Özel filtre için belgeler
+Drag and drop file in this window to upload,Yüklemek için dosyayı bu pencerede sürükleyip bırakın
+Drag items here,Öğeleri buraya sürükleyin
+Drag properties here,Özellikleri buraya sürükleyin
+Drop your files here to upload or,Dosyalarınızı yüklemek için buraya bırakın veya
+Duplicated email,Mükerrer e-posta
+Duplicated label,Mükerrer etiket
+Duplicated username,Mükerrer kullanıcı adı
+Edit all documents matching this criteria,Bu kriterlere uyan tüm belgeleri düzenleyin
+Email is required,E-posta gerekli
+Enable this page to be used as an entity view page:,Bu sayfayı varlık görünümü sayfası olarak kullanmak için etkinleştirin:
+Enter the 6-digit verification code generated by your Authenticator app:,"""Authenticator"" uygulamanız tarafından oluşturulan 6 haneli doğrulama kodunu girin:"
+"Entities can be displayed in a custom page. For that, a custom page needs to be created in Pages, and then selected here.",Varlıklar özel bir sayfada görüntülenebilir. Bunun için Sayfalar'da özel bir sayfa oluşturulmalı ve ardından burada seçilmelidir.
+Entity,Varlık
+Entity types,Varlık türü
+Error,Hata
+Examples,Örnekler
+Exploration,Arama
+Export CSV,CSV'yi dışa aktar
+Exporting entities to CSV,Varlıkları CSV'ye dışa aktarma
+Extract information from your documents,Belgelerinizden bilgi ayıklayın
+Favicon is an icon that appears in the browser tab and bookmarks.,"Favicon, tarayıcı sekmesinde ve yer imlerinde görünen bir simgedir."
+File,Dosya
+Fill,Doldur
+Filters configuration description,Filtreler Yapılandırma Açıklaması
+Filters configuration example,Filtreler Yapılandırma Örneği
+Find,Bul
+Fine tune,İnce ayar
+Fit,Yerleştirmek
+"For better performance, upload your documents in batches of 50 or less.",Daha iyi performans için belgelerinizi 50 veya daha az sayıda toplu olarak yükleyin.
+"For better performance, upload your files in batches of 50 or less.",Daha iyi performans için dosyalarınızı 50 veya daha az sayıda toplu olarak yükleyin.
+Forms and email configuration,Formlar ve e-posta yapılandırması
+Full edit mode,Tam düzenleme modu
+General,Genel
+Global CSS,Genel CSS
+Groups,Gruplar
+Here you can set up the contact email and the email that appears when Uwazi sends a notification to a user,Burada iletişim e-postasını ve Uwazi bir kullanıcıya bildirim gönderdiğinde görünen e-postayı ayarlayabilirsiniz.
+Hold shift to rotate the map,"Haritayı döndürmek için ""shift""e basılı tutun"
+"If it is an external URL, use a fully formed URL. Ie. http://www.uwazi.io.","Harici bir URL ise, tam olarak oluşturulmuş bir URL kullanın: http://www.uwazi.io."
+"If it is an internal URL within this website, be sure to delete the first part","Bu web sitesindeki dahili bir URL ise, ilk bölümü sildiğinizden emin olun."
+"If you have added a contact form on one of your pages, this is the email address that receives the information from that form.","Sayfalarınızdan birine bir iletişim formu eklediyseniz, bu formdan bilgileri alan e-posta adresi budur."
+"If you want to continue, please type","Devam etmek istiyorsanız, lütfen yazın"
+Import,İçe aktar
+Import CSV,CSV'yi içe aktar
+Import completed:,İçe aktarma tamamlandı:
+Import instructions,Talimatları içe aktar
+Importing data in progress,İçeri veri aktarma devam etmekte
+Improve the quality of this topic's suggestions by finding more sample documents with this label.,Bu etiketle daha fazla örnek belge bularak bu konudaki önerilerin kalitesini artırın.
+Indexing entities may take a few minutes,Varlıkların diznlenmesi birkaç dakika sürebilir
+Inherit property,Inherit property
+Install the Google Authenticator app on your mobile device,Google Authenticator uygulamasını mobil cihazınıza yükleyin
+Instructions to reset user password have been sent,Kullanıcı parolasını sıfırlama talimatları gönderildi
+Invalid captcha,Geçersiz güvenlik kodu
+Invalid email,Geçersiz e-posta
+Is the suggestion incorrect? Click on 'Reject' and Uwazi will improve on the suggestions it makes,Öneri yanlış mı? 'Reddet' üzerine tıklayın ve Uwazi yaptığı önerileri iyileştirecektir
+It could also very easily break the app. Only write code here if you know exactly what you are doing.,Ayrıca uygulamayı çok kolay bozabilir. Buraya sadece tam olarak ne yaptığınızı biliyorsanız kod yazın.
+Items:,Öğeler:
+Label,Etiket
+Label more documents,Daha fazla belge etiketleyin
+Label your collection note,Koleksiyon notunuzu etiketleyin
+Language deleted,Dil silindi
+Languages,Diller
+Latitude,Enlem
+Learn more,Daha fazla bilgi edin
+Learning...,Öğreniyor...
+Legend,Gösterge
+Longitude,Boylam
+ML TOC,
+Map,Harita
+Maps,Haritalar
+Mark as Reviewed,İncelendi olarak işaretle
+Markdown,Not et
+Members,Üyeler
+Message,Mesaj
+Metadata Extraction,Meta veri özütleme
+Metadata creator,Meta veri oluşturucu
+Metadata extraction dashboard,Meta veri özütleme panosu
+Metadata to extract,Özütlenecek meta veri
+Mixed access,Karma erişim
+Month,Ay
+Multimedia fill description,Multimedya dolgu açıklaması
+Multimedia fit description,Multimedya uyum açıklaması
+Multiple relationships edit description,Çoklu İlişkiler Düzenleme Açıklama
+Name is required,Ad gerekli
+Name is too long,Ad çok uzun
+Name is too short,Ad çok kısa
+Name of the group,Grubun adı
+Narrow down your searches,Aramalarınızı daraltın
+Narrow your search,Aramanızı daraltın
+New language added,Yeni dil eklendi
+New relationships group,Yeni ilişkiler grubu
+Newest,En yeni
+Next,Sonraki
+No Documents found,Belge bulunamadı
+No Table of Contents,İçindekiler Tablosu yok
+No attachments,Ek yok
+No icon / flag,Simge/İşaret yok
+No relationship types warning,Seçilecek en az bir ilişki türünüz olana kadar ilişki alanları eklenemez.
+Normal view,Normal görünüm
+Nothing to see here! The selected documents are not using the selected thesaurus,"Burada görülecek bir şey yok! Seçilen belgeler, seçilen Thesaurus'u kullanmıyor."
+Number of sentences above threshold,Eşiğin üzerindeki cümle sayısı
+Ok,Tamam
+Oldest,En eski
+Only allowed users will be able to see them,Yalnızca izin verilen kullanıcılar bunları görebilir
+Ooops... please go,Ooops... lütfen şuraya gidin
+Oops! We couldn't find the thesaurus you're trying to edit. Try navigating back to this page through Settings.,Oops! Düzenlemeye çalıştığınız Thesaurus'u bulamadık. Ayarlar aracılığıyla bu sayfaya geri dönmeyi deneyin.
+"Open the app and select ""Add Account"" (usually a plus symbol)","Uygulamayı açın ve ""Hesap Ekle""yi seçin (genellikle bir artı sembolüdür)"
+Open the two-factor Authenticator app on your device,Cihazınızda iki faktörlü Kimlik Doğrulayıcı uygulamasını açın
+Or enter this secret key into your Authenticator app,Veya bu gizli anahtarı Authenticator uygulamanıza girin
+PRIMARY DOCUMENTS,BİRİNCİL BELGELER
+Page,Sayfa
+Page Javascript,Sayfa Javascript
+Password is too long,Parola çok uzun
+Passwords don’t match,Parolalar uyuşmuyor
+Permission,İzin
+Permission on entities explicitly shared with the user,Kullanıcıyla açıkça paylaşılan varlıklara ilişkin izin
+Permissions,İzinler
+Plain text,Düz metin
+Please contact an admin for details.,Ayrıntılar için lütfen bir yöneticiyle iletişime geçin.
+Please type in letters and numbers from the image to start the export.,Dışa aktarmayı başlatmak için lütfen resimdeki harfleri ve sayıları girin.
+Precision,Kesinlik
+Press enter to add,Eklemek için enter'a basın
+Preview,Ön izleme
+Previous,Önceki
+Priority sorting,Öncelik sıralaması
+Priority sorting description,
+ProTip!,Uzman İpucu!
+Processing,İşleniyor
+Properties,Özellikler
+Properties from other templates in the collection using the same label,Koleksiyondaki aynı etiketi kullanan diğer şablonlardaki özellikler
+Property as default filter description,Varsayılan filtre açıklaması olarak özellik
+Property as filter description,Filtre Açıklama Olarak Özellik
+Property delete warning,Mülkiyet Sil Uyarısı
+Protect your account,Hesabınızı Koruyun
+Protection,Koruma
+Public form URL description,Genel Form URL Açıklama
+Public form settings description,Genel Form Ayarları Açıklama
+Public form whitelist description,Genel form beyaz liste açıklaması
+Published,Yayınlanan
+Query,Sorgulama
+Quick labeling for,Hızlı etiketleme
+Reject,Reddet
+Remove,Kaldır
+Rename,Yeniden adlandır
+Repeat Password,Parolayı yinele
+Request id #,Kimlik numarası iste #
+Required property,Gerekli özellik
+Reset 2FA,İki Adımlı Doğrulama'yı sıfırla
+Reset Password,Parolayı sıfırla
+Restricted,Kısıtlanmış
+Return to login,Girişe dön
+Return to the thesaurus page when you finished labeling to start learning.,Öğrenmeye başlamak için etiketlemeyi bitirdiğinizde Thesaurus sayfasına dönün.
+Review unpublished document,Yayınlanmamış belgeyi inceleyin
+Reviewed,İncelendi
+Route,Rota
+Sample,Örnek
+Save User,Kullancıyı kaydet
+Save and go to next,Kaydet ve sonrakine git
+Save changes,Değişiklikleri kaydet
+Save document,Belgeyi kaydet
+Save document(s),Belgeyi/Belgeleri kaydet
+Save password,Parolayı kaydet
+"Scan the following QR code selecting the ""scan barcode"" option:","""Barkodu tara"" seçeneğini seçerek aşağıdaki QR kodunu tarayın:"
+Search not found,Arama bulunamadı
+Search tips,Arama ipuçları
+Select all,Hepsini seç
+Select files on your device,Cihazınızdaki dosyaları seçin
+Select from files,Dosyalardan seç
+Select relationship type,İlişki türü seç
+Select supporting file,Destekleyici dosya seç
+Select target paragraph,Hedef paragraf seç
+Select...,Seç...
+Semantic Search,Anlamsal Arama
+Semantic search minimum sentences help,Anlamsal Arama Minimum Cümleler Yardım
+Semantic search overview,Anlamsal Arama Genel Bakış
+Semantic search results,Anlamsal arama sonuçları
+Semantic search threshold help,Anlamsal arama eşiği yardımı
+Send,Gönder
+Sentences above threshold,Eşik üstünde cümle
+Set as default,Varsayılan olarak ayarla
+Set the default starting point for your geolocation properties.,Coğrafi konum özellikleriniz için varsayılan başlangıç noktasını ayarlayın.
+Share,Paylaş
+Share with people and groups,Kişiler ve gruplarla paylaşın
+Shared as editor,Editör olarak paylaş
+Shared as viewer,Görüntüleyici olarak paylaş
+Show Suggestions,Önerileri Göster
+Show cookie policy,Çerez politikasını göster
+Show filters,Filtreleri göster
+Some adavanced search features may not be available for this language.,Bazı gelişmiş arama özellikleri bu dil için kullanılamayabilir.
+Something went wrong,Bir şey ters gitti
+Sort,Sırala
+Strict mode,Sıkı mod
+Style,Stil
+Submit,Gönder
+Submiting,Gönder
+Suggested labels description,Önerilen Etiketler Açıklama
+Suggestions,Öneriler
+Supporting files,Destekleyici belgeler
+Table,Tablo
+Table of Contents,İçindekiler
+Table view,Tablo görünümü
+Template,Şablon
+Text references limit warning,
+The combination of entity types doesn't have any filters in common.,Varlık türlerinin birleşiminde ortak filtre yoktur.
+The current model was trained at,
+"The first step is to label a sample of your documents, so Uwazi can learn which topics to suggest when helping you label your collection.","İlk adım, belgelerinizin bir örneğini etiketlemektir, böylece Uwazi, koleksiyonunuzu etiketlemenize yardımcı olurken hangi konuları önereceğini öğrenebilir."
+The import process threw an error:,İçe aktarma işlemi bir hata verdi:
+The template contains errors,Şablon hatalar içeriyor
+There are no pages enabled for entity view,Varlık görünümü için etkinleştirilmiş sayfa yok
+"There is an unexpected error on this custom page, it may not work properly. Please contact an admin for details.","Bu özel sayfada beklenmeyen bir hata var, düzgün çalışmayabilir. Ayrıntılar için lütfen bir yöneticiyle iletişime geçin."
+This area allows you to append custom Javascript to the page. This opens up a new universe of possibilities.,"Bu alan, sayfaya özel Javascript eklemenizi sağlar. Bu, yeni bir olasılıklar evreni açar."
+This content is automatically generated,Bu içerik otomatik olarak oluşturulur
+"This entity has no document, you probably want to see the metadata","Bu varlığın belgesi yok, muhtemelen meta verileri görmek isteyebilirsiniz"
+This entity is not public.,Bu varlık açık değil.
+This entity is restricted from public view.,Bu varlığın genel görünümü kısıtlanmıştır.
+This option will show a notification about the use of cookies in your instance.,"Bu seçenek, oluşumunuzda çerez kullanımı hakkında bir bildirim gösterecektir."
+This property will appear in the library cards as part of the basic info.,"Bu özellik, temel bilgilerin bir parçası olarak kütüphane fişlerinde görünecektir."
+This property will be inherited from the related entities and shown as metadata of this type of entities.,"Bu özellik, ilgili varlıklardan devralınacak ve bu tür varlıkların meta verileri olarak gösterilecektir."
+This property will be shown using all the width available.,"Bu özellik, mevcut tüm genişlik kullanılarak gösterilecektir."
+This property will be shown without the label.,Bu özellik etiketsiz olarak gösterilecektir.
+This template will be used as default for new entities.,"Bu şablon, yeni varlıklar için varsayılan olarak kullanılacaktır."
+Threshold,Eşik
+Time,Saat
+"To bring you a better experience, this site uses cookies.",Size daha iyi bir deneyim sunmak için bu site çerezleri kullanır.
+"To complete the account creation process, please create a password for your account",Hesap oluşturma işlemini tamamlamak için lütfen hesabınız için bir parola oluşturun
+To get resource from web:,Web'den kaynak almak için:
+Train model,Eğitim modeli
+Try selecting other documents.,Diğer belgeleri seçmeyi deneyin.
+Two-factor verification failed,İki faktörlü doğrulama başarısız oldu
+Two-step verification,İki faktörlü doğrulama
+URL,URL
+Upload PDF,PDF Yükle
+Upload PDF(s) to create,Oluşturmak için PDF(leri) yükleyin
+Upload a ZIP or CSV file.,Bir ZIP veya CSV dosyası yükleyin.
+Upload and select file,Dosya yükle ve seç
+Upload from computer,Bilgisayardan yükle
+Uploading ...,Yükleniyor ...
+Uploading file,Dosya yükleniyor
+Use,Kullan
+Username is required,Kullanıcı adı gerekli
+Username is too long,Kullanıcı adı çok uzun
+Username is too short,Kullanıcı adı çok kısa
+Using Google Authenticator,Google Authenticator Kullanma
+Uwazi UI,Uwazi UI
+Uwazi is developed by,Uwazi tarafından geliştirildi
+"Uwazi is learning using the labelled documents. This may take up to 2 hours, and once completed you can review suggestions made by Uwazi for your collection.",Uwazi etiketli belgeleri kullanarak öğreniyor. Bu işlem 2 saat kadar sürebilir ve tamamlandıktan sonra koleksiyonunuz için Uwazi tarafından yapılan önerileri inceleyebilirsiniz.
+Verify,Doğrula
+Verifying...,Doğrulanıyor...
+View suggestions,Önerileri görüntüle
+Warning: you are editing multiple entities. Fields marked with a,Uyarı: birden çok varlığı düzenliyorsunuz. Şu işaretlenmiş alanlar ile
+"We provide a default key, you can set your own MapTiler API key","Varsayılan bir anahtar sağlıyoruz, kendi MapTiler API anahtarınızı ayarlayabilirsiniz"
+We recommend labeling,Etiketleme öneririz
+Website analytics,Web sitesi analizi
+Welcome to Uwazi,Uwazi'ye hoş geldiniz
+"Well, this is awkward...","Peki, bu garip bir durum..."
+With great power comes great responsibility!,Büyük güç büyük sorumluluk getirir!
+Year,Yıl
+"You can also embed advanced components like maps, charts and entity lists in your page.","Sayfanıza haritalar, çizelgeler ve varlık listeleri gibi gelişmiş bileşenleri de yerleştirebilirsiniz."
+You can also improve the model by providing more labeled documents.,Ayrıca daha fazla etiketli belge sağlayarak modeli iyileştirebilirsiniz.
+"You can configure the email that will appear as the sender when any email is sent to the user. If this email is not set, “no-reply@uwazi.io” will be used instead.","Kullanıcıya herhangi bir e-posta gönderildiğinde gönderen olarak görünecek e-postayı yapılandırabilirsiniz. Bu e-posta ayarlanmazsa, bunun yerine “no-reply@uwazi.io” kullanılacaktır."
+You can create metadata templates in,Meta veri şablonları oluşturabilirsiniz
+You have labeled,Etiketledin
+You have successfully configured two-step verification.,İki adımlı doğrulamayı başarıyla yapılandırdınız.
+You should activate this feature for enhanced account security,Gelişmiş hesap güvenliği için bu özelliği etkinleştirmelisiniz
+You will need to reload the page after updating your Favicon.,Favicon'unuzu güncelledikten sonra sayfayı yeniden yüklemeniz gerekecek.
+You won't be able to save an entity if this property is empty.,Bu özellik boşsa bir varlığı kaydedemezsiniz.
+Your account is protected by 2fa.,Hesabınız iki adımlı doğrulama ile korunmaktadır.
+Zoom in,Yakınlaştır
+Zoom in library view,Kütüphane görünümünü yakınlaştır
+Zoom out,Uzaklaştır
+Zoom out library view,Kütüphane görünümünü uzaklaştır
+add icon,simge ekle
+affects,etkiler
+auto-created,otomatik oluşturulmuş
+created,oluşturuldu
+documents before training (30 per topic).,eğitimden önceki belgeler (konu başına 30).
+documents so far.,şimdiye kadar belgeler.
+documents.,belgeler.
+help,yardım
+https://yourdomain,https://yourdomain
+https://yoursite.com/,https://yoursite.com/
+landing page description,açılış sayfası açıklaması
+leaving only a relative URL starting with a slash character. Ie. /some_url.,yalnızca eğik çizgi karakteriyle başlayan göreli bir URL bırakarak. /some_url.
+library list view,kütüphane listesi görünümü
+library map view,kütüphane harita görünümü
+library table view,kütüphane tablo görünümü
+linked,bağlantılı
+low,düşük
+more options.,daha fazla seçenek.
+or,ya da
+or drop your files here.,veya dosyalarınızı buraya bırakın.
+out of,dışında
+private,özel
+public,açık
+remove icon,simgeyi kaldır
+selected of,arasından seçildi
+shown of,gösterilen
+syntax to create page content,sayfa içeriği oluşturmak için sözdizimi
+to learn more about the components.,bileşenleri hakkında daha fazla bilgi edinmek için.
+to view your authentication code and verify your identity.,kimlik doğrulama kodunuzu görüntülemek ve kimliğinizi doğrulamak için.
+will be updated with the same value.,aynı değerle güncellenecektir.
+with,ile
+OCR,OKT
+Document OCR Trigger,
+Unsupported OCR language,
+OCR PDF,OKT PDF
+In OCR Queue,OCR kuyruğunda
+OCR button tip: This will process the document to recognize it's text. The original file will be added as a supporting file.,"Bu, belgenin metnini tanımak için işleyecektir. Orijinal dosya, destekleyici bir dosya olarak eklenecektir."
+OCR completed,OKT tamamlandı
+"OCR description tip 1: This will enable the Optical Character Recognition (OCR) functionality for PDF documents. This service will recognize text inside images, such as scanned documents and photos, and convert it into machine-readable text data.","Bu, PDF belgeleri için Optik Karakter Tanıma (OKT) işlevini etkinleştirecektir. Bu hizmet, taranan belgeler ve fotoğraflar gibi resimlerin içindeki metinleri tanır ve bunları makine tarafından okunabilir metin verilerine dönüştürür."
+"OCR description tip 2 : When activated, this will enable administrator and editor users to send PDF documents to the OCR service.","Etkinleştirildiğinde, bu, yönetici ve editör kullanıcılarının OKT hizmetine PDF belgeleri göndermesini sağlayacaktır."
+OCR error,OKT hatası
+OCR error tip: The OCR engine couldn't read the document due to a malformed format. Last updated,"OKT motoru, hatalı biçimlendirilmiş bir biçim nedeniyle belgeyi okuyamadı. Son güncelleme"
+Text,Metin
+Numeric,
+Select,
+Multi select,
+Relationship,İlişki
+Date,
+Date range,
+Multi date range,
+Rich Text,
+Link,
+Image,
+Preview,Ön izleme
+Media,
+Geolocation,
+Generated ID,
+Hide Label,Etiketi Gizle
+Show in cards,Fişte göster
