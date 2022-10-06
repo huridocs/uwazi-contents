@@ -347,7 +347,7 @@ Items:,Elementos:
 Label,Etiqueta
 Label more documents,Etiquetar más documentos
 Label your collection note,Etiquetar tus notas de la colección
-Landing page description,"La página de inicio es la primera página que los visitantes ven cuando entran a tu collección. La página de inicio predeterminada es la librería de tu collección. Puedes configurar una página de inicio diferente añadiendo su URL relativa aquí. Por ejemplo:
+Landing page description,"La página de inicio es la primera página que los visitantes ven cuando entran a tu colección. La página de inicio predeterminada es la librería de tu colección. Puedes configurar una página de inicio diferente añadiendo su URL relativa aquí. Por ejemplo:
       
 Una página: */page/dicxg0oagy3xgr7ixef80k9*
 Una vista filtrada en Uwazi: */library/?searchTerm=test*
@@ -437,7 +437,7 @@ Public form whitelist description,"Si deseas incluir formularios públicos en tu
 Published,Publicado
 Query,Consulta
 Quick labeling for,Etiquetado rápido para
-Receiving email description,"Si tienes un formulario de contacto, ésta es la dirección de correo electrónico que recibirá los envíos del formulario."
+Receiving email description,"Si tienes un formulario de contacto, esta es la dirección de correo electrónico que recibirá los envíos del formulario."
 Reject,Rechazar
 Remove,Eliminar
 Rename,Renombrar
