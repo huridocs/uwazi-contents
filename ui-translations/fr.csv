@@ -190,9 +190,6 @@ x more;x en plus
 (please keep this key secret and don't share it):;(Veuillez garder cette clé secrete et ne la partager pas):
 (view page);(voir page)
 (+) click to select multiple cards;(+) cliquez pour sélectionner plusieurs cartes
-- Entity:;- Entité :
-- Library search:;- Recherche dans la bibliothèque :
-- Site page:;- Page du site :
 1. Right-click an image or video on the web and copy the image's URL. Altenatively websites offers share button whereyou can get URL.;1. Faites un clic droit sur une image ou une vidéo sur le Web et copiez l'URL de l'image. En général, les sites Web offrent un bouton de partage qui vous permet d'obtenir l'URL.
 2. Return here and paste the URL in this field (Ctrl+V or Command+V);2. Revenez ici et collez l'URL dans ce champ (Ctrl+V ou Command+V).
 A generated ID will be the default title.;Un identifiant généré sera le titre par défaut.
@@ -215,7 +212,6 @@ Adjacent geolocation properties will render on the same map;Les propriétés de 
 Administrators and Editors;Administrateurs et éditeurs
 All changes will be lost, are you sure you want to proceed?;Tous les changements seront perdus, êtes-vous sûr de vouloir continuer ?
 All entities and documents that have already this property assigned will loose its current value;Toutes les entités et tous les documents auxquels cette propriété a déjà été attribuée perdront leur valeur actuelle.
-Always use URLs relative to your site, starting with / and skipping the domain name. Example:;Utilisez toujours des URL relatives à votre site, c'est à dire un URL débutant par / et ignorant le nom de domaine. Exemple :
 An error has occured during data export;Une erreur s'est produite pendant l'exportation des données
 Analytics description;Description des analyses
 Anyone will be able to see them;Tout le monde pourra les voir
@@ -241,7 +237,7 @@ Cards View;Vue en cartes
 Caution: the selected entities will be;Attention : les entités sélectionnées seront
 Change will take effect after saving the template;Le changement prendra effet après l'enregistrement du modèle
 Changing the type will erase all connections to this entity.;La modification du type effacera toutes les connexions à cette entité.
-Character support description;Description du support de caractères
+Character support description,"This option enhances support for non-Latin languages as the default languages of your collection.
 Character support process warning;Avertissement sur le processus de support des caractères
 Character support revert warning;Avertissement de réversion du support de caractères
 Check to make this instance private (only logged-in users can access the data);Cochez cette case pour rendre cette instance privée (seuls les utilisateurs connectés pourront accéder aux données).
@@ -252,7 +248,6 @@ Click to fill;Cliquez pour remplir
 Close;Fermer
 Collaborator;Collaborateur
 Configure suggestions;Configurer les suggestions
-Configure the default landing page for your site.;Configurez la page d'accueil par défaut de votre site.
 Confirm deletion;Confirmer la suppression
 Confirm publish multiple items;Confirmer la publication de plusieurs éléments
 Congratulations!;Félicitations !
@@ -305,12 +300,16 @@ Entities can be displayed in a custom page. For that, a custom page needs to be 
 Entity;Entité
 Entity types;Types d'entités
 Error;Erreur
-Examples;Exemples
 Exploration;Exploration
 Export CSV;Exporter CSV
 Exporting entities to CSV;Exporter des entités vers CSV
 Extract information from your documents;Extraire des informations de vos documents
-Favicon is an icon that appears in the browser tab and bookmarks.;Favicon est une icône qui apparaît dans l'onglet du navigateur et dans les signets.
+Favicon description,"A favicon is a small icon that represents your collection in browser tabs and bookmarks. The default favicon is the Uwazi logo. To use your own:
+
+1. Upload your icon in Custom Uploads.
+2. Copy its URL.
+3. Choose ""Custom Icon"" and paste the URL in the indicated field.
+4. Reload the page to see your favicon in action."
 File;Fichier
 Fill;Remplir
 Filters configuration description;Description de la configuration des filtres
@@ -329,7 +328,6 @@ Here you can set up the contact email and the email that appears when Uwazi send
 Hold shift to rotate the map;Maintenez shift pour faire pivoter la carte
 If it is an external URL, use a fully formed URL. Ie. http://www.uwazi.io.;Si c'est une URL externe, utilisez une URL complète. Par exemple, http://www.uwazi.io.
 If it is an internal URL within this website, be sure to delete the first part;S'il s'agit d'une URL interne à ce site, assurez-vous de supprimer la première partie.
-If you have added a contact form on one of your pages, this is the email address that receives the information from that form.;Si vous avez ajouté un formulaire de contact sur l'une de vos pages, il s'agit de l'adresse électronique qui reçoit les informations de ce formulaire.
 If you want to continue, please type;Si vous voulez continuer, veuillez taper
 Import;Importer
 Import CSV;Importer CSV
@@ -349,6 +347,15 @@ Items:;Articles :
 Label;Étiquette
 Label more documents;Étiqueter d'autres documents
 Label your collection note;Étiqueter votre note de collecte
+Landing page description,"The landing page is the first page that visitors see when they come to your collection. The default landing page is your collection's library. You can set a different landing page by adding its relative URL here. For example:
+      
+A page: */page/dicxg0oagy3xgr7ixef80k9*
+A filtered view in Uwazi: */library/?searchTerm=test*
+An entity: */entity/9htbkgpkyy7j5rk9*
+A document: */document/4y9i99fadjp833di*
+      
+Important: You must use relative URLs. These start with a forward slash and do not include the domain name. For example: In the address *https://yoursite.com/landingpage*, the relative URL is /landingpage
+      "
 Language deleted;Langue supprimée
 Languages;Langues
 Latitude;Latitude
@@ -424,12 +431,13 @@ Property as filter description;Propriété comme description du filtre
 Property delete warning;Avertissement de suppression de propriété
 Protect your account;Protéger votre compte
 Protection;Protection
-Public form URL description;Description de l'URL du formulaire public
+Public form URL description,"If you have configured a public form and would like a different Uwazi collection to receive the submissions, enter its URL here."
 Public form settings description;Description des paramètres du formulaire public
-Public form whitelist description;Description de la liste blanche des formulaires publics
+Public form whitelist description,"If you wish to include Public Forms on your pages, you must white-list the template IDs for which Public Forms are expected."
 Published;Publié
 Query;Requête
 Quick labeling for;Étiquetage rapide pour
+Receiving email description,"If you have a contact form, this is the email address that will receive the form's submissions."
 Reject;Rejeter
 Remove;Supprimer
 Rename;Renommer
@@ -467,6 +475,7 @@ Semantic search overview;Aperçu de la recherche sémantique
 Semantic search results;Résultats de la recherche sémantique
 Semantic search threshold help;Aide sur les seuils de recherche sémantique
 Send;Envoyer
+Sending email description,This is the email address that will appear as the sender when an email is sent from your Uwazi collection to registered users. The default address is *no-reply@uwazi.io*. You can set a custom one by including your desired email address here.
 Sentences above threshold;Phrases au-dessus du seuil
 Set as default;Définir par défaut
 Set the default starting point for your geolocation properties.;Définissez le point de départ par défaut pour vos propriétés de géolocalisation.
@@ -548,12 +557,10 @@ With great power comes great responsibility!;De grands pouvoirs impliquent de gr
 Year;Année
 You can also embed advanced components like maps, charts and entity lists in your page.;Vous pouvez également intégrer des composants avancés tels que des cartes, des graphiques et des listes d'entités dans votre page.
 You can also improve the model by providing more labeled documents.;Vous pouvez également améliorer le modèle en fournissant davantage de documents étiquetés.
-You can configure the email that will appear as the sender when any email is sent to the user. If this email is not set, “no-reply@uwazi.io” will be used instead.;"Vous pouvez configurer l'email qui apparaîtra comme expéditeur lors de l'envoi d'un email à l'utilisateur. Si cet email n'est pas défini, ""no-reply@uwazi.io"" sera utilisé à la place."
 You can create metadata templates in;Vous pouvez créer des modèles de métadonnées dans
 You have labeled;Vous avez étiqueté
 You have successfully configured two-step verification.;Vous avez configuré avec succès la vérification en deux étapes.
 You should activate this feature for enhanced account security;Vous devriez activer cette fonction pour renforcer la sécurité du compte
-You will need to reload the page after updating your Favicon.;Vous devrez recharger la page après avoir mis à jour votre Favicon.
 You won't be able to save an entity if this property is empty.;Vous ne serez pas en mesure d'enregistrer une entité si cette propriété est vide.
 Your account is protected by 2fa.;Votre compte est protégé par 2fa.
 Zoom in;Zoom avant
@@ -569,7 +576,6 @@ documents so far.;documents jusqu'à présent.
 documents.;Documents.
 help;Aide
 https://yourdomain;https://votredomaine
-https://yoursite.com/;https://yoursite.com
 landing page description;Description de la page d'Acueuil
 leaving only a relative URL starting with a slash character. Ie. /some_url.;Ne laisser qu'une URL relative c'est à dire commençant par un caractère slash. Exemple: /test_url.
 library list view;Bilbliothèque en vue par liste

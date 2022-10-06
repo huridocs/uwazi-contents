@@ -80,7 +80,7 @@ Info,Información
 Invalid form,Formulario no válido
 "Label date ""From""",De:
 "Label date ""to""",A:
-Landing page,Página de destino
+Landing page,Página de inicio
 Language,Idioma
 Least recently,Menos reciente
 Library,Colección
@@ -190,10 +190,7 @@ x more,x más
 (please keep this key secret and don't share it):,"Por favor, mantén tu contraseña secreta y no la compartas"
 (view page),(ver página)
 (+) click to select multiple cards,(+) Haz click para seleccionar varias tarjetas
-- Entity:,- Entidad:
-- Library search:,- Búsqueda en biblioteca 
-- Site page:,- Página
-1. Right-click an image or video on the web and copy the image's URL. Altenatively websites offers share button whereyou can get URL.,1. Haz click derecho en una imagen o video en la página y copia el URL de la imagen. A veces las páginas web cuentan con un botón de compartir donde puedes obtener la URL: 
+1. Right-click an image or video on the web and copy the image's URL. Altenatively websites offers share button whereyou can get URL.,"1. Haz click derecho en una imagen o video en la página y copia el URL de la imagen. A veces las páginas web cuentan con un botón de compartir donde puedes obtener la URL: "
 2. Return here and paste the URL in this field (Ctrl+V or Command+V),2. Vuelve aquí y copia la URL en este campo (Ctrl+V o Command+V)
 A generated ID will be the default title.,El ID autogenerado será el título por defecto
 Accept,Aceptar
@@ -203,19 +200,18 @@ Active Languages,Idiomas activos
 Add / remove favorite,Añadir / eliminar favorito
 Add date,Añadir fecha
 Add entities / documents,Añadir entidades / documentos
-Add from url,Añadir desde URL 
+Add from url,"Añadir desde URL "
 Add from web,Añadir desde la web
 Add group,Añadir grupo
 Add people or groups,Añadir personas o grupos
 Add resource,Añadir recurso
-Add supporting file,Añadir archivo adicional 
+Add supporting file,"Añadir archivo adicional "
 Add to table of contents,Añadir a la tabla de contenidos
 Add users,Añadir usuarios
 Adjacent geolocation properties will render on the same map,El mapa presentará las propiedades de cada entidad al señalarla
 Administrators and Editors,Administradores y Editores.
 "All changes will be lost, are you sure you want to proceed?","Se perderán todos los cambios, ¿estás seguro de que quieres continuar?"
 All entities and documents that have already this property assigned will loose its current value,Todas las entidades y documentos que ya tienen esta propiedad asignada perderán su valor actual
-"Always use URLs relative to your site, starting with / and skipping the domain name. Example:","Utiliza siempre las URLs relativas del sitio, empezando con ""/"" y omitiendo el nombre del dominio. Ejemplo: "
 An error has occured during data export,Se ha producido un error durante la exportación de datos.
 Analytics description,Descripción de análisis
 Anyone will be able to see them,Cualquier persona podrá visualizar
@@ -240,10 +236,10 @@ Cards,Tarjetas
 Cards View,Vista de tarjetas
 Caution: the selected entities will be,AVISO: Las entidades seleccionadas serán
 Change will take effect after saving the template,El cambio se realizará después de guardar la plantilla.
-Changing the type will erase all connections to this entity.,Cambiar el tipo eliminará las conexiones a esta entidad. 
-Character support description,Descripción del soporte de caracteres
+Changing the type will erase all connections to this entity.,"Cambiar el tipo eliminará las conexiones a esta entidad. "
+Character support description,Esta opción mejora la compatibilidad con idiomas no latinos como idiomas predeterminados de su colección.
 Character support process warning,Aviso del proceso de soporte de caracteres
-Character support revert warning,Aviso: Soporte de caracteres revertido 
+Character support revert warning,"Aviso: Soporte de caracteres revertido "
 Check to make this instance private (only logged-in users can access the data),Seleccione para que la instancia sea privada (sólo usuarios conectados pueden acceder a la información)
 Clear Filters,Limpiar filtros
 Clear coordinates,Limpiar coordenadas
@@ -252,14 +248,13 @@ Click to fill,Click para completar
 Close,Cerrar
 Collaborator,Colaboradora
 Configure suggestions,Configurar sugerencias
-Configure the default landing page for your site.,Configura la página de destino predeterminada para su sitio. 
 Confirm deletion,Confirmar la eliminación
-Confirm publish multiple items,Confirmar la publicación de varios elementos 
+Confirm publish multiple items,"Confirmar la publicación de varios elementos "
 Congratulations!,¡Felicidades!
 Connect to a document,Conectar a un documento
 Connect to a paragraph,Conectar a un párrafo
 Conversion failed,La conversión ha fallado
-Copy From,Copiar desde 
+Copy From,"Copiar desde "
 Copy Highlighted,Copiar lo resaltado
 Copy link,Copiar enlace
 Copy properties to this entity from,Copiar las propiedades a esta entidad dede
@@ -267,8 +262,8 @@ Create,Crear
 Create Entity,Crear entidad
 Currently connections only need a title.,Actualmente las conexiones sólo necesitan un título.
 Custom Uploads,Subidas personalizadas
-Custom component error,Error de componente personalizado 
-Custom styles,Estilos personalizados 
+Custom component error,"Error de componente personalizado "
+Custom styles,"Estilos personalizados "
 Data imported,Datos importados
 Date modified,Fecha de la modificación
 Day,Día
@@ -287,7 +282,7 @@ Document Title,Título del documento
 Document contents,Contenidos del documento
 Documentation,Documentación
 Documents for custom filter,Documentos para filtro personalizado
-Documents including suggestion:,Documentos que incluyen sugerencias: 
+Documents including suggestion:,"Documentos que incluyen sugerencias: "
 Documents to be reviewed,Documentos a revisar
 Download,Descargar
 Drag and drop file in this window to upload,Arrastrar y soltar el archivo en esta ventana para subir.
@@ -297,20 +292,24 @@ Drop your files here to upload or,Suelta los archivos aquí para cargar o
 Duplicated email,Correo electrónico duplicado
 Duplicated label,Etiqueta duplicada
 Duplicated username,Nombre de usuario duplicado
-Edit all documents matching this criteria,Editar todos los documentos que coinciden con este criterio 
+Edit all documents matching this criteria,"Editar todos los documentos que coinciden con este criterio "
 Email is required,La dirección de correo electrónico es obligatorio
 Enable this page to be used as an entity view page:,Habilitar a esta página para que se use como página de vista de entidad:
-Enter the 6-digit verification code generated by your Authenticator app:,Ingrese el código de verificación de 6 dígitos generado por su aplicación de autenticación 
+Enter the 6-digit verification code generated by your Authenticator app:,"Ingrese el código de verificación de 6 dígitos generado por su aplicación de autenticación "
 "Entities can be displayed in a custom page. For that, a custom page needs to be created in Pages, and then selected here.","Las entidades se pueden mostrar en una página personalizada. Para eso, una página personalizada debe crearse en Páginas y luego seleccionarse aquí."
 Entity,Entidad
 Entity types,Tipos de entidades
 Error,Error
-Examples,Ejemplos
 Exploration,Exploración
 Export CSV,Exportar CSV
 Exporting entities to CSV,Exportando entidades a CSV
 Extract information from your documents,Extraer información de sus documentos
-Favicon is an icon that appears in the browser tab and bookmarks.,Favicon es un icono que aparece en la pestaña del navegador y en los marcadores. 
+Favicon description,"Un favicon es un pequeño ícono que representa a tu colección en las pestañas y marcadores del navegador. El favicon predeterminado es el logo de Uwazi. Para usar el tuyo:
+
+1. Sube tu ícono en Subidas personalizadas.
+2. Copia su URL.
+3. Activa ""Definir favicon"" y pega el URL en el campo indicado.
+4. Recarga la página para ver tu favicon en acción."
 File,Expediente
 Fill,Rellenar/completar
 Filters configuration description,Descripción de la configuración de filtros
@@ -329,7 +328,6 @@ Here you can set up the contact email and the email that appears when Uwazi send
 Hold shift to rotate the map,"Presiona ""Shift"" para girar el mapa"
 "If it is an external URL, use a fully formed URL. Ie. http://www.uwazi.io.","Si utilizas una URL externa, utiliza una dirección completa. Ejemplo: http://www.uwazi.io."
 "If it is an internal URL within this website, be sure to delete the first part","Si utilizas una URL interna de este sitio web, asegúrate de eliminar la primera parte."
-"If you have added a contact form on one of your pages, this is the email address that receives the information from that form.","Si has agregado un formulario de contacto en una de las páginas, este es el correo electrónico que recibe la información del formulario."
 "If you want to continue, please type","Si quieres continuar, por favor escribe"
 Import,Importar
 Import CSV,Importar CSV
@@ -349,6 +347,15 @@ Items:,Elementos:
 Label,Etiqueta
 Label more documents,Etiquetar más documentos
 Label your collection note,Etiquetar tus notas de la colección
+Landing page description,"La página de inicio es la primera página que los visitantes ven cuando entran a tu collección. La página de inicio predeterminada es la librería de tu collección. Puedes configurar una página de inicio diferente añadiendo su URL relativa aquí. Por ejemplo:
+      
+Una página: */page/dicxg0oagy3xgr7ixef80k9*
+Una vista filtrada en Uwazi: */library/?searchTerm=test*
+Una entidad: */entity/9htbkgpkyy7j5rk9*
+Un documento: */document/4y9i99fadjp833di*
+      
+Importante: Debes usar URLs relativos. Estos empiezan con / y no incluyen el nombre del dominio. Por ejemplo: En la dirección *https://yoursite.com/landingpage*, el URL relativo es /landingpage
+      "
 Language deleted,Idioma eliminado
 Languages,Idiomas
 Latitude,Latitud
@@ -424,12 +431,13 @@ Property as filter description,Propiedad como descripción de filtro
 Property delete warning,Advertencia: Eliminar la propiedad
 Protect your account,Protege tu cuenta
 Protection,Protección
-Public form URL description,Descripción de la URL del formulario público
+Public form URL description,"Si has configurado un formulario público y deseas que una colección diferente de Uwazi reciba los envíos, ingresa su URL aquí."
 Public form settings description,Descripción de la configuración del formulario público
-Public form whitelist description,Descripción de la lista de formularios públicos permitidos
+Public form whitelist description,"Si deseas incluir formularios públicos en tus páginas, debes incluir en la lista blanca los identificadores de las plantillas para los que se esperan formularios públicos"
 Published,Publicado
 Query,Consulta
 Quick labeling for,Etiquetado rápido para
+Receiving email description,"Si tienes un formulario de contacto, ésta es la dirección de correo electrónico que recibirá los envíos del formulario."
 Reject,Rechazar
 Remove,Eliminar
 Rename,Renombrar
@@ -458,107 +466,106 @@ Select all,Seleccionar todo
 Select files on your device,Seleccionar archivos de tu dispositivo
 Select from files,Seleccionar archivos
 Select relationship type,Seleccionar tipo de relación
-Select supporting file,Seleccionar archivo 
+Select supporting file,"Seleccionar archivo "
 Select target paragraph,Seleccionar párrafo de destino
 Select...,Seleccionar
 Semantic Search,Búsqueda semántica
 Semantic search minimum sentences help,Ayuda para la búsqueda semántica con un número mínimo de frases
-Semantic search overview,Búsqueda semántica general 
-Semantic search results,Resultados de búsqueda semántica 
-Semantic search threshold help,Ayuda para límite de búsqueda semántica 
+Semantic search overview,"Búsqueda semántica general "
+Semantic search results,"Resultados de búsqueda semántica "
+Semantic search threshold help,"Ayuda para límite de búsqueda semántica "
 Send,Enviar
+Sending email description,Esta es la dirección de correo electrónico que aparecerá como remitente cuando un correo electrónico es enviado desde tu colección Uwazi a usuarios registrados. La dirección predeterminada es *no-reply@uwazi.io*. Puedes configurar una dirección de correo electrónico personalizada aquí.
 Sentences above threshold,Palabras por encima del límite
-Set as default,Configuración inicial 
+Set as default,"Configuración inicial "
 Set the default starting point for your geolocation properties.,Configurar el punto de inicio para la geolocalización
 Share,Compartir
 Share with people and groups,Compartir con personas o grupos
 Shared as editor,Compartido como editor
 Shared as viewer,Compartido como observador
 Show Suggestions,Mostrar sugerencias
-Show cookie policy,Mostrar política de cookies 
+Show cookie policy,"Mostrar política de cookies "
 Show filters,Mostrar filtros
 Some adavanced search features may not be available for this language.,Es posible que algunas funcionales de búsqueda avanzadas no estén disponibles para este lenguaje.
 Something went wrong,Algo salió mal
 Sort,Clasificar
 Strict mode,Modo estricto
 Style,Estilo
-Submit,Enviar 
+Submit,"Enviar "
 Submiting,Enviando
-Suggested labels description,Descripción sugerida para las etiquetas 
+Suggested labels description,"Descripción sugerida para las etiquetas "
 Suggestions,Sugerencias
 Supporting files,Archivos de soporte
-Table,Tabla 
+Table,"Tabla "
 Table of Contents,Tabla de Contenidos
-Table view,Vista de Tabla 
+Table view,"Vista de Tabla "
 Template,Plantilla
 Text references limit warning,Advertencia de límite en referencias de texto
 The combination of entity types doesn't have any filters in common.,La combinación de tipos de entidades no tiene filtros en común.
-The current model was trained at,El modelo de datos actual fue entrenado en 
+The current model was trained at,"El modelo de datos actual fue entrenado en "
 "The first step is to label a sample of your documents, so Uwazi can learn which topics to suggest when helping you label your collection.","El primer paso es etiquetar una muestra de tus documentos, para que Uwazi pueda aprender los temas a sugerir al momento de etiquetar una colección."
-The import process threw an error:,El proceso de importanción tiene un error. 
-The template contains errors,La plantilla contiene errores. 
+The import process threw an error:,"El proceso de importanción tiene un error. "
+The template contains errors,"La plantilla contiene errores. "
 There are no pages enabled for entity view,No hay páginas habilitadas para la vista de entidad
 "There is an unexpected error on this custom page, it may not work properly. Please contact an admin for details.","Hay un error inesperado en esta página personalizada, es posible que no funcione correctamente. Ponte en contacto con un administrador para más detalles."
-This area allows you to append custom Javascript to the page. This opens up a new universe of possibilities.,Esta área permite Añadir Javascript para personalziar la página. Esto abre un nuevo universo de posibilidades. 
+This area allows you to append custom Javascript to the page. This opens up a new universe of possibilities.,"Esta área permite Añadir Javascript para personalziar la página. Esto abre un nuevo universo de posibilidades. "
 This content is automatically generated,Este contenido se genera automáticamente.
 "This entity has no document, you probably want to see the metadata","Esta entidad no tiene ningún documento, es probable que quieras ver los metadatos."
-This entity is not public.,Esta entidad no es pública. 
-This entity is restricted from public view.,Esta entidad está restringida de la vista pública. 
-This option will show a notification about the use of cookies in your instance.,Esta opción mostrará una notificación sobre el uso de cookies en la instancia. 
+This entity is not public.,"Esta entidad no es pública. "
+This entity is restricted from public view.,"Esta entidad está restringida de la vista pública. "
+This option will show a notification about the use of cookies in your instance.,"Esta opción mostrará una notificación sobre el uso de cookies en la instancia. "
 This property will appear in the library cards as part of the basic info.,Esta propiedad aparecerá en las tarjetas de la biblioteca como parte de la información básica.
 This property will be inherited from the related entities and shown as metadata of this type of entities.,Esta propiedad será heredada desde las entidades relacionadas y se mostrará como metadata de este tipo de entidad.
-This property will be shown using all the width available.,Esta propiedad se mostrará utilizando todo el espacio disponible. 
-This property will be shown without the label.,Esta propiedad se mostrará sin su etiqueta. 
+This property will be shown using all the width available.,"Esta propiedad se mostrará utilizando todo el espacio disponible. "
+This property will be shown without the label.,"Esta propiedad se mostrará sin su etiqueta. "
 This template will be used as default for new entities.,Esta plantilla se utilizará como predeterminada para nuevas entidades
 Threshold,Límite
 Time,Tiempo
 "To bring you a better experience, this site uses cookies.","Para una mejor experiencia de usuario, este sitio utiliza cookies. "
 "To complete the account creation process, please create a password for your account","Para completar este proceso de creación de cuenta, por favor crea una contraseña."
-To get resource from web:,Para obtener recursos de la web. 
+To get resource from web:,"Para obtener recursos de la web. "
 Train model,Entrenar al modelo
 Try selecting other documents.,Por favor intenta seleccionar otros documentos.
-Two-factor verification failed,Fallo en la verificación de dos factores. 
-Two-step verification,Verificación de dos pasos. 
+Two-factor verification failed,"Fallo en la verificación de dos factores. "
+Two-step verification,"Verificación de dos pasos. "
 URL,URL
 Upload PDF,Subir PDF
 Upload PDF(s) to create,Subir PDFs
-Upload a ZIP or CSV file.,Subir un archivo ZIP o CSV. 
+Upload a ZIP or CSV file.,"Subir un archivo ZIP o CSV. "
 Upload and select file,Sube y selecciona un archivo
 Upload from computer,Subir desde la computadora
 Uploading ...,Subiendo...
-Uploading file,Subiendo archivo 
+Uploading file,"Subiendo archivo "
 Use,Usar
 Username is required,Se requiere nombre de usuario
 Username is too long,El nombre de usuario es demasiado largo
 Username is too short,El nombre de usuario es demasiado corto
 Using Google Authenticator,Usando Google Authenticator
 Uwazi UI,Uwazi UI
-Uwazi is developed by,Uwazi es desarrollado por 
+Uwazi is developed by,"Uwazi es desarrollado por "
 "Uwazi is learning using the labelled documents. This may take up to 2 hours, and once completed you can review suggestions made by Uwazi for your collection.","Uwazi está aprendiendo a utilizar documentos con etiquetas. Este proceso puede tomar hasta 2 horas y una vez completo, podrás revisar las sugerencias realizadas por Uwazi para tu colección."
 Verify,Verificar
-Verifying...,Verificando 
-View suggestions,Ver sugerencias 
+Verifying...,"Verificando "
+View suggestions,"Ver sugerencias "
 Warning: you are editing multiple entities. Fields marked with a,ADVERTENCIA: Estás editando mútiples entidades. Campos marcados con un
 "We provide a default key, you can set your own MapTiler API key","Ofrecemos una clave predeterminada, puedes configurar tu propia clave API de MapTiler"
 We recommend labeling,Recomendamos etiquetar
-Website analytics,Estadísticas del sitio web 
+Website analytics,"Estadísticas del sitio web "
 Welcome to Uwazi,Bienvenido a Uwazi
 "Well, this is awkward...","Bueno, esto es incómodo..."
 With great power comes great responsibility!,"¡Con un gran poder, viene una gran responsabilidad!"
 Year,Año
 "You can also embed advanced components like maps, charts and entity lists in your page.","Puedes incrustar componentes avanzados como mapas, gráficos y listas de entidades en tu página. "
 You can also improve the model by providing more labeled documents.,Puedes mejorar el modelo proporcionando más documentos con etiquetas.
-"You can configure the email that will appear as the sender when any email is sent to the user. If this email is not set, “no-reply@uwazi.io” will be used instead.","Puedes configurar el correo electrónico que aparecerá como remitente al enviar un mensaje al usuario. Si este correo no está configurado, en su lugar se utilizará ""no-reply@uwazi.io""."
 You can create metadata templates in,Puedes crear plantillas de metadatos en
-You have labeled,Has etiquetado 
+You have labeled,"Has etiquetado "
 You have successfully configured two-step verification.,Has configurado con éxito la verificación de dos pasos.
-You should activate this feature for enhanced account security,Activa esta función para mejorar la seguridad de la cuenta. 
-You will need to reload the page after updating your Favicon.,Vuelva a cargar la página después de actualizar el logo. 
-You won't be able to save an entity if this property is empty.,No podrás guardar una entidad si esta propiedad está vacía. 
+You should activate this feature for enhanced account security,"Activa esta función para mejorar la seguridad de la cuenta. "
+You won't be able to save an entity if this property is empty.,"No podrás guardar una entidad si esta propiedad está vacía. "
 Your account is protected by 2fa.,Tu cuenta está protegida por 2FA.
 Zoom in,Aumentar zoom
 Zoom in library view,Aumentar zoom en la colección
-Zoom out,Reducir zoom 
+Zoom out,"Reducir zoom "
 Zoom out library view,Reducir zoom en la colección
 add icon,Añadir ícono
 affects,afecta
@@ -569,7 +576,6 @@ documents so far.,documentos hasta el momento.
 documents.,documentos .
 help,ayuda
 https://yourdomain,https://tudominio
-https://yoursite.com/,https://tusitio.com
 landing page description,Descripción de la página web
 leaving only a relative URL starting with a slash character. Ie. /some_url.,Dejando solo una URL relativa comenzando con un carácter de pleca. Es decir: /some_url
 library list view,vista de lista de la colección
@@ -577,20 +583,20 @@ library map view,vista de mapa de la colección
 library table view,vista de tabla de la colección
 linked,vinculado
 low,bajo
-more options.,más opciones. 
+more options.,"más opciones. "
 or,o
-or drop your files here.,o deposita tus archivos aquí 
-out of,fuera de 
-private,privado 
-public,público 
-remove icon,eliminar ícono 
-selected of,seleccionar de 
-shown of,mostrar de 
-syntax to create page content,sintaxis para crear el contenido de la página. 
+or drop your files here.,"o deposita tus archivos aquí "
+out of,"fuera de "
+private,"privado "
+public,"público "
+remove icon,"eliminar ícono "
+selected of,"seleccionar de "
+shown of,"mostrar de "
+syntax to create page content,"sintaxis para crear el contenido de la página. "
 to learn more about the components.,para aprender más sobre los componentes.
-to view your authentication code and verify your identity.,para ver el código de autenticación y verificar tu identidad. 
-will be updated with the same value.,se actualizará con el mismo valor 
-with,con 
+to view your authentication code and verify your identity.,"para ver el código de autenticación y verificar tu identidad. "
+will be updated with the same value.,"se actualizará con el mismo valor "
+with,"con "
 OCR,ROC
 Document OCR Trigger,Activar ROC para el Documento
 Unsupported OCR language,Idioma no soportado para ROC

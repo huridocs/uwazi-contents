@@ -190,9 +190,6 @@ x more,เพิ่มขนาดขึ้น
 (please keep this key secret and don't share it):,โปรดเก็บรหัสลับนี้และอย่าเปิดเผยให้ผู้อื่นรู้
 (view page),(ดูหน้า)
 (+) click to select multiple cards,(+) คลิกเพื่อเลือกการ์ดหลายใบ
-- Entity:,รายการ
-- Library search:,ค้นหาไลบรารี
-- Site page:,- หน้าเว็บไซต์:
 1. Right-click an image or video on the web and copy the image's URL. Altenatively websites offers share button whereyou can get URL.,คลิกขวาที่รูปภาพหรือวีดีโอบนเว็บและคัดลอก URL ของรูปภาพและเว็บไซต์ นักจากนี้เว็บไซต์ยังมีปุ่มแชร์ เมื่อคุณกดปุ่มนี้คุณจะได้ URL
 2. Return here and paste the URL in this field (Ctrl+V or Command+V),เมื่อได้ URL แล้วให้เอา URL มาใส่ในช่องนี้ (กด CTRL + V หรือ Command + V)
 A generated ID will be the default title.,ID ที่สร้างขึ้นจะเป็นชื่อเริ่มต้น
@@ -215,7 +212,6 @@ Adjacent geolocation properties will render on the same map,คุณสมบ�
 Administrators and Editors,ผู้ดูแลระบบและผู้แก้ไขข้อมูล
 "All changes will be lost, are you sure you want to proceed?",การเปลี่ยนแปลงทั้งหมดจะหายไปคุณแน่ใจหรือว่าต้องการดำเนินการต่อ?
 All entities and documents that have already this property assigned will loose its current value,รายการและเอกสารทั้งหมดที่ถูกกำหนดคุณสมบัติจะสูญเสียค่าปัจจุบัน
-"Always use URLs relative to your site, starting with / and skipping the domain name. Example:",ใช้ URL ที่มาจากเว็บไซต์ของคุณเสมอโดยเริ่มต้นด้วย / และไม่ต้องใส่ชื่อโดเมน ตัวอย่าง:
 An error has occured during data export,เกิดข้อผิดพลาดระหว่างการส่งออกข้อมูล
 Analytics description,คำอธิบายการวิเคราะห์
 Anyone will be able to see them,เปิดการมองเห็นสาธารณะ
@@ -241,7 +237,7 @@ Cards View,มุมมองการ์ด
 Caution: the selected entities will be,คำเตือน: รายการที่ถูกเลือกคือ
 Change will take effect after saving the template,การเปลี่ยนแปลงจะมีผลหลังจากบันทึกเทมเพลต
 Changing the type will erase all connections to this entity.,การเปลี่ยนประเภทจะลบความสัมพันธ์ทั้งหมดของรายการนี้
-Character support description,คำอธิบาย ตัวอักษรที่สามารถใช้ได้
+Character support description,"This option enhances support for non-Latin languages as the default languages of your collection.
 Character support process warning,คำเตือน การเปลี่ยนตัวอักษรที่สามารถใช้ได้
 Character support revert warning,คำเตือน การยกเลิกตัวอักษรที่สามารถใช้ได้
 Check to make this instance private (only logged-in users can access the data),กดเลือกเพื่อทำให้รายการนี้ถูกตั้งค่าความเป็นส่วนตัว (เฉพาะผู้ใช้ที่เข้าสู่ระบบแล้วถึงจะสามารถเข้าถึงข้อมูลได้)
@@ -252,7 +248,6 @@ Click to fill,คลิกเพื่อใส่ค่า
 Close,ปิด
 Collaborator,ผู้ประสานงาน
 Configure suggestions,คำแนะนำการตั้งค่า
-Configure the default landing page for your site.,เปลี่ยนหน้าแลนดิ้งเพจสำหรับเว็บไซต์ของคุณ
 Confirm deletion,ยืนยันการลบ
 Confirm publish multiple items,ยืนยันเผยแพร่หลายรายการ
 Congratulations!,ยินดีด้วย!
@@ -305,12 +300,16 @@ Enter the 6-digit verification code generated by your Authenticator app:,ป้�
 Entity,รายการ
 Entity types,ประเภทรายการ
 Error,ข้อผิดพลาด
-Examples,ตัวอย่าง
 Exploration,ค้นหา
 Export CSV,โหลดเป็น CSV
 Exporting entities to CSV,โหลดรายการเป็น CSV
 Extract information from your documents,ดึงข้อมูลออกมาจากเอกสารของคุณ
-Favicon is an icon that appears in the browser tab and bookmarks.,Favicon เป็นไอคอนที่ปรากฏในแท็บเบราว์เซอร์และบุ๊กมาร์ก
+Favicon description,"A favicon is a small icon that represents your collection in browser tabs and bookmarks. The default favicon is the Uwazi logo. To use your own:
+
+1. Upload your icon in Custom Uploads.
+2. Copy its URL.
+3. Choose ""Custom Icon"" and paste the URL in the indicated field.
+4. Reload the page to see your favicon in action."
 File,ไฟล์
 Fill,ใส่ค่า
 Filters configuration description,คำอธิบายการกำหนดค่าตัวกรอง
@@ -329,7 +328,6 @@ Here you can set up the contact email and the email that appears when Uwazi send
 Hold shift to rotate the map,กดปุ่ม shift เพื่อหมุนแผนที่
 "If it is an external URL, use a fully formed URL. Ie. http://www.uwazi.io.",หากเป็น URL จากภายนอก กรุณาใช้ URL แบบเต็มเช่น http://www.uwazi.io
 "If it is an internal URL within this website, be sure to delete the first part",หากเป็น URL ภายใน กรุณาลบ URL ส่วนแรก
-"If you have added a contact form on one of your pages, this is the email address that receives the information from that form.",หากคุณได้เพิ่มแบบฟอร์มการติดต่อบนหน้าของคุณ ข้อมูลจะถูกส่งมายังอีเมลนี้
 "If you want to continue, please type",ถ้าคุณต้องการดำเนินการต่อ กรุณาพิมพ์
 Import,นำเข้า
 Import CSV,นำเข้า CSV
@@ -349,6 +347,15 @@ Items:,รายการ:
 Label,ประเภท
 Label more documents,กำหนดประเภทเอกสารเพิ่มเติม
 Label your collection note,กำหนดประเภทการจัดกลุ่มของคุณ
+Landing page description,"The landing page is the first page that visitors see when they come to your collection. The default landing page is your collection's library. You can set a different landing page by adding its relative URL here. For example:
+      
+A page: */page/dicxg0oagy3xgr7ixef80k9*
+A filtered view in Uwazi: */library/?searchTerm=test*
+An entity: */entity/9htbkgpkyy7j5rk9*
+A document: */document/4y9i99fadjp833di*
+      
+Important: You must use relative URLs. These start with a forward slash and do not include the domain name. For example: In the address *https://yoursite.com/landingpage*, the relative URL is /landingpage
+      "
 Language deleted,ลบภาษาแล้ว
 Languages,ภาษา
 Latitude,พิกัดละติจูด
@@ -424,12 +431,13 @@ Property as filter description,คำอธิบายคุณสมบัต�
 Property delete warning,คำเตือนเกี่ยวกับการลบคุณสมบัติ
 Protect your account,ปกป้องบัญชีของคุณ
 Protection,การป้องกัน
-Public form URL description,คำอธิบายเกี่ยวกับ URL สำหรับแบบฟอร์มสาธารณะ
+Public form URL description,"If you have configured a public form and would like a different Uwazi collection to receive the submissions, enter its URL here."
 Public form settings description,คำอธิบายเกี่ยวกับการตั้งค่าแบบฟอร์มสาธารณะ
-Public form whitelist description,คำอธิบายเกี่ยวกับลิสต์ที่ถูกอนุญาติสำหรับแบบฟอร์มสาธารณะ
+Public form whitelist description,"If you wish to include Public Forms on your pages, you must white-list the template IDs for which Public Forms are expected."
 Published,ตีพิมพ์แล้ว
 Query,สืบค้น
 Quick labeling for,จัดประเภททันที
+Receiving email description,"If you have a contact form, this is the email address that will receive the form's submissions."
 Reject,ปฏิเสธ
 Remove,ลบ
 Rename,เปลี่ยนชื่อ
@@ -467,6 +475,7 @@ Semantic search overview,ภาพรวมเกี่ยวกับการ�
 Semantic search results,ผลการค้นหาความหมาย
 Semantic search threshold help,ความช่วยเหลือเกี่ยวกับเกณฑ์การค้นหาความหมาย
 Send,ส่ง
+Sending email description,This is the email address that will appear as the sender when an email is sent from your Uwazi collection to registered users. The default address is *no-reply@uwazi.io*. You can set a custom one by including your desired email address here.
 Sentences above threshold,ประโยคที่เกินเกณฑ์ที่กำหนด
 Set as default,ตั้งเป็นค่าเริ่มต้น
 Set the default starting point for your geolocation properties.,ตั้งค่าจุดเริ่มต้นอัตโนมัติสำหรับคุณสมบัติทางภูมิศาสตร์ของคุณ
@@ -553,12 +562,10 @@ With great power comes great responsibility!,พลังที่ยิ่ง�
 Year,ปี
 "You can also embed advanced components like maps, charts and entity lists in your page.",นอกจากนี้คุณยังสามารถฝังส่วนประกอบที่ซับซ้อนเช่น แผนที่ แผนภูมิ และลิสต์รายการได้ในหน้าของคุณ
 You can also improve the model by providing more labeled documents.,นอกจากนี้คุณยังสามารถพัฒนาโมเดลได้โดยใช้เอกสารที่ถูกจำแนกประเภทในจำนวนที่มากขึ้น
-"You can configure the email that will appear as the sender when any email is sent to the user. If this email is not set, “no-reply@uwazi.io” will be used instead.","คุณสามารถตั้งค่าอีเมลที่จะนำมาแสดงเป็นชื่อผู้ส่งเมื่ออีเมลถูกส่งไปยังผู้ใช้ได้ ถ้าอีเมลไม่ถูกตั้งค่า ""no-reply@uwazi.io"" จะถูกใช้เป็นชื่อผู้ส่งแทน"
 You can create metadata templates in,คุณสามารถสร้างแม่แบบเมตาดาต้าได้
 You have labeled,คุณได้แยกประเภทแล้ว
 You have successfully configured two-step verification.,คุณได้ทำการติดตั้งการตรวจสอบสองขั้นตอนเรียบร้อยแล้ว
 You should activate this feature for enhanced account security,คุณควรเปิดใช้งานคุณสมบัตินี้เพื่อเพิ่มความปลอกภัยให้กับบัญชีของคุณ
-You will need to reload the page after updating your Favicon.,คุณจะไม่สามารถบันทึกรายการได้ถ้าคุณสมบัตินี้ยังไม่ถูกใส่ค่า
 You won't be able to save an entity if this property is empty.,คุณจะไม่สามารถบันทึกนิติบุคคลได้หากคุณสมบัตินี้ว่างเปล่า
 Your account is protected by 2fa.,บัญชีของคุณได้รับการคุ้มครองโดย 2FA
 Zoom in,ขยายเข้า
@@ -574,7 +581,6 @@ documents so far.,เอกสารจนถึงขณะนี้
 documents.,เอกสาร.
 help,ช่วยเหลือ
 https://yourdomain,https: // yourdomain
-https://yoursite.com/,https://yoursite.com/
 landing page description,คำอธิบายหน้า Landing Page
 leaving only a relative URL starting with a slash character. Ie. /some_url.,ใช้เฉพาะ URL ด้านท้ายเริ่มต้นด้วยตัวอักษรสแลช เช่น /some_url
 library list view,มุมมองรายการไลบรารี
