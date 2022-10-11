@@ -363,6 +363,7 @@ Invalid home page url,URL  de página de inicio no válido
 It could also very easily break the app. Only write code here if you know exactly what you are doing.,La aplicación incluso podría dejar de funcionar. Escribe código aquí únicamente si sabes exactamente lo que estás haciendo.
 Items:,Elementos:
 Keep this in mind if you want to edit:,Ten en cuenta esto si quieres editar:
+key,clave
 Label,Etiqueta
 "Label date ""From""",De:
 "Label date ""to""",A:
