@@ -35,10 +35,12 @@ Add relationship type,Add relationship type
 Add template,Add template
 Add thesaurus,Add thesaurus
 Add thesaurus modal description,After creation you can go into Settings -> Thesauri to add items
+Add thesaurus value,Add thesaurus value
 Add to all languages,Add to all languages
 Add to table of contents,Add to table of contents
 Add user,Add user
 Add users,Add users
+add value,add value
 Add/delete users and assign roles,Add/delete users and assign roles
 Add/edit translations,Add/edit translations
 Added language,Added language
@@ -253,6 +255,7 @@ Drag and drop file in this window to upload,Drag and drop file in this window to
 Drag items here,Drag items here
 Drag properties here,Drag properties here
 Drop your files here to upload or,Drop your files here to upload or
+Duplicate values not allowed.,Duplicate values not allowed.
 Duplicated email,Duplicated email
 Duplicated label,Duplicated label
 Duplicated name,Duplicated name
@@ -324,6 +327,7 @@ Global CSS,Global CSS
 Google Analytics,Google Analytics
 Google Analytics ID,Google Analytics ID
 Google Maps,Google Maps
+Group,Group
 Group created,Group created
 Group deleted,Group deleted
 Group updated,Group updated
@@ -819,6 +823,7 @@ Using Google Authenticator,Using Google Authenticator
 Uwazi is developed by,Uwazi is developed by
 "Uwazi is learning using the labelled documents. This may take up to 2 hours, and once completed you can review suggestions made by Uwazi for your collection.","Uwazi is learning using the labelled documents. This may take up to 2 hours, and once completed you can review suggestions made by Uwazi for your collection."
 Uwazi UI,Uwazi UI
+Value,Value
 Value cannot be transformed to date,Value cannot be transformed to date
 valueEmptyDesc,"Accepting is not available since there is no suggestion. If the value is correct, you can still click to fill the text selection so it becomes a ""mismatch / label"" that will be used as a training sample."
 valueMatchDesc,"It has a current value that matches the suggestion, but it doesn't have a text selection. Accepting will keep the value as it is and enrich it with the suggested text selection becoming a ""match / label"" that can be used as a training sample."

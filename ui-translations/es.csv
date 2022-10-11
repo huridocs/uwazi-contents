@@ -35,10 +35,12 @@ Add relationship type,Añadir tipo de relación
 Add template,Añadir plantilla
 Add thesaurus,Añadir tesauro
 Add thesaurus modal description,"Después de la creación, puedes ir a Configuración → Tesauri para añadir elementos"
+Add thesaurus value,Añadir valor del tesauro
 Add to all languages,Añadir a todos los idiomas
 Add to table of contents,Añadir a la tabla de contenidos
 Add user,Añadir usuario
 Add users,Añadir usuarios
+add value,añadir valor
 Add/delete users and assign roles,Añadir / Eliminar usuarios y asignar roles
 Add/edit translations,Añadir / editar traducciones
 Added language,Idioma añadido
@@ -243,12 +245,13 @@ Documents including suggestion:,Documentos que incluyen sugerencias:
 documents so far.,documentos hasta el momento.
 documents to be reviewed,Documentos a revisar
 Documents to be reviewed,Documentos a revisar
-documents.,documentos .
+documents.,documentos.
 Download,Descargar
 Drag and drop file in this window to upload,Arrastrar y soltar el archivo en esta ventana para subir.
 Drag items here,Arrastra aquí
 Drag properties here,Arrastra las propiedades aquí
 Drop your files here to upload or,Suelta los archivos aquí para cargar o
+Duplicate values not allowed.,No se permiten valores duplicados.
 Duplicated email,Correo electrónico duplicado
 Duplicated label,Etiqueta duplicada
 Duplicated name,Nombre duplicado
@@ -320,6 +323,7 @@ Global CSS,CSS global
 Google Analytics,Google Analytics
 Google Analytics ID,ID de Google Analytics
 Google Maps,Google Maps
+Group,Grupo
 Group created,Grupo creado
 Group deleted,Grupo eliminado
 Group updated,Grupo actualizado
@@ -444,8 +448,8 @@ Mixed access,Acceso mixto
 ML TOC,ML TdC
 Month,Mes
 more options.,más opciones. 
-Multimedia fill description,Descripción de llenado multimedia
-Multimedia fit description,Descripción del ajuste multimedia
+Multimedia fill description,"intentará llenar el contenedor, utilizando todo su ancho. En las tarjetas, es probable que se produzcan recortes."
+Multimedia fit description,mostrará todo el contenido multimedia dentro del contenedor.
 Multiple date,Fecha múltiple
 Multiple date range,Rango de fechas múltiple
 Multiple relationships edit description,Hacer cambios a esta propiedad afectará a otras propiedades en esta plantilla porque todos ellas comparten relaciones con la misma configuración
@@ -466,7 +470,7 @@ No,No
 No attachments,Sin adjuntos
 No common filters,No existen filtros comunes
 No Connections,No existen relaciones
-No Connections description,No existe descripción de conexiones
+No Connections description,Las conexiones son las relaciones directas entre este documento y otros documentos y entidades.
 No Documents found,No se encontraron documentos
 no filters for templates,La combinación de tipos de entidades no tiene filtros en común.
 No icon / flag,Sin icono / bandera
@@ -481,7 +485,7 @@ No Relationships description,Las relaciones son vínculos entre entidades.
 No Table of Contents,Sin Tabla de Contenidos
 No Table of Contents description,Sin descripción de Tabla de Contenidos
 No text match,Sin coincidencias de texto
-No text match description,No existe descripción de la coincidencia
+No text match description,Puedes escribir algo diferente en la barra de búsqueda para obtener algunos resultados.
 No type,Sin tipo
 No value,Sin valor
 No Value,Sin valor
@@ -629,7 +633,7 @@ Search not found,Búsqueda no encontrada
 Search related entities or documents,Buscar entidades o documentos relacionados
 Search relevance,Relevancia de la búsqueda
 Search text,Buscar texto
-Search text description,Escribe algo en el cuadro de búsqueda para obtener resultados.
+Search text description,Escribe algo en la barra de búsqueda para obtener resultados.
 Search Tips,Consejos de búsqueda
 Search Tips: boolean,"AND, OR y NOT para búsquedas lógicas. Por ejemplo. ""estado AND mujer NOT Nicaragua"" coincidirá con cualquier cosa que contenga tanto las palabras estado como mujer, y que no contenga la palabra Nicaragua."
 Search Tips: exact term,"Coincidencia exacta del término encerrando su cadena de búsqueda entre comillas. Por ejemplo. ""Costa Rica"" arrojará resultados diferentes a los de Costa Rica sin comillas."
@@ -815,6 +819,7 @@ Using Google Authenticator,Usando Google Authenticator
 Uwazi is developed by,Uwazi es desarrollado por 
 "Uwazi is learning using the labelled documents. This may take up to 2 hours, and once completed you can review suggestions made by Uwazi for your collection.","Uwazi está aprendiendo a utilizar documentos con etiquetas. Este proceso puede tomar hasta 2 horas y una vez completo, podrás revisar las sugerencias realizadas por Uwazi para tu colección."
 Uwazi UI,Uwazi UI
+Value,valor
 Value cannot be transformed to date,El valor no puede ser convertido a fecha
 valueEmptyDesc,"Aceptar no está disponible porque no hay ninguna sugerencia. Si el valor es correcto, aún puedes hacer click para completar la selección de texto, para que se convierta en una ""etiqueta/discordancia"" que se usará como muestra de entrenamiento."
 valueMatchDesc,"Tiene un valor actual que coincide con la sugerencia, pero no tiene una selección de texto. Aceptar mantendrá el valor como está y lo enriquecerá con la selección de texto sugerido convirtiéndose en una ""coincidencia/etiqueta"" que se puede usar como muestra de entrenamiento."
