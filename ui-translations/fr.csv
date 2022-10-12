@@ -56,7 +56,7 @@ All,All
 "All changes will be lost, are you sure you want to proceed?","Tous les changements seront perdus, êtes-vous sûr de vouloir continuer ?"
 An error has occurred during data export,An error has occurred during data export
 An error occurred,An error occurred
-Analytics description,Description des analyses
+Analytics description,"If you want to track analytics related to your collection visits, Uwazi supports both Google Analytics and Matomo."
 Anyone will be able to see them,Tout le monde pourra les voir
 Apply to all languages,Appliquer à toutes les langues
 Are you sure you want to continue?,Are you sure you want to continue?
@@ -111,8 +111,8 @@ Changing the type will erase all relationships to this entity.,Changing the type
 Character support description,"This option enhances support for non-Latin languages as the default languages of your collection.
 Selecting this option will update all template properties automatically. The process could take several minutes. Selecting this option will likely change the URLs of library filters. As a consequence, if you have menus or links using such URLs, they will probably stop working.
 You will need to update them manually. After selecting this option, you will not be able to revert back to using legacy property naming. If you are not facing issues with your template property names, we recommend leaving this unchecked."
-Character support process warning,Avertissement sur le processus de support des caractères
-Character support revert warning,Avertissement de réversion du support de caractères
+Character support process warning,"This process could take several minutes and will likely change URLs to library filters. If you have menus or links using such URLs, they will probably stop working after the update. You will need to update them manually."
+Character support revert warning,"After selecting this option, you will not be able to revert back to using legacy property naming. If you are not facing issues with your template property names, we recommend leaving this unchecked."
 Check to make this instance private (only logged-in users can access the data),Cochez cette case pour rendre cette instance privée (seuls les utilisateurs connectés pourront accéder aux données).
 Chrome extension store link,Chrome extension store link
 Clear coordinates,Effacer les coordonnées
@@ -305,7 +305,7 @@ Fill,Remplir
 Filters,Filtres
 Filters AND operator,ET
 Filters configuration,Configuration des filtres
-Filters configuration description,Description de la configuration des filtres
+Filters configuration description,"By default, users can filter the entities in the library based on the types you have defined. However, you can configure how these entity types will be displayed:"
 Filters configuration example,Exemple de configuration des filtres
 Filters OR operator,OU
 Find,Trouver
@@ -378,7 +378,14 @@ labelEmptyDesc,It has a current value and a text selection matching with the mod
 labelMatchDesc,It has a current value and a text selection matching with the model suggested value and selection. It will be used as a training sample.
 labelMismatchDesc,"It has a current value and text selection but they do not match the model prediction. Accepting the suggestion will replace the current value and text selection with the suggested ones becoming a ""match / labeled"". If the labeled data is correct and the suggestion is wrong no action is needed. It will be used as a training sample."
 Landing page,Page d'accueuil
-Landing page description,Description de la page d'Acueuil
+Landing page description,"The landing page is the first page that visitors see when they come to your collection. The default landing page is your collection's library. You can set a different landing page by adding its relative URL here. For example:
+      
+A page: */page/dicxg0oagy3xgr7ixef80k9*
+A filtered view in Uwazi: */library/?searchTerm=test*
+An entity: */entity/9htbkgpkyy7j5rk9*
+A document: */document/4y9i99fadjp833di*
+      
+Important: You must use relative URLs. These start with a forward slash and do not include the domain name. For example: In the address *https://yoursite.com/landingpage*, the relative URL is /landingpage"
 Language,Langue
 Language deleted,Language deleted
 language?,language?
@@ -436,7 +443,7 @@ Minimum,Minimum
 Mismatch / Empty,Mismatch / Empty
 Mismatch / Label,Mismatch / Label
 Mismatch / Value,Mismatch / Value
-mismatched passwords,Passwords don�t match
+mismatched passwords,Passwords don't match
 Mixed access,Mixed access
 ML TOC,ML TOC
 Month,Month
@@ -463,7 +470,7 @@ No,Non
 No attachments,No attachments
 No common filters,Pas de filtres communs
 No Connections,Pas de connexions
-No Connections description,Aucune description de connexion
+No Connections description,Connections are the direct relationships between this document and other documents and entities.
 No Documents found,No Documents found
 no filters for templates,The combination of entity types doesn't have any filters in common.
 No icon / flag,No icon / flag
@@ -471,14 +478,14 @@ No Label,Aucune étiquettes
 No options found,Aucune option trouvée
 No property,Aucune propriété
 No References,Pas de références
-No References description,Aucune description de références
+No References description,References are parts of this document related with other documents and entities.
 No relationship types warning,Relationship fields can not be added until you have at least one relationship type to select.
 No Relationships,Aucune relation
-No Relationships description,Aucune description de relation
+No Relationships description,Relationships are bonds between entities.
 No Table of Contents,Aucune table des matières
 No Table of Contents description,Aucune description de Table des matières
 No text match,Aucune correspondance de texte
-No text match description,Aucune correspondance pour la description fournie
+No text match description,You can type something different in the search box to get some results.
 No type,Sans type
 No value,Aucune valeur
 No Value,Aucune valeur
@@ -490,7 +497,7 @@ Obsolete,Obsolete
 obsoleteDesc,A new model is training and processing suggestions. This suggestion was created by a previous model so no actions are possible until the new suggestion is received.
 OCR,OCR
 OCR button tip,This will process the document to recognize it's text. The original file will be added as a supporting file.
-OCR completed,0
+OCR completed,ROC terminé
 OCR description tip 1,"This will enable the Optical Character Recognition (OCR) functionality for PDF documents. This service will recognize text inside images, such as scanned documents and photos, and convert it into machine-readable text data."
 OCR description tip 2,"When activated, this will enable administrator and editor users to send PDF documents to the OCR service."
 OCR error,Erreur OCR
@@ -536,17 +543,17 @@ Preview,Aperçu
 Previous,Précédent
 Primary Documents,Documents principaux
 Priority sorting,Tri prioritaire
-Priority sorting description,Description du tri prioritaire
+Priority sorting description,"Properties marked as priority sorting will be used as default sorting criteria. If more than one property is marked as priority sorting the system will try to pick-up the best fit. When listing mixed template types, the system will pick-up the best combined priority sorting."
 private,Privé
 Private instance,Instance privée
 Processing,Traitement
 Properties,Propriétés
 Properties from other templates in the collection using the same label,Propriétés d'autres modèles de la collection utilisant la même étiquette
-Property as default filter description,Propriété comme description du filtre par défaut
-Property as filter description,Propriété comme description du filtre
+Property as default filter description,"Use this property as a default filter in the library. When there are no entity types selected, this property will show as a default filter for your collection."
+Property as filter description,"This property will be used for filtering the library results. When properties match in equal name and field type with other entity types, they will be combined for filtering."
 property date,Date
 property daterange,Date Range
-Property delete warning,Avertissement de suppression de propriété
+Property delete warning,Deleting a template property will delete this metadata information on all entities using this template.
 property generatedid,Generated ID
 property geolocation,Geolocation
 property image,Image
@@ -566,7 +573,7 @@ Protection,Protection
 ProTip!,ProTip !
 public,Publique
 Public Endpoints,Points de terminaison publics
-Public form settings description,Description des paramètres du formulaire public
+Public form settings description,Here you can configure the public form destination and the whitelisted templates
 Public form URL description,"If you have configured a public form and would like a different Uwazi collection to receive the submissions, enter its URL here."
 Public form whitelist description,"If you wish to include Public Forms on your pages, you must white-list the template IDs for which Public Forms are expected."
 Publish,Publier
@@ -626,7 +633,7 @@ Search not found,Recherche non trouvée
 Search related entities or documents,Rechercher des entités ou des documents liés
 Search relevance,Pertinence de recherche
 Search text,Recherche de texte
-Search text description,Rechercher Description du texte
+Search text description,Type something in the search box to get some results.
 Search Tips,Astuces de recherche
 Search Tips: boolean,Astuces de recherche: Booléen
 Search Tips: exact term,Astuces de recherche: Terme exact
@@ -694,7 +701,7 @@ Submitted entity to a remote instance,Submitted entity to a remote instance
 Submitting,Submitting
 Success,Success
 "Success, Upload another?","Success, Upload another?"
-Suggested labels description,Description des étiquettes suggérées
+Suggested labels description,"Uwazi has suggested labels for your collection. Review them using the ""View suggestions"" button next to each topic. Disable suggestions with the ""Show suggestions"" toggle."
 Suggestion,Suggestion
 Suggestions,Suggestions
 Supporting files,Fichiers de support
@@ -713,7 +720,7 @@ Template with a long number of entities,"The template has changed and the associ
        this process may take several minutes, do you want to continue?"
 Templates,Modèles
 Text,Texte
-Text references limit warning,Avertissement de limite de références textuelles
+Text references limit warning,Text references are temporarily limited to a maximum of 300. We are currently working on a fix for this issue.
 The current model was trained at,Le modèle actuel a été formé à
 "The first step is to label a sample of your documents, so Uwazi can learn which topics to suggest when helping you label your collection.","La première étape consiste à étiqueter un échantillon de vos documents, afin qu'Uwazi puisse apprendre quels sujets suggérer lorsqu'il vous aide à étiqueter votre collection."
 The import process threw an error:,Le processus d'importation a généré une erreur :

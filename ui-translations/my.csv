@@ -56,7 +56,7 @@ All,အားလုံး
 "All changes will be lost, are you sure you want to proceed?",အပြောင်းအလဲအားလုံးကို ဆုံးရှုံးပါမည်၊ ရှေ့ဆက်လိုသည်မှာ သေချာပါသလား။
 An error has occurred during data export,An error has occurred during data export
 An error occurred,An error occurred
-Analytics description,ဒေတာ တင်ပို့စဉ် ချွတ်ယွင်းချက် ဖြစ်ပေါ်ခဲ့သည်
+Analytics description,"If you want to track analytics related to your collection visits, Uwazi supports both Google Analytics and Matomo."
 Anyone will be able to see them,မည်သူမဆို ၎င်းတို့ကို မြင်နိုင်ပါမည်
 Apply to all languages,Apply to all languages
 Are you sure you want to continue?,Are you sure you want to continue?
@@ -112,8 +112,8 @@ Change will take effect after saving the template,ပုံစံပြားက
 Changes can't be undone after saving. Changing text fields may invalidate the suggestions.,Changes can't be undone after saving. Changing text fields may invalidate the suggestions.
 Changing the type will erase all relationships to this entity.,Changing the type will erase all relationships to this entity.
 Character support description,This option enhances support for non-Latin languages as the default languages of your collection.
-Character support process warning,စာလုံး ပံ့ပိုးမှု လုပ်ငန်းစဉ် သတိပေးချက်
-Character support revert warning,စာလုံး ပံ့ပိုးမှု ပြောင်းပြန်လုပ်ခြင်း သတိပေးချက်
+Character support process warning,"This process could take several minutes and will likely change URLs to library filters. If you have menus or links using such URLs, they will probably stop working after the update. You will need to update them manually."
+Character support revert warning,"After selecting this option, you will not be able to revert back to using legacy property naming. If you are not facing issues with your template property names, we recommend leaving this unchecked."
 Check to make this instance private (only logged-in users can access the data),ဤအကြောင်းအရာကို လျှို့ဝှက်အဖြစ် ပြုလုပ်ရန် အမှန်ခြစ်ပါ (လော့ဂ်အင်ဝင်ထားသော အသုံးပြုသူများကသာ ဒေတာ ဝင်ရောက်သုံးစွဲနိုင်သည်)
 Chrome extension store link,Chrome extension store link
 Clear coordinates,ကိုဩဒိနိတ်များကို ရှင်းလင်းရန်
@@ -306,7 +306,7 @@ Fill,ဖြည့်ရန်
 Filters,စစ်ထုတ်မှုများ
 Filters AND operator,စစ်ထုတ်မှုများနှင့် အော်ပရေတာ
 Filters configuration,စစ်ထုတ်မှုများ စနစ်ဖွဲ့စည်းမှု
-Filters configuration description,စစ်ထုတ်မှုများ စနစ်ဖွဲ့စည်းပုံ ဖော်ပြချက်
+Filters configuration description,"By default, users can filter the entities in the library based on the types you have defined. However, you can configure how these entity types will be displayed:"
 Filters configuration example,စစ်ထုတ်မှုများ စနစ်ဖွဲ့စည်းပုံ ဥပမာ
 Filters OR operator,စစ်ထုတ်မှုများ သို့မဟုတ် အော်ပရေတာ
 Find,ရှာရန်
@@ -347,7 +347,7 @@ Import instructions,ထည့်သွင်းမှု ညွှန်ကြ�
 Imported entities from file,Imported entities from file
 Imported translations from file,Imported translations from file
 Importing data in progress,ဒေတာ ထည့်သွင်းဆဲ
-in,0
+in,၌
 "In a group, either all relationships must have a hub or none of them.","In a group, either all relationships must have a hub or none of them."
 In OCR queue,In OCR queue
 incorrect suggestion check,Is the suggestion incorrect? Click on 'Reject' and Uwazi will improve on the suggestions it makes
@@ -445,16 +445,16 @@ Minimum,အနည်းဆုံး
 Mismatch / Empty,Mismatch / Empty
 Mismatch / Label,Mismatch / Label
 Mismatch / Value,Mismatch / Value
-mismatched passwords,Passwords don�t match
+mismatched passwords,Passwords don't match
 Mixed access,ရောထားသော ဝင်ရောက်သုံးစွဲမှု
 ML TOC,ML TOC
 Month,လ
 more options.,နောက်ထပ် ရွေးချယ်စရာများ။
-Multimedia fill description,မာလ်တီမီဒီယာ ဖြည့်သွင်းခြင်း ဖော်ပြချက်
-Multimedia fit description,မာလ်တီမီဒီယာ ကိုက်ညီမှု ဖော်ပြချက်
+Multimedia fill description,"will attempt to fill the container, using it's entire width. In cards, cropping is likely to occur."
+Multimedia fit description,will show the entire media inside the container.
 Multiple date,Multiple date
 Multiple date range,Multiple date range
-Multiple relationships edit description,ဆက်နွှယ်မှုများစွာ တည်းဖြတ်ခြင်း ဖော်ပြချက်
+Multiple relationships edit description,Making changes to this property will affect other properties on this template because they all share relationships with the same configuration.
 Multiple select,Multiple select
 Name,အမည်
 Name is required,အမည် လိုအပ်သည်
@@ -472,7 +472,7 @@ No,မရှိပါ
 No attachments,တွဲချိတ်မှုများ မရှိပါ
 No common filters,အသုံးများသော စစ်ထုတ်မှု မရှိပါ
 No Connections,ချိတ်ဆက်မှု မရှိပါ
-No Connections description,ချိတ််ဆက်မှု ဖော်ပြချက် မရှိပါ
+No Connections description,Connections are the direct relationships between this document and other documents and entities.
 No Documents found,စာရွက်စာတမ်း ရှာမတွေ့ပါ
 no filters for templates,The combination of entity types doesn't have any filters in common.
 No icon / flag,အိုင်ကွန် / အလံ မရှိပါ
@@ -480,14 +480,14 @@ No Label,တံဆိပ် မရှိပါ
 No options found,ရွေးချယ်စရာ မရှိပါ
 No property,ထူးခြားချက် မရှိပါ
 No References,ကိုးကားချက် မရှိပါ
-No References description,ကိုုးကားချက်များ ဖော်ပြချက် မရှိပါ
-No relationship types warning,ဆက်နွှယ်မှု အမျိုးအစားများ သတိပေးချက် မရှိပါ
+No References description,References are parts of this document related with other documents and entities.
+No relationship types warning,Relationship fields can not be added until you have at least one relationship type to select.
 No Relationships,ဆက်နွှယ်မှု မရှိပါ
-No Relationships description,ဆက်နွှယ်မှု ဖော်ပြချက် မရှိပါ
+No Relationships description,Relationships are bonds between entities.
 No Table of Contents,မာတိကာ မရှိပါ
 No Table of Contents description,မာတိကာ ဖော်ပြချက် မရှိပါ
 No text match,စာသား ကိုက်ညီမှု မရှိပါ
-No text match description,စာသား ကိုက်ညီမှု ဖော်ပြချက် မရှိပါ
+No text match description,You can type something different in the search box to get some results.
 No type,အမျိုးအစား မရှိပါ
 No value,တန်ဖိုးမရှိပါ
 No Value,တန်ဖိုးမရှိပါ
@@ -505,7 +505,7 @@ OCR description tip 2,"When activated, this will enable administrator and editor
 OCR error,OCR error
 OCR error tip,The OCR engine couldn't read the document due to a malformed format. Last updated
 OCR PDF,OCR PDF
-of,0
+of,၏
 Ok,အိုကေ
 Only allowed users will be able to see them,ခွင့်ပြုထားသော အသုံးပြုသူများသာ ၎င်းတို့ကို မြင်နိုင်ပါမည်
 "Only text, number and date properties are currently supported","Only text, number and date properties are currently supported"
@@ -545,17 +545,17 @@ Preview,ကြိုကြည့်ရန်
 Previous,ယခင်
 Primary Documents,အဓိက စာရွက်စာတမ်းများ
 Priority sorting,ဦးစားပေးမှု ခွဲခြားခြင်း
-Priority sorting description,ဦးစားပေးမှု ခွဲခြားခြင်း ဖော်ပြချက်
+Priority sorting description,"Properties marked as priority sorting will be used as default sorting criteria. If more than one property is marked as priority sorting the system will try to pick-up the best fit. When listing mixed template types, the system will pick-up the best combined priority sorting."
 private,အများမမြင်နိုင်သော
 Private instance,လျှို့ဝှက် အကြောင်းကိစ္စ
 Processing,စီမံဆောင်ရွက်နေသည်
 Properties,ထူးခြားချက်များ
 Properties from other templates in the collection using the same label,တူညီသော တံဆိပ်ကို သုံးထားသည့် စုစည်းမှုများရှိ အခြားပုံစံပြားများမှ ထူးခြားချက်များ
-Property as default filter description,ပုံသေမူလ စစ်ထုတ်မှုအဖြစ် ထူးခြားချက် ဖော်ပြမှု
-Property as filter description,စစ်ထုတ်မှုအဖြစ် ထူးခြားချက် ဖော်ပြမှု
+Property as default filter description,"Use this property as a default filter in the library. When there are no entity types selected, this property will show as a default filter for your collection."
+Property as filter description,"This property will be used for filtering the library results. When properties match in equal name and field type with other entity types, they will be combined for filtering."
 property date,Date
 property daterange,Date Range
-Property delete warning,ဖျက်ရန် သတိပေးမှု ထူးခြားချက်
+Property delete warning,Deleting a template property will delete this metadata information on all entities using this template.
 property generatedid,Generated ID
 property geolocation,Geolocation
 property image,Image
@@ -575,7 +575,7 @@ Protection,ကာကွယ်မှု
 ProTip!,အထူးအကြံပြုချက်!
 public,အများမြင်နိုင်သော
 Public Endpoints,Public Endpoints
-Public form settings description,အများမြင်နိုင်သော ပုံစံ ဆက်တင်များ ဖော်ပြချက်
+Public form settings description,Here you can configure the public form destination and the whitelisted templates
 Public form URL description,"If you have configured a public form and would like a different Uwazi collection to receive the submissions, enter its URL here."
 Public form whitelist description,"If you wish to include Public Forms on your pages, you must white-list the template IDs for which Public Forms are expected."
 Publish,ထုတ်ဝေရန်
@@ -635,7 +635,7 @@ Search not found,ရှာသည့်အရာကို မတွေ့ပါ
 Search related entities or documents,သက်ဆိုင်ရာ ဖြည့်သွင်းချက် သို့မဟုတ် စာရွက်စာတမ်းများကို ရှာရန်
 Search relevance,ရှာဖွေမှု ဆီလျော်ခြင်း
 Search text,ရှာဖွေမှု စာသား
-Search text description,ရှာဖွေမှု စာသား ဖော်ပြချက်
+Search text description,Type something in the search box to get some results.
 Search Tips,ရှာဖွေမှု အကြံပြုချက်များ
 Search Tips: boolean,ရှာဖွေမှု အကြံပြုချက်များ- မှန်မှားဒေတာ
 Search Tips: exact term,ရှာဖွေမှု အကြံပြုချက်များ- တိကျသော အသုံးအနှုံး
@@ -703,7 +703,7 @@ Submitted entity to a remote instance,Submitted entity to a remote instance
 Submitting,Submitting
 Success,Success
 "Success, Upload another?","Success, Upload another?"
-Suggested labels description,အကြံပြုထားသော တံဆိပ်အမှတ်အသားများ ဖော်ပြချက်
+Suggested labels description,"Uwazi has suggested labels for your collection. Review them using the ""View suggestions"" button next to each topic. Disable suggestions with the ""Show suggestions"" toggle."
 Suggestion,Suggestion
 Suggestions,အကြံပြုချက်များ
 Supporting files,အထောက်အကူပြုဖိုင်များ
@@ -722,7 +722,7 @@ Template with a long number of entities,"The template has changed and the associ
        this process may take several minutes, do you want to continue?"
 Templates,ပုံစံပြားများ
 Text,စာသား
-Text references limit warning,စာသား ကိုးကားချက်များ ကန့်သတ်ချက် သတိပေးချက်
+Text references limit warning,Text references are temporarily limited to a maximum of 300. We are currently working on a fix for this issue.
 The current model was trained at,လက်ရှိ မော်ဒယ်ကို ဤတွင် လေ့ကျင့်ထားပါသည်
 "The first step is to label a sample of your documents, so Uwazi can learn which topics to suggest when helping you label your collection.",ပထမအဆင့်မှာ သင့်စာရွက်စာတမ်းများ နမူနာကို တံဆိပ်တပ်ရန်ဖြစ်ရာ Uwazi သည် သင့်စုဆောင်းမှုကို သင်အညွှန်းတပ်ရာတွင် ကူညီသည့်အခါ မည်သည့်အကြောင်းအရာများအား အကြံပြုရမည်ကို လေ့လာနိုင်သည်။
 The import process threw an error:,ထည့်သွင်းသည့် လုပ်ငန်းစဉ်တွင် ချွတ်ယွင်းချက် ဖြစ်ပေါ်ခဲ့သည်-
@@ -817,7 +817,7 @@ Username,အသုံးပြုသူ အမည်
 Username is required,အသုံးပြုသူ အမည် လိုအပ်သည်
 Username is too long,အသုံးပြုသူအမည် ရှည်လွန်းသည်
 Username is too short,အသုံးပြုသူအမည် တိုလွန်းသည်
-Users,0
+Users,အသုံးပြုသူများ
 Using Google Authenticator,Google Authenticator သုံးပြီး
 Uwazi is developed by,Uwazi ကို တီထွင်ရေးသားသူမှာ
 "Uwazi is learning using the labelled documents. This may take up to 2 hours, and once completed you can review suggestions made by Uwazi for your collection.",Uwazi is သည် တံဆိပ်တပ်ထားသော စာရွက်စာတမ်းများကို သုံး၍ လေ့လာနေသည်။ ၎င်းသည် 2 နာရီအထိ ကြာနိုင်ပြီး ပြီးစီးသည်နှင့် သင်သည် သင့်စုစည်းမှုအတွက် Uwazi မှ အကြံပြုချက်များကို သုံးသပ်စစ်ဆေးနိုင်သည်။

@@ -56,7 +56,7 @@ All,All
 "All changes will be lost, are you sure you want to proceed?",การเปลี่ยนแปลงทั้งหมดจะหายไปคุณแน่ใจหรือว่าต้องการดำเนินการต่อ?
 An error has occurred during data export,An error has occurred during data export
 An error occurred,An error occurred
-Analytics description,คำอธิบายการวิเคราะห์
+Analytics description,"If you want to track analytics related to your collection visits, Uwazi supports both Google Analytics and Matomo."
 Anyone will be able to see them,เปิดการมองเห็นสาธารณะ
 Apply to all languages,Apply to all languages
 Are you sure you want to continue?,Are you sure you want to continue?
@@ -112,8 +112,8 @@ Change will take effect after saving the template,การเปลี่ยน
 Changes can't be undone after saving. Changing text fields may invalidate the suggestions.,Changes can't be undone after saving. Changing text fields may invalidate the suggestions.
 Changing the type will erase all relationships to this entity.,Changing the type will erase all relationships to this entity.
 Character support description,This option enhances support for non-Latin languages as the default languages of your collection.
-Character support process warning,คำเตือน การเปลี่ยนตัวอักษรที่สามารถใช้ได้
-Character support revert warning,คำเตือน การยกเลิกตัวอักษรที่สามารถใช้ได้
+Character support process warning,"This process could take several minutes and will likely change URLs to library filters. If you have menus or links using such URLs, they will probably stop working after the update. You will need to update them manually."
+Character support revert warning,"After selecting this option, you will not be able to revert back to using legacy property naming. If you are not facing issues with your template property names, we recommend leaving this unchecked."
 Check to make this instance private (only logged-in users can access the data),กดเลือกเพื่อทำให้รายการนี้ถูกตั้งค่าความเป็นส่วนตัว (เฉพาะผู้ใช้ที่เข้าสู่ระบบแล้วถึงจะสามารถเข้าถึงข้อมูลได้)
 Chrome extension store link,Chrome extension store link
 Clear coordinates,ลบจุดพิกัด
@@ -306,7 +306,7 @@ Fill,ใส่ค่า
 Filters,ตัวกรอง
 Filters AND operator,ตัวกรอง ประเภท และ
 Filters configuration,การกำหนดค่าตัวกรอง
-Filters configuration description,คำอธิบายการกำหนดค่าตัวกรอง
+Filters configuration description,"By default, users can filter the entities in the library based on the types you have defined. However, you can configure how these entity types will be displayed:"
 Filters configuration example,ตัวอย่างการกำหนดค่าตัวกรอง
 Filters OR operator,ตัวกรอง ประเภท หรือ
 Find,หา
@@ -445,16 +445,16 @@ Minimum,ขั้นต่ำ
 Mismatch / Empty,Mismatch / Empty
 Mismatch / Label,Mismatch / Label
 Mismatch / Value,Mismatch / Value
-mismatched passwords,Passwords don�t match
+mismatched passwords,Passwords don't match
 Mixed access,การเข้าถึงแบบผสม
 ML TOC,ML TOC
 Month,เดือน
 more options.,ตัวเลือกเพิ่มเติม
-Multimedia fill description,คำอธิบายการเติมข้อมูลมัลติมีเดีย
-Multimedia fit description,คำอธิบายการเติมข้อมูลมัลติมีเดีย
+Multimedia fill description,"will attempt to fill the container, using it's entire width. In cards, cropping is likely to occur."
+Multimedia fit description,will show the entire media inside the container.
 Multiple date,Multiple date
 Multiple date range,Multiple date range
-Multiple relationships edit description,คำอธิบายการแก้ไขความสัมพันธ์ที่หลากหลาย
+Multiple relationships edit description,Making changes to this property will affect other properties on this template because they all share relationships with the same configuration.
 Multiple select,Multiple select
 Name,ชื่อ
 Name is required,จำเป็นต้องใส่ชื่อ
@@ -472,7 +472,7 @@ No,เลขที่
 No attachments,ไม่พบสิ่งที่แนบมา
 No common filters,ไม่มีฟิลเตอร์สามัญ
 No Connections,ไม่มีการเชื่อมต่อ
-No Connections description,ไม่มีคำอธิบายการเชื่อมต่อ
+No Connections description,Connections are the direct relationships between this document and other documents and entities.
 No Documents found,ไม่พบเอกสาร
 no filters for templates,The combination of entity types doesn't have any filters in common.
 No icon / flag,ไม่พบ ไอค่อน / สิ่งที่ถูกคั่นหน้า
@@ -480,14 +480,14 @@ No Label,ไม่มีลาเบล
 No options found,ไม่พบตัวเลือก
 No property,ไม่เจอพร๊อพเพอร์ตี้
 No References,ไม่มีการอ้างอิง
-No References description,ไม่มีคำอธิบายการอ้างอิง
-No relationship types warning,ไม่พบคำเตือนเกี่ยวกับประเภทความสัมพันธ์
+No References description,References are parts of this document related with other documents and entities.
+No relationship types warning,Relationship fields can not be added until you have at least one relationship type to select.
 No Relationships,ไม่มีความสัมพันธ์
-No Relationships description,ไม่มีคำอธิบายความสัมพันธ์
+No Relationships description,Relationships are bonds between entities.
 No Table of Contents,ไม่มีสารบัญ
 No Table of Contents description,ไม่มีคำอธิบายสารบัญ
 No text match,ไม่มีการจับคู่ข้อความ
-No text match description,ไม่มีคำอธิบายการจับคู่ข้อความ
+No text match description,You can type something different in the search box to get some results.
 No type,ไม่มีประเภท
 No value,ไม่มีค่า
 No Value,ไม่มีค่า
@@ -545,17 +545,17 @@ Preview,ดูตัวอย่าง
 Previous,ก่อนหน้า
 Primary Documents,เอกสารหลัก
 Priority sorting,เรียงลำดับตามลำดับความสำคัญ
-Priority sorting description,คำอธิบายเกี่ยวกับการเรียงลำดับตามลำดับความสำคัญ
+Priority sorting description,"Properties marked as priority sorting will be used as default sorting criteria. If more than one property is marked as priority sorting the system will try to pick-up the best fit. When listing mixed template types, the system will pick-up the best combined priority sorting."
 private,ส่วนตัว
 Private instance,อินสแตนซ์ส่วนตัว
 Processing,กำลังประมวลผล
 Properties,คุณสมบัติ
 Properties from other templates in the collection using the same label,คุณสมบัติจากเทมเพลตอื่นๆในคอลเลกชันที่อยู่ในประเภทเดียวกัน
-Property as default filter description,คำอธิบายคุณสมบัติเกี่ยวกับตัวกรองเริ่มต้น
-Property as filter description,คำอธิบายคุณสมบัติเกี่ยวกับตัวกรอง
+Property as default filter description,"Use this property as a default filter in the library. When there are no entity types selected, this property will show as a default filter for your collection."
+Property as filter description,"This property will be used for filtering the library results. When properties match in equal name and field type with other entity types, they will be combined for filtering."
 property date,Date
 property daterange,Date Range
-Property delete warning,คำเตือนเกี่ยวกับการลบคุณสมบัติ
+Property delete warning,Deleting a template property will delete this metadata information on all entities using this template.
 property generatedid,Generated ID
 property geolocation,Geolocation
 property image,Image
@@ -575,7 +575,7 @@ Protection,การป้องกัน
 ProTip!,โปรทิป!
 public,สาธารณะ
 Public Endpoints,Public Endpoints
-Public form settings description,คำอธิบายเกี่ยวกับการตั้งค่าแบบฟอร์มสาธารณะ
+Public form settings description,Here you can configure the public form destination and the whitelisted templates
 Public form URL description,"If you have configured a public form and would like a different Uwazi collection to receive the submissions, enter its URL here."
 Public form whitelist description,"If you wish to include Public Forms on your pages, you must white-list the template IDs for which Public Forms are expected."
 Publish,เผยแพร่
@@ -635,7 +635,7 @@ Search not found,ไม่พบการค้นหา
 Search related entities or documents,ค้นหารายการหรือเอกสารที่เกี่ยวข้อง
 Search relevance,ความเกี่ยวข้องของการค้นหา
 Search text,ข้อความค้นหา
-Search text description,คำอธิบายข้อความค้นหา
+Search text description,Type something in the search box to get some results.
 Search Tips,เคล็ดลับการค้นหา
 Search Tips: boolean,เคล็ดลับการค้นหา: บูลีน
 Search Tips: exact term,เคล็ดลับการค้นหา: คำที่ตรงตัว
@@ -703,7 +703,7 @@ Submitted entity to a remote instance,Submitted entity to a remote instance
 Submitting,Submitting
 Success,Success
 "Success, Upload another?","Success, Upload another?"
-Suggested labels description,คำแนะนำเกี่ยวกับความหมายของการจัดประเภท
+Suggested labels description,"Uwazi has suggested labels for your collection. Review them using the ""View suggestions"" button next to each topic. Disable suggestions with the ""Show suggestions"" toggle."
 Suggestion,Suggestion
 Suggestions,คำแนะนำ
 Supporting files,รองรับไฟล์
@@ -722,7 +722,7 @@ Template with a long number of entities,"The template has changed and the associ
        this process may take several minutes, do you want to continue?"
 Templates,แม่แบบ
 Text,ข้อความ
-Text references limit warning,คำเตือน การอ้างอิงบทความเกินเกณฑ์ที่กำหนด
+Text references limit warning,Text references are temporarily limited to a maximum of 300. We are currently working on a fix for this issue.
 The current model was trained at,แม่แบบปัจจุบันได้ถูกเรียนรู้เมื่อ
 "The first step is to label a sample of your documents, so Uwazi can learn which topics to suggest when helping you label your collection.","ขั้นตอนแรกที่จะต้องทำคือการเลือกประเภทให้กับตัวอย่างเอกสารของคุณ 
 Uwazi จะทำการเรียนรู้เพื่อช่วยเสนอแนะในขณะที่ช่วยเลือกประเภทหมวดหมู่

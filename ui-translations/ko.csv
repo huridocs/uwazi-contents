@@ -56,7 +56,7 @@ All,전체 필터
 "All changes will be lost, are you sure you want to proceed?",모든 변경 사항이 손실됩니다. 계속 진행하시겠습니까?
 An error has occurred during data export,An error has occurred during data export
 An error occurred,An error occurred
-Analytics description,분석 설명
+Analytics description,"If you want to track analytics related to your collection visits, Uwazi supports both Google Analytics and Matomo."
 Anyone will be able to see them,모두에게 게시됩니다.
 Apply to all languages,Apply to all languages
 Are you sure you want to continue?,Are you sure you want to continue?
@@ -112,8 +112,8 @@ Change will take effect after saving the template,템플릿 저장 후 변경 �
 Changes can't be undone after saving. Changing text fields may invalidate the suggestions.,Changes can't be undone after saving. Changing text fields may invalidate the suggestions.
 Changing the type will erase all relationships to this entity.,Changing the type will erase all relationships to this entity.
 Character support description,This option enhances support for non-Latin languages as the default languages of your collection.
-Character support process warning,캐릭터 지원 프로세스 경고
-Character support revert warning,캐릭터 지원 되돌리기 경고
+Character support process warning,"This process could take several minutes and will likely change URLs to library filters. If you have menus or links using such URLs, they will probably stop working after the update. You will need to update them manually."
+Character support revert warning,"After selecting this option, you will not be able to revert back to using legacy property naming. If you are not facing issues with your template property names, we recommend leaving this unchecked."
 Check to make this instance private (only logged-in users can access the data),비공개 인스턴스로 전환하기 (로그인 사용자만 이용 가능)
 Chrome extension store link,Chrome extension store link
 Clear coordinates,좌표 초기화
@@ -306,7 +306,7 @@ Fill,채우기
 Filters,필터
 Filters AND operator,필터 AND 오퍼레이터
 Filters configuration,필터 구성
-Filters configuration description,필터 구성 설명
+Filters configuration description,"By default, users can filter the entities in the library based on the types you have defined. However, you can configure how these entity types will be displayed:"
 Filters configuration example,필터 구성 예시
 Filters OR operator,필터 OR 오퍼레이터
 Find,찾기
@@ -445,16 +445,16 @@ Minimum,최소
 Mismatch / Empty,Mismatch / Empty
 Mismatch / Label,Mismatch / Label
 Mismatch / Value,Mismatch / Value
-mismatched passwords,Passwords don�t match
+mismatched passwords,Passwords don't match
 Mixed access,혼합 접근
 ML TOC,ML TOC
 Month,월
 more options.,옵션 더보기
-Multimedia fill description,멀티미디어 설명 채우기
-Multimedia fit description,멀티미디어 설명 맞추기
+Multimedia fill description,"will attempt to fill the container, using it's entire width. In cards, cropping is likely to occur."
+Multimedia fit description,will show the entire media inside the container.
 Multiple date,Multiple date
 Multiple date range,Multiple date range
-Multiple relationships edit description,여러 관계 설명 편집
+Multiple relationships edit description,Making changes to this property will affect other properties on this template because they all share relationships with the same configuration.
 Multiple select,Multiple select
 Name,이름
 Name is required,이름이 필요합니다.
@@ -472,7 +472,7 @@ No,아니오
 No attachments,첨부파일 없음
 No common filters,공통 필터 없음
 No Connections,커넥션 없음
-No Connections description,커넥션 설명 없음
+No Connections description,Connections are the direct relationships between this document and other documents and entities.
 No Documents found,문서를 찾지 못했습니다.
 no filters for templates,The combination of entity types doesn't have any filters in common.
 No icon / flag,아이콘/플래그 없음
@@ -480,14 +480,14 @@ No Label,라벨 없음
 No options found,검색된 옵션 없음
 No property,속성 없음
 No References,참고문헌 없음
-No References description,참고문헌 설명 없음
-No relationship types warning,관계 유형 없음
+No References description,References are parts of this document related with other documents and entities.
+No relationship types warning,Relationship fields can not be added until you have at least one relationship type to select.
 No Relationships,관계 없음
-No Relationships description,관계 설명 없음
+No Relationships description,Relationships are bonds between entities.
 No Table of Contents,목차 없음
 No Table of Contents description,목차 설명 없음
 No text match,일치하는 텍스트 없음
-No text match description,일치하는 텍스트 설명 없음
+No text match description,You can type something different in the search box to get some results.
 No type,유형 없음
 No value,값 없음
 No Value,값 없음
@@ -545,17 +545,17 @@ Preview,미리보기
 Previous,이전
 Primary Documents,기본 문서
 Priority sorting,우선순위 정렬
-Priority sorting description,우선순위 정렬
+Priority sorting description,"Properties marked as priority sorting will be used as default sorting criteria. If more than one property is marked as priority sorting the system will try to pick-up the best fit. When listing mixed template types, the system will pick-up the best combined priority sorting."
 private,비공개
 Private instance,비공개 인스턴스
 Processing,처리 중
 Properties,속성
 Properties from other templates in the collection using the same label,이 컬렉션 내 다른 템플릿의 속성이 동일한 라벨을 사용하고 있습니다.
-Property as default filter description,이 속성을 기본 필터로 설정
-Property as filter description,이 속성을 필터로 설정
+Property as default filter description,"Use this property as a default filter in the library. When there are no entity types selected, this property will show as a default filter for your collection."
+Property as filter description,"This property will be used for filtering the library results. When properties match in equal name and field type with other entity types, they will be combined for filtering."
 property date,Date
 property daterange,Date Range
-Property delete warning,속성 삭제 경고
+Property delete warning,Deleting a template property will delete this metadata information on all entities using this template.
 property generatedid,Generated ID
 property geolocation,Geolocation
 property image,Image
@@ -575,7 +575,7 @@ Protection,보호
 ProTip!,프로 팁
 public,공개
 Public Endpoints,공개 엔드포인트
-Public form settings description,공개 양식 설정
+Public form settings description,Here you can configure the public form destination and the whitelisted templates
 Public form URL description,"If you have configured a public form and would like a different Uwazi collection to receive the submissions, enter its URL here."
 Public form whitelist description,"If you wish to include Public Forms on your pages, you must white-list the template IDs for which Public Forms are expected."
 Publish,게시
@@ -635,7 +635,7 @@ Search not found,검색 결과 없음
 Search related entities or documents,연결된 엔티티 및 문서 검색
 Search relevance,관련성 검색
 Search text,텍스트 검색
-Search text description,텍스트 설명 검색
+Search text description,Type something in the search box to get some results.
 Search Tips,검색 팁
 Search Tips: boolean,검색 팁: 연산자
 Search Tips: exact term,검색 팁: 정확한 용어
@@ -703,7 +703,7 @@ Submitted entity to a remote instance,Submitted entity to a remote instance
 Submitting,Submitting
 Success,Success
 "Success, Upload another?","Success, Upload another?"
-Suggested labels description,자동 제안 라벨
+Suggested labels description,"Uwazi has suggested labels for your collection. Review them using the ""View suggestions"" button next to each topic. Disable suggestions with the ""Show suggestions"" toggle."
 Suggestion,Suggestion
 Suggestions,자동 제안
 Supporting files,추가 파일
@@ -722,7 +722,7 @@ Template with a long number of entities,"The template has changed and the associ
        this process may take several minutes, do you want to continue?"
 Templates,템플릿
 Text,텍스트
-Text references limit warning,텍스트 참조 제한
+Text references limit warning,Text references are temporarily limited to a maximum of 300. We are currently working on a fix for this issue.
 The current model was trained at,현재 모델의 훈련은:
 "The first step is to label a sample of your documents, so Uwazi can learn which topics to suggest when helping you label your collection.","첫째, 문서를 라벨링하십시오. 라벨링된 문서는 Uwazi 가 알맞은 주제를 자동 제안하는 데에 필요한 샘플이 됩니다."
 The import process threw an error:,업로드 과정에서 오류가 발생했습니다:

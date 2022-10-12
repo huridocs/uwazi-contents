@@ -56,7 +56,7 @@ All,All
 "All changes will be lost, are you sure you want to proceed?",ستحذف جميع التغييرات، هل أنت متأكد أنك تريد المتابعة؟
 An error has occurred during data export,An error has occurred during data export
 An error occurred,An error occurred
-Analytics description,وصف التحليلات
+Analytics description,"If you want to track analytics related to your collection visits, Uwazi supports both Google Analytics and Matomo."
 Anyone will be able to see them,سيتمكن أي شخص من رؤيتها
 Apply to all languages,تفعيله لكل اللغات
 Are you sure you want to continue?,Are you sure you want to continue?
@@ -108,9 +108,11 @@ Change password,تغيير كلمة المرور
 Change will take effect after saving the template,سينفذ التغيير بعد حفظ القالب
 Changes can't be undone after saving. Changing text fields may invalidate the suggestions.,Changes can't be undone after saving. Changing text fields may invalidate the suggestions.
 Changing the type will erase all relationships to this entity.,Changing the type will erase all relationships to this entity.
-Character support description,This option enhances support for non-Latin languages as the default languages of your collection.
-Character support process warning,تحذير عملية دعم الأحرف
-Character support revert warning,تحذيرإعادة دعم الأحرف
+Character support description,"This option enhances support for non-Latin languages as the default languages of your collection.
+Selecting this option will update all template properties automatically. The process could take several minutes. Selecting this option will likely change the URLs of library filters. As a consequence, if you have menus or links using such URLs, they will probably stop working.
+You will need to update them manually. After selecting this option, you will not be able to revert back to using legacy property naming. If you are not facing issues with your template property names, we recommend leaving this unchecked."
+Character support process warning,"This process could take several minutes and will likely change URLs to library filters. If you have menus or links using such URLs, they will probably stop working after the update. You will need to update them manually."
+Character support revert warning,"After selecting this option, you will not be able to revert back to using legacy property naming. If you are not facing issues with your template property names, we recommend leaving this unchecked."
 Check to make this instance private (only logged-in users can access the data),التحقق لجعل قاعدة البيانات هذه خاصة (لا أحد يمكنه الوصول إلى البيانات سوى المستخدمين الذين تم تسجيل دخولهم)
 Chrome extension store link,Chrome extension store link
 Clear coordinates,مسح الإحداثيات
@@ -303,7 +305,7 @@ Fill,تعبئة
 Filters,قوائم تصفيه البيانات
 Filters AND operator,و
 Filters configuration,ضبط قوائم تصفية البيانات
-Filters configuration description,وصف تكوين عامل التصفية
+Filters configuration description,"By default, users can filter the entities in the library based on the types you have defined. However, you can configure how these entity types will be displayed:"
 Filters configuration example,مثال على تكوين عامل التصفية
 Filters OR operator,او
 Find,بحث
@@ -330,11 +332,11 @@ Groups,مجموعات
 help,مساعدة
 here,here
 Hide label,إخفاء التسمية
-https://yourdomain,https: // yourdomain
+https://yourdomain,https://yourdomain
 hubs,محاور
 Hybrid,هجين
 Icon,أيقونة
-"If it is an external URL, use a fully formed URL. Ie. http://www.uwazi.io.",إذا كان عنوان URL خارجي، استخدم عنوان URL مكتمل التكوين كالعنوان التالي: http://www.uwazi.io
+"If it is an external URL, use a fully formed URL. Ie. http://www.uwazi.io.","If it is an external URL, use a fully formed URL. Ie. http://www.uwazi.io."
 "If you want to continue, please type",إذا كنت ترغب في المتابعة، يرجى كتابة
 Impact of property change warning,All entities and documents that have already this property assigned will loose its current value
 Import,استيراد
@@ -442,16 +444,16 @@ Minimum,الحد الأدنى
 Mismatch / Empty,Mismatch / Empty
 Mismatch / Label,Mismatch / Label
 Mismatch / Value,Mismatch / Value
-mismatched passwords,Passwords don�t match
+mismatched passwords,Passwords don't match
 Mixed access,وصول مختلط
 ML TOC,ML TOC
 Month,شهر
 more options.,مزيد من الخيارات
-Multimedia fill description,تعبئة وصف الوسائط المتعددة
-Multimedia fit description,تطابق الوسائط المتعددة مع الوصف
+Multimedia fill description,"will attempt to fill the container, using it's entire width. In cards, cropping is likely to occur."
+Multimedia fit description,will show the entire media inside the container.
 Multiple date,Multiple date
 Multiple date range,Multiple date range
-Multiple relationships edit description,علاقات متعددة تحرير الوصف
+Multiple relationships edit description,Making changes to this property will affect other properties on this template because they all share relationships with the same configuration.
 Multiple select,Multiple select
 Name,اسم
 Name is required,الاسم مطلوب
@@ -478,7 +480,7 @@ No options found,لم يتم العثور على خيارات
 No property,هذه الخاصية غير متوفرة
 No References,لا مرجع
 No References description,المراجع هي اجزاء من الوثيقة التي لها علاقة بوثائق وكيانات أخرى
-No relationship types warning,لا يوجد تنبيه بأنواع العلاقات
+No relationship types warning,Relationship fields can not be added until you have at least one relationship type to select.
 No Relationships,لا توجد علاقات
 No Relationships description,العلاقات هي الروابط بين الكيانات
 No Table of Contents,لا يوجد جدول المحتويات
@@ -542,17 +544,17 @@ Preview,معاينة
 Previous,سابق
 Primary Documents,المستندات الأولية
 Priority sorting,تصنيف حسب الأولوية
-Priority sorting description,وصف التصنيف حسب الأولوية
+Priority sorting description,"Properties marked as priority sorting will be used as default sorting criteria. If more than one property is marked as priority sorting the system will try to pick-up the best fit. When listing mixed template types, the system will pick-up the best combined priority sorting."
 private,خاص
 Private instance,قاعدة بيانات داخلية
 Processing,معالجة
 Properties,الخصائص
 Properties from other templates in the collection using the same label,خصائص من قوالب أخرى في المجموعة تستخدم التسمية نفسها
-Property as default filter description,الخاصية كوصف لعامل التصفية الافتراضي
-Property as filter description,الخاصية كوصف لعامل التصفية
+Property as default filter description,"Use this property as a default filter in the library. When there are no entity types selected, this property will show as a default filter for your collection."
+Property as filter description,"This property will be used for filtering the library results. When properties match in equal name and field type with other entity types, they will be combined for filtering."
 property date,Date
 property daterange,Date Range
-Property delete warning,تنبيه حذف الخاصية
+Property delete warning,Deleting a template property will delete this metadata information on all entities using this template.
 property generatedid,Generated ID
 property geolocation,Geolocation
 property image,Image
@@ -572,7 +574,7 @@ Protection,حماية
 ProTip!,نصيحة احترافية!
 public,عام
 Public Endpoints,نقاط النهاية العامة
-Public form settings description,وصف إعدادات النموذج العام
+Public form settings description,Here you can configure the public form destination and the whitelisted templates
 Public form URL description,"If you have configured a public form and would like a different Uwazi collection to receive the submissions, enter its URL here."
 Public form whitelist description,"If you wish to include Public Forms on your pages, you must white-list the template IDs for which Public Forms are expected."
 Publish,انشر
@@ -700,7 +702,7 @@ Submitted entity to a remote instance,Submitted entity to a remote instance
 Submitting,Submitting
 Success,Success
 "Success, Upload another?","Success, Upload another?"
-Suggested labels description,وصف التسميات المقترحة
+Suggested labels description,"Uwazi has suggested labels for your collection. Review them using the ""View suggestions"" button next to each topic. Disable suggestions with the ""Show suggestions"" toggle."
 Suggestion,Suggestion
 Suggestions,اقتراحات
 Supporting files,ملفات الدعم
@@ -719,7 +721,7 @@ Template with a long number of entities,"The template has changed and the associ
        this process may take several minutes, do you want to continue?"
 Templates,قوالب
 Text,نص
-Text references limit warning,تنبيه حول حدود المراجع النصية
+Text references limit warning,Text references are temporarily limited to a maximum of 300. We are currently working on a fix for this issue.
 The current model was trained at,تلقى النموذج الحالي تدريباً في
 "The first step is to label a sample of your documents, so Uwazi can learn which topics to suggest when helping you label your collection.",تتمثل الخطوة الأولى في تسمية عينة من مستنداتك، لكي يعرف أوازي الموضوعات التي يجب اقتراحها عند مساعدتك في تسمية مجموعتك
 The import process threw an error:,نتج عن عملية الاستيراد الخطأ التالي:
@@ -819,7 +821,7 @@ Using Google Authenticator,باستخدام مصادقة جوجل
 Uwazi is developed by,أوازي من إعداد:
 "Uwazi is learning using the labelled documents. This may take up to 2 hours, and once completed you can review suggestions made by Uwazi for your collection.",يتعلم أوازي استخدام المستندات المسماة. قد يستغرق ذلك وقتاً يصل إلى ساعتين، ويمكنك فور الانتهاء مراجعة الاقتراحات التي قدمها أوازي لمجموعتك.
 Uwazi UI,واجهة استخدام أوازي
-Value,Value
+Value,قيمة
 Value cannot be transformed to date,Value cannot be transformed to date
 valueEmptyDesc,"Accepting is not available since there is no suggestion. If the value is correct, you can still click to fill the text selection so it becomes a ""mismatch / label"" that will be used as a training sample."
 valueMatchDesc,"It has a current value that matches the suggestion, but it doesn't have a text selection. Accepting will keep the value as it is and enrich it with the suggested text selection becoming a ""match / label"" that can be used as a training sample."
