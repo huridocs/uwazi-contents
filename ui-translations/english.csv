@@ -356,7 +356,7 @@ Icon,Icon
 "If you want to continue, please type","If you want to continue, please type"
 Impact of property change warning,All entities and documents that have already this property assigned will loose its current value
 Import,Import
-Import completed,Import completed
+Import completed,Import completed. Number of entities created:
 Import CSV,Import CSV
 Import instructions,Import instructions
 Imported entities from file,Imported entities from file
@@ -374,7 +374,7 @@ Inherit property,Inherit property
 Install browser extension (dynamic link),Install browser extension (dynamic link)
 INSTALL the browser extension,INSTALL the browser extension
 Install the Google Authenticator app on your mobile device,Install the Google Authenticator app on your mobile device
-Instructions to reset password,"Instructions to reset user password have been sent. Please check your email."
+Instructions to reset password,Instructions to reset user password have been sent. Please check your email.
 Invalid captcha,Invalid captcha
 Invalid csv: all the values for a row must be either nested or non-nested,Invalid csv: all the values for a row must be either nested or non-nested
 Invalid csv: nested value need to be under a non-nested value,Invalid csv: nested value need to be under a non-nested value
@@ -470,7 +470,7 @@ Multimedia fill description,"will attempt to fill the container, using it's enti
 Multimedia fit description,will show the entire media inside the container.
 Multiple date,Multiple date
 Multiple date range,Multiple date range
-Multiple inherited properties warning ([property 1] affects [property 2]),Multiple inherited properties warning ([property 1] affects [property 2])
+Multiple inherited properties warning ([property 1] affects [property 2]),affects
 Multiple relationships edit description,Making changes to this property will affect other properties on this template because they all share relationships with the same configuration.
 Multiple select,Multiple select
 Name,Name
@@ -480,8 +480,8 @@ Name is too short,Name is too short
 Name of the group,Name of the group
 Narrow down your searches,Narrow down your searches
 Narrow your search,Narrow your search
-Navigation menu tool tip part 1,Navigation menu tool tip part 1
-Navigation menu tool tip part 2,Navigation menu tool tip part 2
+Navigation menu tool tip part 1,"If it is an internal URL within this website, be sure to delete the first part"
+Navigation menu tool tip part 2,leaving only a relative URL starting with a slash character. Ie. /some_url.
 New entity,New entity
 New group,New group
 New language added,New language added
@@ -570,7 +570,7 @@ Previous,Previous
 Primary Documents,Primary Documents
 Priority sorting,Priority sorting
 Priority sorting description,"Properties marked as priority sorting will be used as default sorting criteria. If more than one property is marked as priority sorting the system will try to pick-up the best fit. When listing mixed template types, the system will pick-up the best combined priority sorting."
-Private entities description,Private entities description
+Private entities description,Caution: the selected entities will be **private**. Only allowed users will be able to see them.
 Private instance,Private instance
 Processing,Processing
 Properties,Properties
@@ -598,7 +598,7 @@ Protect your account,Protect your account
 Protection,Protection
 ProTip!,ProTip!
 Public Endpoints,Public Endpoints
-Public entities description,Public entities description
+Public entities description,Caution: the selected entities will be **public**. Anyone will be able to see them.
 Public form settings description,Here you can configure the public form destination and the whitelisted templates
 Public Form submit URL,Public Form submit URL
 Public form URL description,"If you have configured a public form and would like a different Uwazi collection to receive the submissions, enter its URL here."
@@ -634,7 +634,7 @@ Required property,Required property
 Reset,Reset
 Reset 2FA,Reset 2FA
 Reset default translation,Reset default translation
-reset language warning,reset language warning
+reset language warning,Are you sure you want to reset translation for this language?
 Reset Password,Reset Password
 Restricted,Restricted
 Return to login,Return to login
@@ -818,7 +818,8 @@ Two-factor authentication failed.,Two-factor authentication failed.
 Two-factor authentication secret,Two-factor authentication secret
 Two-factor verification failed,Two-factor verification failed
 Two-step verification,Two-step verification
-Two-step verification successfully,Two-step verification successfully
+Two-step verification successfully,"Congratulations!
+You have successfully configured two-step verification."
 Two-step verification token required,Two-step verification token required
 Type,Type
 Unexpected error,Unexpected error

@@ -55,7 +55,7 @@ Administrators and Editors,Administradores y Editores.
 ALL,TODOS
 All,TODOS
 "All changes will be lost, are you sure you want to proceed?","Se perderán todos los cambios, ¿estás seguro de que quieres continuar?"
-Allow captcha bypass,Permitir omisión de captcha
+Allow captcha bypass,Permitir la omisión de captcha
 An error has occurred during data export,Se ha producido un error durante la exportación de datos.
 An error occurred,Se ha producido un error
 Analytics description,"Si quieres dar seguimiento a las analíticas relacionadas con las visitas a tu colección, Uwazi soporta analíticas tanto de Google como de Matomo"
@@ -131,7 +131,7 @@ Configure properties,Configurar propiedades
 Configure suggestions,Configurar sugerencias
 Configure templates,Configurar plantillas
 Confirm,Confirmar
-CONFIRM,CONFIRMAR
+CONFIRM,CONFIRM
 Confirm action,Confirmar acción
 Confirm add,Confirmar adicción
 Confirm delete connection,Confirmar eliminación de relación
@@ -352,7 +352,7 @@ Icon,Icono
 "If you want to continue, please type","Si quieres continuar, por favor escribe"
 Impact of property change warning,Todas las entidades y documentos que ya tienen esta propiedad asignada perderán su valor actual
 Import,Importar
-Import completed,Importación completada
+Import completed,Importación completada. Número de entidades creadas:
 Import CSV,Importar CSV
 Import instructions,Instrucciones de importación
 Imported entities from file,Entidades importadas desde el archivo
@@ -370,7 +370,7 @@ Inherit property,Heredar propiedad
 Install browser extension (dynamic link),Instalar extensión de navegador (enlace dinámico)
 INSTALL the browser extension,INSTALAR la extensión de navegador
 Install the Google Authenticator app on your mobile device,Instala la aplicación Google Authenticator en tu dispositivo móvil.
-Instructions to reset password,"Instructions to reset user password have been sent. Please check your email."
+Instructions to reset password,"Se han enviado las instrucciones para restablecer tu contraseña, por favor revisa tu correo electrónico."
 Invalid captcha,Captcha no válido
 Invalid csv: all the values for a row must be either nested or non-nested,CSV no válido: o todos o ninguno de los valores para una fila deben estar anidados
 Invalid csv: nested value need to be under a non-nested value,CSV no válido: los valores anidados necesitan estar bajo un valor no anidado
@@ -466,7 +466,7 @@ Multimedia fill description,"intentará llenar el contenedor, utilizando todo su
 Multimedia fit description,mostrará todo el contenido multimedia dentro del contenedor.
 Multiple date,Fecha múltiple
 Multiple date range,Rango de fechas múltiple
-Multiple inherited properties warning ([property 1] affects [property 2]),Multiple inherited properties warning ([property 1] affects [property 2])
+Multiple inherited properties warning ([property 1] affects [property 2]),afecta
 Multiple relationships edit description,Hacer cambios a esta propiedad afectará a otras propiedades en esta plantilla porque todos ellas comparten relaciones con la misma configuración
 Multiple select,Selección múltiple
 Name,Nombre
@@ -476,8 +476,8 @@ Name is too short,El nombre es muy corto
 Name of the group,Nombre del grupo
 Narrow down your searches,Reducir tus búsquedas
 Narrow your search,Reducir tu búsqueda
-Navigation menu tool tip part 1,Navigation menu tool tip part 1
-Navigation menu tool tip part 2,Navigation menu tool tip part 2
+Navigation menu tool tip part 1,"Si utilizas una URL interna de este sitio web, asegúrate de eliminar la primera parte."
+Navigation menu tool tip part 2,dejando solo una URL relativa que comienza con una barra inclinada. Es decir. /algun_url.
 New entity,Nueva entidad
 New group,New group
 New language added,Nuevo idioma añadido
@@ -566,7 +566,7 @@ Previous,Anterior
 Primary Documents,Documentos primarios
 Priority sorting,Ordenamiento prioritario
 Priority sorting description,"Las propiedades marcadas como ordenamiento prioritaria se utilizarán como criterios de ordenamiento predeterminados. Si se marca más de una propiedad como ordenación prioritaria, el sistema intentará elegir la que mejor se ajuste. Al enumerar tipos de plantillas mixtas, el sistema seleccionará el mejor ordenamiento combinado."
-Private entities description,Private entities description
+Private entities description,AVISO: Las entidades seleccionadas serán **privadas**. Solo usuarios con permiso podrán visualizarlos.
 Private instance,Instancia privada
 Processing,Procesando
 Properties,Propiedades
@@ -594,7 +594,7 @@ Protect your account,Protege tu cuenta
 Protection,Protección
 ProTip!,¡Consejo avanzado!
 Public Endpoints,Destino final público
-Public entities description,Public entities description
+Public entities description,AVISO: Las entidades seleccionadas serán **públicas**. Cualquier persona podrá visualizaras.
 Public form settings description,Aquí puedes configurar el destino del formulario público y la lista blanca de plantillas
 Public Form submit URL,Public Form submit URL
 Public form URL description,"Si has configurado un formulario público y deseas que una colección diferente de Uwazi reciba los envíos, ingresa su URL aquí."
@@ -630,7 +630,7 @@ Required property,Propiedad requerida
 Reset,Reiniciar
 Reset 2FA,Resetear 2FA
 Reset default translation,Resetear traducción predeterminada
-reset language warning,reset language warning
+reset language warning,Estás seguro que quieres resetear las traducciones para este idioma?
 Reset Password,Restablecer contraseña
 Restricted,Restringido
 Return to login,Regresar al inicio de sesión
@@ -813,7 +813,8 @@ Two-factor authentication failed.,Doble factor de autenticación fallido.
 Two-factor authentication secret,Secreto doble factor autenticación
 Two-factor verification failed,Fallo en la verificación del doble factor de autenticación
 Two-step verification,Verificación de dos pasos.
-Two-step verification successfully,Two-step verification successfully
+Two-step verification successfully,"¡Felicidades!
+Has configurado con éxito la verificación de dos pasos."
 Two-step verification token required,El token de verificación es obligatorio
 Type,Tipo
 Unexpected error,Unexpected error
