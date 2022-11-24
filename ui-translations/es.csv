@@ -203,7 +203,7 @@ Custom starting location,Configurar ubicación inicial
 Custom Uploads,Subidas personalizadas
 Dashboard,Tablero
 Data imported,Datos importados
-Date added,Fecha Añadida
+Date added,Fecha de creación
 Date format,Formato de fecha
 Date modified,Fecha de la modificación
 Day,Día
@@ -217,7 +217,7 @@ Delete entities and documents,Eliminar entidades y documentos
 Delete file,Eliminar archivo
 Delete Group,Eliminar grupo
 Delete language,Eliminar idioma
-delete language warning,"Esta acción puede llevar algún tiempo, no puede ser reversada y eliminará toda la información en ese idioma."
+delete language warning,"Esta acción puede llevar algún tiempo, no puede ser reversada y eliminará toda la información en este idioma."
 Delete Property,Eliminar propiedad
 Deleted attachment,Archivo adjunto eliminado
 Deleted custom file,Archivo personalizado eliminado
@@ -673,7 +673,7 @@ Select relationship type,Seleccionar tipo de relación
 Select target paragraph,Seleccionar párrafo de destino
 Select...,Seleccionar
 selected,seleccionado(s)
-selected of,seleccionar de
+selected of,seleccionados de
 Semantic search,Búsqueda semántica
 Semantic Search,Búsqueda semántica
 Semantic search minimum sentences help,La búsqueda semántica se aplica a cada oración en un documento. Filtra los documentos por el número mínimo de oraciones que superan el límite.
@@ -707,7 +707,7 @@ Show in cards,Mostrar en tarjetas
 Show more,Mostrar más
 Show Suggestions,Mostrar sugerencias
 Show toolbar,Mostrar la barra de herramientas
-shown of,mostrar de
+shown of,listados de
 Sign in,Registrarse
 Single date,Fecha única
 Single date range,Rango de fechas únicas
@@ -761,6 +761,7 @@ There are no pages enabled for entity view,No hay páginas habilitadas para la v
 There are no untranslated terms,No hay términos sin traducir
 There are unsaved changes. Are you sure you want to discard them and switch to a different document?,Hay cambios sin guardar. Estas seguro que quieres descartarlos y cambiar a un documento diferente?
 Thesauri,Tesauros
+Thesauri name,Nombre del Tesauro
 Thesaurus,Tesauro
 Thesaurus saved,Tesauro guardado
 This action may take some time while we add the extra language to the entire collection.,Esta acción puede llevar algún tiempo mientras agregamos el idioma adicional a toda la colección.
