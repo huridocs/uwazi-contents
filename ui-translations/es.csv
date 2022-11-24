@@ -131,7 +131,7 @@ Configure properties,Configurar propiedades
 Configure suggestions,Configurar sugerencias
 Configure templates,Configurar plantillas
 Confirm,Confirmar
-CONFIRM,CONFIRM
+CONFIRM,CONFIRMAR
 Confirm action,Confirmar acción
 Confirm add,Confirmar adicción
 Confirm delete connection,Confirmar eliminación de relación
@@ -343,7 +343,7 @@ help,ayuda
 here,aquí
 Hide actions,Ocultar acciones
 Hide label,Ocultar etiqueta
-Hide toolbar,Ocutar barra de herramientas
+Hide toolbar,Ocultar barra de herramientas
 https://yourdomain,https://tudominio
 hubs,nodos
 Hybrid,Híbrido
@@ -378,8 +378,8 @@ Invalid email,Email no válido
 Invalid form,Formulario no válido
 Invalid home page url,URL  de página de inicio no válido
 It could also very easily break the app. Only write code here if you know exactly what you are doing.,La aplicación incluso podría dejar de funcionar. Escribe código aquí únicamente si sabes exactamente lo que estás haciendo.
-Item,Item
-Item name,Item name
+Item,Elemento
+Item name,Nombre del elemento
 Items:,Elementos:
 Keep this in mind if you want to edit:,Ten en cuenta esto si quieres editar:
 key,clave
@@ -425,9 +425,9 @@ Lost connection to the server. Your changes may be lost,Se perdió la conexión 
 low,bajo
 Manage site settings and configuration,Administrar la configuración del sitio
 Map,Mapa
-Map api key,Map api key
+Map api key,Clave del API de Mapas
 Map api key tooltip,Se requiere una clave API para usar Mapbox o Google Maps.
-Map provider,Map provider
+Map provider,Proveedor de mapas
 Map view,Vista de mapa
 MapBox,MapBox
 Mapping conflict error,"Es necesaria una reindexación de su colección. El motivo puede variar
@@ -479,10 +479,10 @@ Narrow your search,Reducir tu búsqueda
 Navigation menu tool tip part 1,"Si utilizas una URL interna de este sitio web, asegúrate de eliminar la primera parte."
 Navigation menu tool tip part 2,dejando solo una URL relativa que comienza con una barra inclinada. Es decir. /algun_url.
 New entity,Nueva entidad
-New group,New group
+New group,Grupo nuevo
 New language added,Nuevo idioma añadido
 New password,Nueva contraseña
-New relationship type,New relationship type
+New relationship type,Nuevo tipo de relación
 New relationships group,Nuevo grupo de relaciones
 Next,Próximo
 No,No
@@ -510,7 +510,7 @@ No value,Sin valor
 No Value,Sin valor
 Non-matching,no coincidente
 Normal view,Vista normal
-Not Found,Not Found
+Not Found,No encontrado
 Nothing to see here! The selected documents are not using the selected thesaurus,Sin visualizaciones. Los documentos seleccionados no están utilizando el tesauro indicado.
 Number of sentences above threshold,El número de frases supera el límite
 Obsolete,Obsoleto
@@ -540,14 +540,14 @@ other,Otro
 out of,fuera de
 Page,Página
 Page Javascript,Página JavaScript
-Page name,Page name
+Page name,Nombre de la página
 Pages,Páginas
 Password,Contraseña
 Password changed success,Contraseña cambiada exitosamente
 Password Error,¡Error de contraseña! Ambos campos son obligatorios y deben coincidir
 Password is too long,La contraseña es demasiado larga
 Password updated,Contraseña actualizada
-Paste URL here,Paste URL here
+Paste URL here,Pega el URL aquí
 PDF,PDF
 per page,por página
 Permission,Permiso
@@ -557,8 +557,8 @@ Plain text,Texto sin formato
 Please contact an admin for details.,"Por favor, contacta con un administrador para más detalles."
 Please type in letters and numbers from the image to start the export.,"Por favor, teclea los caracteres de la imagen para iniciar la exportación."
 Precision,Precisión
-Preserve,Preserve
-Preserve Extension,Extensión Preserve
+Preserve,Preservar
+Preserve Extension,Extensión Preservar
 Preserve Setup Description,"Si conoces el URL y TOKEN de Uwazi, haz click en el enlace a continuación y completa la información requerida."
 Press enter to add,Pulsa ENTER para añadir
 Preview,Previsualizar
@@ -596,7 +596,7 @@ ProTip!,¡Consejo avanzado!
 Public Endpoints,Destino final público
 Public entities description,AVISO: Las entidades seleccionadas serán **públicas**. Cualquier persona podrá visualizaras.
 Public form settings description,Aquí puedes configurar el destino del formulario público y la lista blanca de plantillas
-Public Form submit URL,Public Form submit URL
+Public Form submit URL,URL de envío de formulario público
 Public form URL description,"Si has configurado un formulario público y deseas que una colección diferente de Uwazi reciba los envíos, ingresa su URL aquí."
 Public form whitelist description,"Si deseas incluir formularios públicos en tus páginas, debes incluir en la lista blanca los identificadores de las plantillas para los que se esperan formularios públicos"
 Publish,Publicar
@@ -607,7 +607,7 @@ RAW,SIN FORMATO
 Re-uploaded document,Documento recargado
 Receiving email,Correo electrónico de recepción
 Receiving email description,"Si tienes un formulario de contacto, esta es la dirección de correo electrónico que recibirá los envíos del formulario."
-Reference,Reference
+Reference,Referencia
 References,Referencias
 Reject,Rechazar
 Relationship,Relación
@@ -700,13 +700,13 @@ Share entities with the public,Compartir entidades públicamente
 Share with people and groups,Compartir con personas o grupos
 Shared as editor,Compartido como editor
 Shared as viewer,Compartido como observador
-Show actions,Show actions
+Show actions,Mostrar acciones
 Show cookie policy,Mostrar política de cookies
 Show filters,Mostrar filtros
 Show in cards,Mostrar en tarjetas
 Show more,Mostrar más
 Show Suggestions,Mostrar sugerencias
-Show toolbar,Show toolbar
+Show toolbar,Mostrar la barra de herramientas
 shown of,mostrar de
 Sign in,Registrarse
 Single date,Fecha única
@@ -716,13 +716,13 @@ Single select,Selección única
 Size,Tamaño
 Something went wrong,Algo salió mal
 Sort,Ordenar
-Sort ascending,Sort ascending
+Sort ascending,Orden ascendente
 Sort by,Ordenar por
-Sort descending,Sort descending
+Sort descending,Orden descendiente
 sorted by,ordenado por
 State,Estado
 State Legend,Leyenda de Estado
-Storage,Storage
+Storage,Almacenamiento
 Streets,Calles
 Strict mode,Modo estricto
 Style,Estilo
@@ -746,7 +746,7 @@ Table of contents,Tabla de Contenidos
 Table view,Vista de Tabla
 Template,Plantilla
 Template conflict,Conflicto de plantilla
-Template name,Template name
+Template name,Nombre de plantilla
 Template with a long number of entities,"La plantilla ha cambiado y las entidades asociadas se volverán a indexar, este proceso puede tardar varios minutos, ¿quieres continuar?"
 Templates,Plantillas
 Text,Texto
@@ -754,7 +754,7 @@ Text references limit warning,Las referencias de texto están temporalmente limi
 The current model was trained at,El modelo de datos actual fue entrenado en
 "The first step is to label a sample of your documents, so Uwazi can learn which topics to suggest when helping you label your collection.","El primer paso es etiquetar una muestra de tus documentos, para que Uwazi pueda aprender los temas a sugerir al momento de etiquetar una colección."
 The import process threw an error:,El proceso de importación tiene un error.
-The request could not be processed.,The request could not be processed.
+The request could not be processed.,La petición no pudo ser procesada.
 The template contains errors,La plantilla contiene errores
 The token does not validate against the secret key!,¡El token no es válido en base a la clave secreta!
 There are no pages enabled for entity view,No hay páginas habilitadas para la vista de entidad
@@ -777,7 +777,7 @@ This property will be inherited from the related entities and shown as metadata 
 This property will be shown using all the width available.,Esta propiedad se mostrará utilizando todo el espacio disponible.
 This property will be shown without the label.,Esta propiedad se mostrará sin su etiqueta.
 This relationship type is being used and cannot be deleted.,Este tipo de relación esta siendo utilizado y no puede ser eliminado.
-this template,this template
+this template,esta plantilla
 This template has associated entities,Esta plantilla tiene entidades asociadas
 This template will be used as default for new entities.,Esta plantilla se utilizará como predeterminada para nuevas entidades
 This thesaurus is being used in document types and cannot be deleted.,Este tesauro está siendo utilizado en plantillas y no puede ser eliminado.
@@ -794,10 +794,10 @@ to learn more about the components.,para aprender más sobre los componentes.
 to view your authentication code and verify your identity.,para ver el código de autenticación y verificar tu identidad.
 Tools,Herramientas
 topic suggestions tip,"Mejora la calidad de las sugerencias de temas, encontrando más ejemplos de documentos con esta etiqueta."
-Total entities,Total entities
-Total files,Total files
-"Total files from main documents, supporting files and custom uploads","Total files from main documents, supporting files and custom uploads"
-Total users,Total users
+Total entities,Total de entidades
+Total files,Total de archivos
+"Total files from main documents, supporting files and custom uploads","Total de archivos de documentos primarios, archivos adjuntos y archivos personalizados subidos"
+Total users,Total de usuarios
 Train model,Entrenar al modelo
 Training,Entrenando
 Training model...,Entrenando el modelo…
@@ -817,7 +817,7 @@ Two-step verification successfully,"¡Felicidades!
 Has configurado con éxito la verificación de dos pasos."
 Two-step verification token required,El token de verificación es obligatorio
 Type,Tipo
-Unexpected error,Unexpected error
+Unexpected error,Error inesperado
 Unlink,Desenlazar
 Unsupported OCR language,Idioma no soportado para ROC
 Untranslated Terms,Términos sin traducir
@@ -873,12 +873,12 @@ View in library,Ver en la colección
 View suggestions,Ver sugerencias
 WARNING,ADVERTENCIA
 Warning: you are editing multiple entities. Fields marked with a,ADVERTENCIA: Estás editando múltiples entidades. Los campos marcados con un
-We can't find the page you're looking for.,We can't find the page you're looking for.
+We can't find the page you're looking for.,No podemos hallar la página que buscas.
 We recommend labeling,Recomendamos etiquetar
 Website analytics,Estadísticas del sitio web
 Welcome to Uwazi,Bienvenido a Uwazi
 "Well, this is awkward...","Bueno, esto es incómodo..."
-Whitelisted Templates,Whitelisted Templates
+Whitelisted Templates,Lista blanca de plantillas
 will be updated with the same value.,se actualizará con el mismo valor
 with,con
 With great power comes great responsibility!,"¡Con un gran poder, viene una gran responsabilidad!"
