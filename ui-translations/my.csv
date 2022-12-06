@@ -1,7 +1,9 @@
 Key,Burmese
-(view page),(စာမျက်နှာ ကြည့်ရန်)
 % of sentences above threshold,အနိမ့်ဆုံး သတ်မှတ်ချက် အထက်ရှိ ဝါကျ % (ရာခိုင်နှုန်း)
+(view page),(စာမျက်နှာ ကြည့်ရန်)
 + click to select multiple cards.,+ click to select multiple cards.
+// Javascript - With great power comes great responsibility!,// Javascript - With great power comes great responsibility!
+2FA,2FA
 2fa add account tip,"Open the app and select ""Add Account"" (usually a plus symbol)"
 2fa QA scan tip,"Scan the following QR code selecting the ""scan barcode"" option:"
 A generated ID will be the default title.,ထုတ်ပေးသည့် ID သည် ပုံသေမူလ ခေါင်းစဉ် ဖြစ်ပါမည်။
@@ -50,17 +52,16 @@ added to hub.,added to hub.
 Adjacent geolocation properties will render on the same map,ကပ်လျက်ရှိသော ပထဝီတည်နေရာ အချင်းအရာမျာသည် မြေပုံတစ်ခုတည်းတွင် တပေါင်းတည်း ပါဝင်ပါမည်
 Admin,အက်မင်
 Administrators and Editors,အက်မင်များနှင့် အယ်ဒီတာများ
-affects,အကျိုးသက်ရောက်သည်
 ALL,အားလုံး
 All,အားလုံး
 "All changes will be lost, are you sure you want to proceed?",အပြောင်းအလဲအားလုံးကို ဆုံးရှုံးပါမည်၊ ရှေ့ဆက်လိုသည်မှာ သေချာပါသလား။
+Allow captcha bypass,Allow captcha bypass
 An error has occurred during data export,An error has occurred during data export
 An error occurred,An error occurred
 Analytics description,"If you want to track analytics related to your collection visits, Uwazi supports both Google Analytics and Matomo."
-Anyone will be able to see them,မည်သူမဆို ၎င်းတို့ကို မြင်နိုင်ပါမည်
+Any entity or document,Any entity or document
 Apply to all languages,Apply to all languages
 Are you sure you want to continue?,Are you sure you want to continue?
-Are you sure you want to delete,Are you sure you want to delete
 Are you sure you want to delete this attachment?,Are you sure you want to delete this attachment?
 Are you sure you want to delete this connection?,Are you sure you want to delete this connection?
 Are you sure you want to delete this entity?,Are you sure you want to delete this entity?
@@ -69,7 +70,6 @@ Are you sure you want to delete this item?,Are you sure you want to delete this 
 Are you sure you want to delete this page?,Are you sure you want to delete this page?
 Are you sure you want to delete this relationship type?,Are you sure you want to delete this relationship type?
 Are you sure you want to delete this thesaurus?,Are you sure you want to delete this thesaurus?
-Are you sure you want to reset translation for,Are you sure you want to reset translation for
 Attachment deleted,Attachment deleted
 Attachment renamed,Attachment renamed
 Attachment uploaded,Attachment uploaded
@@ -87,17 +87,18 @@ Back to dashboard,Back to dashboard
 Back to search,ရှာဖွေမှုသို့ ပြန်သွားရန်
 Back to thesauri,ဝေါဟာရပဒေသာကျမ်းများသို့ ပြန်သွားရန်
 Back to thesaurus,ဝေါဟာရပဒေသာကျမ်းသို့ ပြန်သွားရန်
+Bad Request,Bad Request
 Body,စာကိုယ်
 Browse files to upload,အပ်လုဒ်လုပ်ရန် ဖိုင်များကို ရှာဖွေပါ
 Browse your PDFs to upload,အပ်လုဒ်လုပ်ရန် သင့် PDF များကို ရှာဖွေပါ
 "by ids, methods, keywords, etc.","by ids, methods, keywords, etc."
 Can edit,တည်းဖြတ်နိုင်သည်
-Can not delete template:,Can not delete template:
 Can see,မြင်နိုင်သည်
 Can view,ကြည့်နိုင်သည်
 Cancel,ပယ်ဖျက်ရန်
 Canceling...,Canceling...
 Cannot delete relationship type:,Cannot delete relationship type:
+Cannot delete template:,Cannot delete template:
 Cannot delete thesaurus:,Cannot delete thesaurus:
 Captcha,ကက်ပ်ချာ
 Captcha bypass,"By toggling this on you can allow users to submit to your whitelisted templates without having to fill a CAPTCHA. 
@@ -106,7 +107,6 @@ header ""Bypass-Captcha: true"" is sent along. This option is insecure and can b
 malicious content."
 Cards,ကတ်များ
 Cards view,ကတ်မြင်ကွင်း
-Caution: the selected entities will be,သတိပြုရန်- ရွေးချယ်ထားသော အရာများမှာ
 Change password,စကားဝှက် ပြောင်းရန်
 Change will take effect after saving the template,ပုံစံပြားကို သိမ်းဆည်းပြီးနောက် အပြောင်းအလဲ စတင်သက်ရောက်ပါမည်
 Changes can't be undone after saving. Changing text fields may invalidate the suggestions.,Changes can't be undone after saving. Changing text fields may invalidate the suggestions.
@@ -133,27 +133,27 @@ Configure properties,Configure properties
 Configure suggestions,အကြံပြုချက်များကို ချိန်ညှိပါ
 Configure templates,Configure templates
 Confirm,အတည်ပြုရန်
+CONFIRM,အတည်ပြုရန်
 Confirm action,Confirm action
 Confirm add,Confirm add
-Confirm delete,Confirm delete
 Confirm delete connection,Confirm delete connection
-Confirm delete entity,Confirm delete entity
-Confirm delete file,Confirm delete file
 Confirm delete multiple items,အိုင်တမ်များကို ဖျက်ရန် အတည်ပြုပါ
-Confirm delete of template:,Confirm delete of template:
-Confirm delete page:,Confirm delete page:
-Confirm delete relationship type:,Confirm delete relationship type:
 confirm delete template,"Are you sure you want to delete this entity type?
         This will delete the template and all relationship properties from other templates pointing to this one."
-Confirm delete thesaurus:,Confirm delete thesaurus:
 Confirm deletion,ဖျက်ရန် အတည်ပြုပါ
+Confirm deletion of,Confirm deletion of
+Confirm deletion of entity,Confirm deletion of entity
+Confirm deletion of file,Confirm deletion of file
+Confirm deletion of page:,Confirm deletion of page:
+Confirm deletion of relationship type:,Confirm deletion of relationship type:
+Confirm deletion of template:,Confirm deletion of template:
+Confirm deletion of thesaurus:,Confirm deletion of thesaurus:
 Confirm discard changes,Confirm discard changes
 Confirm edit suggestion-enabled Thesaurus,Confirm edit suggestion-enabled Thesaurus
 Confirm new password,စကားဝှက်အသစ်ကို အတည်ပြုပါ
 Confirm publish multiple items,အရာများစွာကို တင်ရန် အတည်ပြုပါ
 Confirm reset translation,Confirm reset translation
 Confirm suggestion acceptance,Confirm suggestion acceptance
-Congratulations!,ဂုဏ်ယူပါသည်။
 Connect to a document,စာရွက်စာတမ်းနှင့် ချိတ်ဆက်ရန်
 Connect to a paragraph,စာပိုဒ်နှင့် ချိတ်ဆက်ရန်
 Connected to server,Connected to server
@@ -175,15 +175,16 @@ Could not reach server. Please try again later.,Could not reach server. Please t
 Create,ဖန်တီးရန်
 CREATE,ဖန်တီးရန်
 Create and edit thesauri,Create and edit thesauri
+Create Connection,Create Connection
 Create dictionaries,အဘိဓာန်များကို ဖန်တီးရန်
 Create entity,ပါဝင်သည့်အရာ ဖန်တီးရန်
 Create Entity,ပါဝင်သည့်အရာ ဖန်တီးရန်
 Create group,အုပ်စု ဖန်တီးရန်
 Create new entities and upload documents,Create new entities and upload documents
+Create Reference,Create Reference
 Create relationship types,Create relationship types
 Create relationships and references,Create relationships and references
 Create table of contents,Create table of contents
-created,ဖန်တီးထားသည်
 Created entity,Created entity
 Created entity coming from a public form,Created entity coming from a public form
 Created page,Created page
@@ -198,17 +199,20 @@ Currently connections only need a title.,လက်ရှိတွင် ချ�
 Custom component error,စိတ်ကြိုက် အစိတ်အပိုင်း ချွတ်ယွင်းချက်
 Custom CSS,စိတ်ကြိုက် CSS
 Custom favicon,Custom favicon
+Custom JS,Custom JS
 custom page error warning,"There is an unexpected error on this custom page, it may not work properly. Please contact an admin for details."
 Custom starting location,Custom starting location
-Custom styles,စိတ်ကြိုက် စတိုင်များ
 Custom Uploads,စိတ်ကြိုက် အပ်လုဒ်များ
+Dashboard,Dashboard
 Data imported,ဒေတာ ထည့်သွင်းပြီး
 Date added,ဒေတာ ထည့်ပြီး
 Date format,ရက်စွဲ ဖော်မက်
 Date modified,ရက်စွဲ ပြင်ဆင်ပြီး
 Day,နေ့
+Default filter,Default filter
 Default language change success,ပုံသေမူလ ဘာသာစကား ပြောင်းလဲမှု အောင်မြင်ပါသည်
 Default template,ပုံသေမူလ ပုံစံပြား
+Default view,Default view
 Delete,ဖျက်ရန်
 DELETE,ဖျက်ရန်
 Delete entities and documents,Delete entities and documents
@@ -237,6 +241,7 @@ Display entity view from page,စာမျက်နှာမှ ဖြည့်�
 Document,စာရွက်စာတမ်း
 Document and entity types,စာရွက်စာတမ်းနှင့် ဖြည့်သွင်းချက် အမျိုးအစားများ
 Document contents,စာရွက်စာတမ်း မာတိကာ
+Document OCR trigger,Document OCR trigger
 Document Title,စာရွက်စာတမ်း ခေါင်းစဉ်
 Documentation,စာရွက်စာတမ်း
 documents,စာရွက်စာတမ်းများ
@@ -252,7 +257,7 @@ Download,ဒေါင်းလုဒ်လုပ်ရန်
 Drag and drop file in this window to upload,အပ်လုဒ်လုပ်ရန် ဖိုင်ကို ဤဝင်းဒိုးထဲသို့ ဆွဲချပါ
 Drag items here,ဖိုင်များကို ဒီဘက် ဆွဲရွှေ့ပါ
 Drag properties here,ထူးခြားချက်များကို ဒီဘက် ဆွဲရွှေ့ပါ
-Drop your files here to upload or,သင့်ဖိုင်များကို အပ်လုဒ်လုပ်ရန် ဒီနေရာတွင် ချပါ သို့မဟုတ် 
+Drop your files here to upload or,သင့်ဖိုင်များကို အပ်လုဒ်လုပ်ရန် ဒီနေရာတွင် ချပါ သို့မဟုတ်
 Duplicate values not allowed.,Duplicate values not allowed.
 Duplicated email,ပွားထားသော အီးမေးလ်
 Duplicated label,ပွားထားသော တံဆိပ်
@@ -279,6 +284,7 @@ Enable this page to be used as an entity view page:,ဖြည့်သွင်�
 Enter the 6-digit verification code generated by your Authenticator app:,သင့်  Authenticator အက်ပ်မှ ထုတ်လုပ်ပေးသည့် ဂဏန်း 6 လုံးပါ မှန်ကန်ကြောင်း စစ်ဆေးသည့်ကုဒ်ကို ရိုက်ထည့်ပါ-
 Entities,ဖြည့်သွင်းချက်များ
 entities,ဖြည့်သွင်းချက်များ
+Entities across all languages,Entities across all languages
 "Entities can be displayed in a custom page. For that, a custom page needs to be created in Pages, and then selected here.",ဖြည့်သွင်းချက်များကို စိတ်ကြိုက် စာမျက်နှာတွင် ပြသနိုင်သည်။ ထိုသို့ပြုလုပ်ရန် စာမျက်နှာများတွင် စိတ်ကြိုက်စာမျက်နှာတစ်ခုကို ဖန်တီး၍ ဤနေရာတွင် ရွေးချယ်ထားရန် လိုအပ်သည်။
 Entity,ဖြည့်သွင်းချက်
 Entity deleted,Entity deleted
@@ -302,6 +308,8 @@ FEATURED,FEATURED
 File,ဖိုင်
 File deleted,File deleted
 File updated,File updated
+Files,Files
+Files and database usage,Files and database usage
 Fill,ဖြည့်ရန်
 Filters,စစ်ထုတ်မှုများ
 Filters AND operator,စစ်ထုတ်မှုများနှင့် အော်ပရေတာ
@@ -320,19 +328,24 @@ Flag,အလံ
 Forgot Password?,စကားဝှက် မေ့နေပါသလား။
 Forms and email configuration,ပုံစံများနှင့် အီးမေးလ် ဖွဲ့စည်းတည်ဆောက်ပုံ
 Full edit mode,အပြည့်အဝ တည်းဖြတ် မုဒ်
+Full width,Full width
 General,ယေဘုယျ
 Global CSS,ကမ္ဘာသုံး CSS
+Global CSS & JS,Global CSS & JS
 Google Analytics,Google Analytics
 Google Analytics ID,Google Analytics ID
 Google Maps,Google Maps
 Group,Group
 Group created,Group created
 Group deleted,Group deleted
+Group name,Group name
 Group updated,Group updated
 Groups,အုပ်စုများ
 help,အကူအညီ
 here,here
+Hide actions,Hide actions
 Hide label,Hide label
+Hide toolbar,Hide toolbar
 https://yourdomain,https://yourdomain
 hubs,ဟတ်ဘ်များ
 Hybrid,Hybrid
@@ -341,7 +354,7 @@ Icon,အိုင်ကွန်
 "If you want to continue, please type",ဆက်လက်ဆောင်ရွက်လိုပါက ကျေးဇူးပြု၍ စာရိုက်ပါ
 Impact of property change warning,All entities and documents that have already this property assigned will loose its current value
 Import,ထည့်သွင်းရန်
-Import completed:,ထည့်သွင်းပြီးပါပြီ-
+Import completed,Import completed. Number of entities created:
 Import CSV,CSV ထည့်သွင်းရန်
 Import instructions,ထည့်သွင်းမှု ညွှန်ကြားချက်များ
 Imported entities from file,Imported entities from file
@@ -354,12 +367,12 @@ incorrect suggestion check,Is the suggestion incorrect? Click on 'Reject' and Uw
 Indexing entities may take a few minutes,ဖြည့်သွင်းချက်များကို အညွှန်းတပ်ခြင်းသည် မိနစ်အနည်းငယ် ကြာနိုင်ပါသည်
 Info,အချက်အလက်
 Information extraction training,Information extraction training
+Inherit,Inherit
 Inherit property,ဂုဏ်သတ္တိကို အမွေဆက်ခံရန်
 Install browser extension (dynamic link),Install browser extension (dynamic link)
 INSTALL the browser extension,INSTALL the browser extension
 Install the Google Authenticator app on your mobile device,Google Authenticator အက်ပ်ကို သင့်မိုဘိုင်းစက်တွင် တပ်ဆင်ပါ
-"Instructions to reset your password have been sent, please check your email","Instructions to reset your password have been sent, please check your email"
-internal URL tip,"If it is an internal URL within this website, be sure to delete the first part"
+Instructions to reset password,Instructions to reset user password have been sent. Please check your email.
 Invalid captcha,ကက်ပ်ချာ မှားနေသည်
 Invalid csv: all the values for a row must be either nested or non-nested,Invalid csv: all the values for a row must be either nested or non-nested
 Invalid csv: nested value need to be under a non-nested value,Invalid csv: nested value need to be under a non-nested value
@@ -367,6 +380,8 @@ Invalid email,အီးမေးလ် မှားနေသည်
 Invalid form,ပုံစံ မှားနေသည်
 Invalid home page url,Invalid home page url
 It could also very easily break the app. Only write code here if you know exactly what you are doing.,၎င်းသည် အက်ပ်ကိုလည်း အလွန်လွယ်ကူစွာ ဖျက်နိုင်သည်။ သင်ဘာလုပ်နေသည်ကို သေချာသိမှသာ ဤနေရာတွင် ကုဒ်ရေးပါ။
+Item,Item
+Item name,Item name
 Items:,ပါဝင်သည့်အရာများ-
 Keep this in mind if you want to edit:,Keep this in mind if you want to edit:
 key,Burmese
@@ -386,17 +401,14 @@ A filtered view in Uwazi: */library/?searchTerm=test*
 An entity: */entity/9htbkgpkyy7j5rk9*
 A document: */document/4y9i99fadjp833di*
       
-Important: You must use relative URLs. These start with a forward slash and do not include the domain name. For example: In the address *https://yoursite.com/landingpage*, the relative URL is /landingpage
-      "
+Important: You must use relative URLs. These start with a forward slash and do not include the domain name. For example: In the address *https://yoursite.com/landingpage*, the relative URL is /landingpage"
 Language,ဘာသာစကား
 Language deleted,ဘာသာစကား ဖျက်ပြီး
-language?,ဘာသာစကားများ
 Languages,ဘာသာစကားများ
 Last updated,Last updated
 Latitude,လတ္တီကျု
 Learn more,ပိုမိုလေ့လာရန်
 Learning...,လေ့လာဆဲ...
-leaving only a relative URL starting with a slash character. Ie. /some_url.,မျဉ်းစောင်းဖြင့် စသော သက်ဆိုင်ရာ URL ကိုသာ ချန်ထားရန်။ ဆိုလိုသည်မှာ- /some_url.
 Legend,ဒဏ္ဍာရီ
 Lengthy reindex process,Lengthy reindex process
 Library,စာကြည့်တိုက်
@@ -415,7 +427,9 @@ Lost connection to the server. Your changes may be lost,Lost connection to the s
 low,နိမ့်သော
 Manage site settings and configuration,ဝက်ဘ်ဆိုက် ဆက်တင်များနှင့် စနစ်တည်ဆောက်ပုံကို စီမံခန့်ခွဲရန်
 Map,မြေပုံ
+Map api key,Map api key
 Map api key tooltip,An API key is required to use Mapbox or Google Maps.
+Map provider,Map provider
 Map view,မြေပုံ မြင်ကွင်း
 MapBox,MapBox
 Mapping conflict error,"A reindex of your collection is necessary. The reason may vary 
@@ -454,6 +468,7 @@ Multimedia fill description,"will attempt to fill the container, using it's enti
 Multimedia fit description,will show the entire media inside the container.
 Multiple date,Multiple date
 Multiple date range,Multiple date range
+Multiple inherited properties warning ([property 1] affects [property 2]),အကျိုးသက်ရောက်သည်
 Multiple relationships edit description,Making changes to this property will affect other properties on this template because they all share relationships with the same configuration.
 Multiple select,Multiple select
 Name,အမည်
@@ -463,9 +478,13 @@ Name is too short,အမည် တိုလွန်းသည်
 Name of the group,အုပ်စု အမည်
 Narrow down your searches,သင့်ရှာဖွေမှုများကို ချုံ့ပစ်ပါ
 Narrow your search,သင့်ရှာဖွေမှုကို ချုံ့ပစ်ပါ
+Navigation menu tool tip part 1,"If it is an internal URL within this website, be sure to delete the first part"
+Navigation menu tool tip part 2,leaving only a relative URL starting with a slash character. Ie. /some_url.
 New entity,ထည့်သွင်းချက်အသစ်
+New group,New group
 New language added,ဘာသာစကားအသစ် ထည့်ပြီး
 New password,စကားဝှက်အသစ်
+New relationship type,New relationship type
 New relationships group,ဆက်နွှယ်မှုအသစ်များ အုပ်စု
 Next,ရှေ့သို့
 No,မရှိပါ
@@ -493,6 +512,7 @@ No value,တန်ဖိုးမရှိပါ
 No Value,တန်ဖိုးမရှိပါ
 Non-matching,Non-matching
 Normal view,ပုံမှန် မြင်ကွင်း
+Not Found,Not Found
 Nothing to see here! The selected documents are not using the selected thesaurus,ဤနေရာတွင် ကြည့်စရာ မရှိပါ။ ရွေးချယ်ထားသော စာရွက်စာတမ်းများသည် ရွေးချယ်ထားသည့် ဝေါဟာရပဒေသာကျမ်းကို အသုံးမပြုထားပါ
 Number of sentences above threshold,အနိမ့်ဆုံးသတ်မှတ်ချက်အထက်ရှိ ဝါကျ အရေအတွက်
 Obsolete,Obsolete
@@ -507,7 +527,7 @@ OCR error tip,The OCR engine couldn't read the document due to a malformed forma
 OCR PDF,OCR PDF
 of,၏
 Ok,အိုကေ
-Only allowed users will be able to see them,ခွင့်ပြုထားသော အသုံးပြုသူများသာ ၎င်းတို့ကို မြင်နိုင်ပါမည်
+OK,အိုကေ
 "Only text, number and date properties are currently supported","Only text, number and date properties are currently supported"
 Ooops... please go,အို... အဆင်ပြေပါစေ
 Oops! We couldn't find the thesaurus you're trying to edit. Try navigating back to this page through Settings.,အို။ သင်တည်းဖြတ်ရန် ကြိုးစားနေသော ဝေါဟာရပဒေသာကျမ်းကို ကျွန်ုပ်တို့ ရှာမတွေ့ပါ။ ဆက်တင်များမှတစ်ဆင့် ဤစာမျက်နှာသို့ ပြန်သွားကြည့်ပါ။
@@ -522,12 +542,14 @@ other,အခြား
 out of,မှ
 Page,စာမျက်နှာ
 Page Javascript,စာမျက်နှာ Javascript
+Page name,Page name
 Pages,စာမျက်နှာများ
 Password,စကားဝှက်
 Password changed success,Password changed success
 Password Error,စကားဝှက် မှားနေသည်။
 Password is too long,စကားဝှက် ရှည်လွန်းသည်
 Password updated,စကားဝှက် အပ်ဒိတ်လုပ်ပြီး
+Paste URL here,Paste URL here
 PDF,PDF
 per page,per page
 Permission,ခွင့်ပြုချက်
@@ -546,7 +568,7 @@ Previous,ယခင်
 Primary Documents,အဓိက စာရွက်စာတမ်းများ
 Priority sorting,ဦးစားပေးမှု ခွဲခြားခြင်း
 Priority sorting description,"Properties marked as priority sorting will be used as default sorting criteria. If more than one property is marked as priority sorting the system will try to pick-up the best fit. When listing mixed template types, the system will pick-up the best combined priority sorting."
-private,အများမမြင်နိုင်သော
+Private entities description,Caution: the selected entities will be **private**. Only allowed users will be able to see them.
 Private instance,လျှို့ဝှက် အကြောင်းကိစ္စ
 Processing,စီမံဆောင်ရွက်နေသည်
 Properties,ထူးခြားချက်များ
@@ -573,9 +595,10 @@ property text,Text
 Protect your account,သင့်အကောင့်ကို ကာကွယ်ပါ
 Protection,ကာကွယ်မှု
 ProTip!,အထူးအကြံပြုချက်!
-public,အများမြင်နိုင်သော
 Public Endpoints,Public Endpoints
+Public entities description,Caution: the selected entities will be **public**. Anyone will be able to see them.
 Public form settings description,Here you can configure the public form destination and the whitelisted templates
+Public Form submit URL,Public Form submit URL
 Public form URL description,"If you have configured a public form and would like a different Uwazi collection to receive the submissions, enter its URL here."
 Public form whitelist description,"If you wish to include Public Forms on your pages, you must white-list the template IDs for which Public Forms are expected."
 Publish,ထုတ်ဝေရန်
@@ -586,6 +609,7 @@ RAW,RAW
 Re-uploaded document,Re-uploaded document
 Receiving email,Receiving email
 Receiving email description,"If you have a contact form, this is the email address that will receive the form's submissions."
+Reference,Reference
 References,ကိုးကားချက်များ
 Reject,ငြင်းပယ်ရန်
 Relationship,ဆက်နွှယ်မှု
@@ -608,6 +632,7 @@ Required property,လိုအပ်သော ထူးခြားချက်
 Reset,ပြန်လည်သတ်မှတ်ရန်
 Reset 2FA,2FA ကို ပြန်လည်သတ်မှတ်ရန်
 Reset default translation,Reset default translation
+reset language warning,Are you sure you want to reset translation for this language?
 Reset Password,စကားဝှက် ပြန်လည်သတ်မှတ်ရန်
 Restricted,ကန့်သတ်ထားသည်
 Return to login,လော့ဂ်အင်သို့ ပြန်သွားရန်
@@ -654,9 +679,9 @@ selected of,ရွေးချယ်ထားသည်
 Semantic search,အဓိပ္ပာယ်ရင်းမြစ် ရှာဖွေမှု
 Semantic Search,အဓိပ္ပာယ်ရင်းမြစ် ရှာဖွေမှု
 Semantic search minimum sentences help,အဓိပ္ပာယ်ရင်းမြစ် ရှာဖွေမှု အနည်းဆုံး ဝါကျ အကူအညီ
-Semantic search overview, အဓိပ္ပာယ်ရင်းမြစ် ရှာဖွေမှု အကြမ်းဖျဉ်း
+Semantic search overview,အဓိပ္ပာယ်ရင်းမြစ် ရှာဖွေမှု အကြမ်းဖျဉ်း
 Semantic search results,အဓိပ္ပာယ်ရင်းမြစ် ရှာဖွေမှု ရလဒ်များ
-Semantic search threshold help, အဓိပ္ပာယ်ရင်းမြစ် ရှာဖွေမှု အနိမ့်ဆုံးသတ်မှတ်ချက် အကူအညီ
+Semantic search threshold help,အဓိပ္ပာယ်ရင်းမြစ် ရှာဖွေမှု အနိမ့်ဆုံးသတ်မှတ်ချက် အကူအညီ
 Send,ပေးပို့ရန်
 Send recovery email,ပြန်လည်ရယူရန်အတွက် အီးမေးလ် ပို့ရန်
 Sending email,Sending email
@@ -677,11 +702,13 @@ Share entities with the public,Share entities with the public
 Share with people and groups,လူများနှင့် အုပ်စုများနှင့် မျှဝေရန်
 Shared as editor,အယ်ဒီတာအဖြစ် မျှဝေသည်
 Shared as viewer,ကြည့်ရှုသူအဖြစ် မျှဝေသည်
+Show actions,Show actions
 Show cookie policy,ကွတ်ကီး မူဝါဒ ပြရန်
 Show filters,စစ်ထုတ်မှုများကို ပြရန်
 Show in cards,Show in cards
 Show more,ပိုမိုပြသရန်
 Show Suggestions,အကြံပြုချက်များ ပြရန်
+Show toolbar,Show toolbar
 shown of,ပြသထားသည််
 Sign in,လက်မှတ်ထိုးဝင်ရန်
 Single date,Single date
@@ -691,10 +718,13 @@ Single select,Single select
 Size,အရွယ်အစား
 Something went wrong,တစ်ခုခု မှားသွားသည်
 Sort,အမျိုးအစားခွဲရန်
+Sort ascending,Sort ascending
 Sort by,ဤသို့ အမျိုးအစားခွဲရန်
+Sort descending,Sort descending
 sorted by,ဤသို့ အမျိုးအစားခွဲထားသည်
 State,State
 State Legend,State Legend
+Storage,Storage
 Streets,Streets
 Strict mode,တိကျသည့် မုဒ်
 Style,စတိုင်
@@ -718,6 +748,7 @@ Table of contents,မာတိကာ
 Table view,ဇယားမြင်ကွင်း
 Template,ပုံစံပြား
 Template conflict,Template conflict
+Template name,Template name
 Template with a long number of entities,"The template has changed and the associated entities will be re-indexed,
        this process may take several minutes, do you want to continue?"
 Templates,ပုံစံပြားများ
@@ -726,12 +757,14 @@ Text references limit warning,Text references are temporarily limited to a maxim
 The current model was trained at,လက်ရှိ မော်ဒယ်ကို ဤတွင် လေ့ကျင့်ထားပါသည်
 "The first step is to label a sample of your documents, so Uwazi can learn which topics to suggest when helping you label your collection.",ပထမအဆင့်မှာ သင့်စာရွက်စာတမ်းများ နမူနာကို တံဆိပ်တပ်ရန်ဖြစ်ရာ Uwazi သည် သင့်စုဆောင်းမှုကို သင်အညွှန်းတပ်ရာတွင် ကူညီသည့်အခါ မည်သည့်အကြောင်းအရာများအား အကြံပြုရမည်ကို လေ့လာနိုင်သည်။
 The import process threw an error:,ထည့်သွင်းသည့် လုပ်ငန်းစဉ်တွင် ချွတ်ယွင်းချက် ဖြစ်ပေါ်ခဲ့သည်-
+The request could not be processed.,The request could not be processed.
 The template contains errors,ပုံစံပြားတွင် ချွတ်ယွင်းချက်များ ရှိနေသည်
 The token does not validate against the secret key!,The token does not validate against the secret key!
 There are no pages enabled for entity view,ဖြည့်သွင်းချက် မြင်ကွင်းအတွက် ဖွင့်ထားသော စာမျက်နှာများ မရှိပါ
 There are no untranslated terms,There are no untranslated terms
 There are unsaved changes. Are you sure you want to discard them and switch to a different document?,There are unsaved changes. Are you sure you want to discard them and switch to a different document?
 Thesauri,ဝေါဟာရပဒေသာကျမ်းများ
+Thesauri name,Thesauri name
 Thesaurus,Thesaurus
 Thesaurus saved,ဝေါဟာရပဒေသာကျမ်း သိမ်းပြီး
 This action may take some time while we add the extra language to the entire collection.,This action may take some time while we add the extra language to the entire collection.
@@ -748,6 +781,7 @@ This property will be inherited from the related entities and shown as metadata 
 This property will be shown using all the width available.,ဤထူးခြားချက်ကို ရရှိနိုင်သော အကျယ်အားလုံးသုံးပြီး ပြသပါမည်။
 This property will be shown without the label.,ဤထူးခြားချက်ကို တံဆိပ်မှတ်သားမှုမပါဘဲ ပြသပါမည်။
 This relationship type is being used and cannot be deleted.,This relationship type is being used and cannot be deleted.
+this template,this template
 This template has associated entities,This template has associated entities
 This template will be used as default for new entities.,ဤပုံစံပြားကို ဖြည့်သွင်းချက်အသစ်များအတွက် နဂိုမူလအဖြစ် သုံးပါမည်။
 This thesaurus is being used in document types and cannot be deleted.,This thesaurus is being used in document types and cannot be deleted.
@@ -764,6 +798,10 @@ to learn more about the components.,အစိတ်အပိုင်းမျ�
 to view your authentication code and verify your identity.,သင်၏ စစ်မှန်ကြောင်း အတည်ပြုကုဒ်ကို ကြည့်ရန်နှင့် သင့်ကိုယ်ပိုင်သင်္ကေတကို မှန်ကန်ကြောင်း စစ်ဆေးရန်။
 Tools,ကိရိယာများ
 topic suggestions tip,Improve the quality of this topic's suggestions by finding more sample documents with this label.
+Total entities,Total entities
+Total files,Total files
+"Total files from main documents, supporting files and custom uploads","Total files from main documents, supporting files and custom uploads"
+Total users,Total users
 Train model,မော်ဒယ် လေ့ကျင့်ရန်
 Training,Training
 Training model...,Training model...
@@ -779,8 +817,11 @@ Two-factor authentication failed.,Two-factor authentication failed.
 Two-factor authentication secret,Two-factor authentication secret
 Two-factor verification failed,နှစ်ဆင့်ခံ မှန်ကန်ကြောင်းစစ်ဆေးမှု မအောင်မြင်ပါ
 Two-step verification,နှစ်ဆင့်ခံ မှန်ကန်ကြောင်းစစ်ဆေးမှု
+Two-step verification successfully,"Congratulations!
+You have successfully configured two-step verification."
 Two-step verification token required,Two-step verification token required
 Type,အမျိုးအစား
+Unexpected error,Unexpected error
 Unlink,Unlink
 Unsupported OCR language,Unsupported OCR language
 Untranslated Terms,Untranslated Terms
@@ -836,10 +877,12 @@ View in library,စာကြည့်တိုက်တွင် ကြည့်
 View suggestions,အကြံပြုချက်များ ကြည့်ရန်
 WARNING,WARNING
 Warning: you are editing multiple entities. Fields marked with a,သတိပေးချက်- သင်သည် ဖြည့်သွင်းချက်များစွာကို တည်းဖြတ်နေသည်။ ဤသို့ မှတ်သားထားသော အကွက်များတွင်
+We can't find the page you're looking for.,We can't find the page you're looking for.
 We recommend labeling,တံဆိပ်အမှတ်အသားတပ်ရန် ကျွန်ုပ်တို့ အကြံပြုပါသည်
 Website analytics,ဝက်ဘ်ဆိုက် စာရင်းအင်းများ
 Welcome to Uwazi,Uwazi မှ ကြိုဆိုပါသည်
 "Well, this is awkward...",အင်း၊ ဒါက ထူးဆန်းပါတယ်...
+Whitelisted Templates,Whitelisted Templates
 will be updated with the same value.,တူညီသော တန်ဖိုးဖြင့် အပ်ဒိတ်လုပ်ပါမည်။
 with,ဖြင့်
 With great power comes great responsibility!,လုပ်ပိုင်ခွင့်ကြီးလျှင် တာဝန်ပိုကြီးသည်!
@@ -851,7 +894,6 @@ You can also improve the model by providing more labeled documents.,သင်သ
 You can create metadata templates in,သင်သည် ဤနေရာတွင် မီတာဒေတာ ပုံစံပြားများကို ဖန်တီးနိုင်သည်
 You have labeled,သင် တံဆိပ်တပ်မှတ်သားထားသည်
 "You have not connected an Uwazi instance, yet","You have not connected an Uwazi instance, yet"
-You have successfully configured two-step verification.,သင်သည် နှစ်ဆင့်ခံ မှန်ကန်ကြောင်းစစ်ဆေးမှုကို အောင်မြင်စွာ သတ်မှတ်ဖွဲ့စည်းပြီးပါပြီ။
 You should activate this feature for enhanced account security,အကောင့် လုံခြုံရေး ပိုမိုကောင်းမွန်စေရန် ဤအပြင်အဆင်ကို သင် သက်ဝင်လုပ်ဆောင်သင့်သည်
 Your account is protected by 2fa.,သင့်အကောင့်ကို 2fa ဖြင့် ကာကွယ်ထားသည်။
 Zoom in,ချုံ့သည်

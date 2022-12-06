@@ -1,7 +1,9 @@
 Key,Arabic
-(view page),(عرض الصفحة)
 % of sentences above threshold,% of sentences above threshold
+(view page),(عرض الصفحة)
 + click to select multiple cards.,+ click to select multiple cards.
+// Javascript - With great power comes great responsibility!,// Javascript - With great power comes great responsibility!
+2FA,2FA
 2fa add account tip,"Open the app and select ""Add Account"" (usually a plus symbol)"
 2fa QA scan tip,"Scan the following QR code selecting the ""scan barcode"" option:"
 A generated ID will be the default title.,سيكون معرف تم إنشاؤه العنوان.
@@ -50,17 +52,16 @@ added to hub.,added to hub.
 Adjacent geolocation properties will render on the same map,ستتوافر الخصائص المجاورة لتحديد الموقع الجغرافي على الخريطة نفسها
 Admin,مشرف
 Administrators and Editors,المشرفون (أو المسؤولون) والمحررون
-affects,يؤثر
 ALL,ALL
 All,All
 "All changes will be lost, are you sure you want to proceed?",ستحذف جميع التغييرات، هل أنت متأكد أنك تريد المتابعة؟
+Allow captcha bypass,Allow captcha bypass
 An error has occurred during data export,An error has occurred during data export
 An error occurred,An error occurred
 Analytics description,"If you want to track analytics related to your collection visits, Uwazi supports both Google Analytics and Matomo."
-Anyone will be able to see them,سيتمكن أي شخص من رؤيتها
+Any entity or document,Any entity or document
 Apply to all languages,تفعيله لكل اللغات
 Are you sure you want to continue?,Are you sure you want to continue?
-Are you sure you want to delete,Are you sure you want to delete
 Are you sure you want to delete this attachment?,Are you sure you want to delete this attachment?
 Are you sure you want to delete this connection?,Are you sure you want to delete this connection?
 Are you sure you want to delete this entity?,Are you sure you want to delete this entity?
@@ -69,7 +70,6 @@ Are you sure you want to delete this item?,Are you sure you want to delete this 
 Are you sure you want to delete this page?,Are you sure you want to delete this page?
 Are you sure you want to delete this relationship type?,Are you sure you want to delete this relationship type?
 Are you sure you want to delete this thesaurus?,Are you sure you want to delete this thesaurus?
-Are you sure you want to reset translation for,Are you sure you want to reset translation for
 Attachment deleted,Attachment deleted
 Attachment renamed,Attachment renamed
 Attachment uploaded,Attachment uploaded
@@ -87,23 +87,23 @@ Back to dashboard,العودة الى لوحة القيادة
 Back to search,العودة إلى البحث
 Back to thesauri,العودة إلى قائمة المفردات
 Back to thesaurus,العودة إلى قائمة المفردات
+Bad Request,Bad Request
 Body,يجب الاطلاع على السياق لتحديد الترجمة الأنسب
 Browse files to upload,تصفح الملفات المراد تحميلها
 Browse your PDFs to upload,تصفح ملفات PDF الخاصة بك المراد تحميلها
 "by ids, methods, keywords, etc.","by ids, methods, keywords, etc."
 Can edit,إمكانية التحرير
-Can not delete template:,Can not delete template:
 Can see,إمكانية الرؤية
 Can view,إمكانية المعاينة
 Cancel,الغاء
 Canceling...,Canceling...
 Cannot delete relationship type:,Cannot delete relationship type:
+Cannot delete template:,Cannot delete template:
 Cannot delete thesaurus:,Cannot delete thesaurus:
 Captcha,حروف التحقق
 Captcha bypass,تخطى كلمة التحقق (Captcha)
 Cards,بطاقات
 Cards view,معاينة البطاقات
-Caution: the selected entities will be,تنبيه: الكيانات (الإدخالات) المختارة سوف
 Change password,تغيير كلمة المرور
 Change will take effect after saving the template,سينفذ التغيير بعد حفظ القالب
 Changes can't be undone after saving. Changing text fields may invalidate the suggestions.,Changes can't be undone after saving. Changing text fields may invalidate the suggestions.
@@ -125,34 +125,34 @@ Close,غلق
 Collaborator,متعاون/ مساهم
 Collapse all,Collapse all
 Collection,المجموعة
-Collection name, اسم المجموعة
+Collection name,اسم المجموعة
 Configuration,Configuration
 Configure filters,ضبط قوائم تصفيه البيانات
 Configure properties,Configure properties
 Configure suggestions,تكوين الاقتراحات
 Configure templates,Configure templates
 Confirm,تأكيد
+CONFIRM,تأكيد
 Confirm action,Confirm action
 Confirm add,Confirm add
-Confirm delete,Confirm delete
 Confirm delete connection,Confirm delete connection
-Confirm delete entity,Confirm delete entity
-Confirm delete file,Confirm delete file
 Confirm delete multiple items,هل ترغب في حذف كل العناصر المختارة؟
-Confirm delete of template:,Confirm delete of template:
-Confirm delete page:,Confirm delete page:
-Confirm delete relationship type:,Confirm delete relationship type:
 confirm delete template,"Are you sure you want to delete this entity type?
         This will delete the template and all relationship properties from other templates pointing to this one."
-Confirm delete thesaurus:,Confirm delete thesaurus:
 Confirm deletion,تأكيد الحذف
+Confirm deletion of,Confirm deletion of
+Confirm deletion of entity,Confirm deletion of entity
+Confirm deletion of file,Confirm deletion of file
+Confirm deletion of page:,Confirm deletion of page:
+Confirm deletion of relationship type:,Confirm deletion of relationship type:
+Confirm deletion of template:,Confirm deletion of template:
+Confirm deletion of thesaurus:,Confirm deletion of thesaurus:
 Confirm discard changes,Confirm discard changes
 Confirm edit suggestion-enabled Thesaurus,Confirm edit suggestion-enabled Thesaurus
 Confirm new password,تأكيد كلمة المرور الجديدة
 Confirm publish multiple items,تأكيد نشر عناصر متعددة
 Confirm reset translation,Confirm reset translation
 Confirm suggestion acceptance,تأكيد قبول الاقتراح
-Congratulations!,تهانينا!
 Connect to a document,الاتصال بمستند
 Connect to a paragraph,الاتصال بفقرة
 Connected to server,Connected to server
@@ -168,21 +168,22 @@ Copy Highlighted,نسخ المظلل
 Copy link,نسخ الرابط
 Copy properties to this entity from,انسخ الخصائص إلى هذا الكيان (الإدخال) من
 Copy token,Copy token
-Could not be processed,لا يمكن معالجتها 
+Could not be processed,لا يمكن معالجتها
 Could not detect the area for the selected text,"Could not detect the area for the selected text, please try selecting again."
 Could not reach server. Please try again later.,Could not reach server. Please try again later.
 Create,أنشئ
 CREATE,أنشئ
 Create and edit thesauri,Create and edit thesauri
+Create Connection,Create Connection
 Create dictionaries,إنشاء قواميس
-Create entity,إنشاء كيان 
-Create Entity,إنشاء كيان 
+Create entity,إنشاء كيان
+Create Entity,إنشاء كيان
 Create group,إنشاء مجموعة
 Create new entities and upload documents,Create new entities and upload documents
+Create Reference,Create Reference
 Create relationship types,Create relationship types
 Create relationships and references,Create relationships and references
 Create table of contents,Create table of contents
-created,منشأ
 Created entity,Created entity
 Created entity coming from a public form,Created entity coming from a public form
 Created page,Created page
@@ -197,17 +198,20 @@ Currently connections only need a title.,لا تحتاج الاتصالات حا
 Custom component error,خطأ في المكون المخصص
 Custom CSS,CSS تنسيق
 Custom favicon,خصص أيقونة المفضلة (Favicon)
+Custom JS,Custom JS
 custom page error warning,"There is an unexpected error on this custom page, it may not work properly. Please contact an admin for details."
 Custom starting location,تحديد موقع البدء
-Custom styles,أنماط مخصصة
 Custom Uploads,تحميل مخصص
+Dashboard,Dashboard
 Data imported,البيانات المستوردة
 Date added,تم إضافة التاريخ
 Date format,صيغة التاريخ
 Date modified,تاريخ التعديل
 Day,يوم
+Default filter,Default filter
 Default language change success,نجاح تغيير اللغة الافتراضية
 Default template,القالب الافتراضي
+Default view,Default view
 Delete,حذف
 DELETE,حذف
 Delete entities and documents,Delete entities and documents
@@ -236,6 +240,7 @@ Display entity view from page,عرض معاينة الكيان (الإدخال) 
 Document,مستند
 Document and entity types,انواع الوثائق والكيانات
 Document contents,محتويات المستند
+Document OCR trigger,Document OCR trigger
 Document Title,عنوان المستند
 Documentation,توثيق
 documents,وثائق
@@ -278,11 +283,12 @@ Enable this page to be used as an entity view page:,مكن هذه الصفحة �
 Enter the 6-digit verification code generated by your Authenticator app:,أدخل رمز التحقق المكون من 6 أرقام الناتج عن تطبيق المصادقة الخاص بك:
 Entities,الكيانات
 entities,الكيانات
+Entities across all languages,Entities across all languages
 "Entities can be displayed in a custom page. For that, a custom page needs to be created in Pages, and then selected here.",يمكن عرض الكيانات (الإدخالات) في صفحة مخصصة، ومن ثم يجب إنشاء صفحة مخصصة في الصفحات، ثم اختيارها هنا.
-Entity,كيان 
+Entity,كيان
 Entity deleted,Entity deleted
 Entity saved,Entity saved
-Entity types,أنواع الكيانات 
+Entity types,أنواع الكيانات
 Entity updated,Entity updated
 Error,خطأ
 Expand all,Expand all
@@ -301,6 +307,8 @@ FEATURED,FEATURED
 File,ملف
 File deleted,File deleted
 File updated,File updated
+Files,Files
+Files and database usage,Files and database usage
 Fill,تعبئة
 Filters,قوائم تصفيه البيانات
 Filters AND operator,و
@@ -319,19 +327,24 @@ Flag,علم
 Forgot Password?,هل نسيت كلمة المرور؟
 Forms and email configuration,تكوين النماذج والبريد الإلكتروني
 Full edit mode,وضع التحرير الكامل
+Full width,Full width
 General,عام
 Global CSS,خاصية CSS العالمية
+Global CSS & JS,Global CSS & JS
 Google Analytics,Google Analytics
 Google Analytics ID,معرف Google Analytics
 Google Maps,خرائط جوجل
 Group,Group
 Group created,Group created
 Group deleted,Group deleted
+Group name,Group name
 Group updated,Group updated
 Groups,مجموعات
 help,مساعدة
 here,here
+Hide actions,Hide actions
 Hide label,إخفاء التسمية
+Hide toolbar,Hide toolbar
 https://yourdomain,https://yourdomain
 hubs,محاور
 Hybrid,هجين
@@ -340,7 +353,7 @@ Icon,أيقونة
 "If you want to continue, please type",إذا كنت ترغب في المتابعة، يرجى كتابة
 Impact of property change warning,All entities and documents that have already this property assigned will loose its current value
 Import,استيراد
-Import completed:,اكتمال الاستيراد
+Import completed,Import completed. Number of entities created:
 Import CSV,استيراد ملف القيم المفصولة بفواصل
 Import instructions,استيراد التعليمات
 Imported entities from file,Imported entities from file
@@ -353,12 +366,12 @@ incorrect suggestion check,Is the suggestion incorrect? Click on 'Reject' and Uw
 Indexing entities may take a few minutes,قد تستغرق فهرسة الكيانات (الإدخالات) بضع دقائق
 Info,معلومات
 Information extraction training,Information extraction training
+Inherit,Inherit
 Inherit property,وراثة خاصية
 Install browser extension (dynamic link),Install browser extension (dynamic link)
 INSTALL the browser extension,INSTALL the browser extension
 Install the Google Authenticator app on your mobile device,ثبت تطبيق Google Authenticator على جهازك المحمول
-"Instructions to reset your password have been sent, please check your email","Instructions to reset your password have been sent, please check your email"
-internal URL tip,"If it is an internal URL within this website, be sure to delete the first part"
+Instructions to reset password,Instructions to reset user password have been sent. Please check your email.
 Invalid captcha,حروف التحقق غير صحيحة
 Invalid csv: all the values for a row must be either nested or non-nested,Invalid csv: all the values for a row must be either nested or non-nested
 Invalid csv: nested value need to be under a non-nested value,Invalid csv: nested value need to be under a non-nested value
@@ -366,6 +379,8 @@ Invalid email,بريد إلكتروني غير صحيح
 Invalid form,المدخلات غير صحيحة او غير مكتمله. رجاء التصحيح واعادج المحاولة
 Invalid home page url,Invalid home page url
 It could also very easily break the app. Only write code here if you know exactly what you are doing.,من الممكن أيضاً كسر التطبيق بسهولة بالغة. اكتب فقط الرمز هنا إذا كنت على دراية تامة بما تفعله
+Item,Item
+Item name,Item name
 Items:,العناصر:
 Keep this in mind if you want to edit:,Keep this in mind if you want to edit:
 key,Arabic
@@ -385,17 +400,14 @@ A filtered view in Uwazi: */library/?searchTerm=test*
 An entity: */entity/9htbkgpkyy7j5rk9*
 A document: */document/4y9i99fadjp833di*
       
-Important: You must use relative URLs. These start with a forward slash and do not include the domain name. For example: In the address *https://yoursite.com/landingpage*, the relative URL is /landingpage
-      "
+Important: You must use relative URLs. These start with a forward slash and do not include the domain name. For example: In the address *https://yoursite.com/landingpage*, the relative URL is /landingpage"
 Language,لغة
 Language deleted,حذفت اللغة
-language?,اللغات
 Languages,اللغات
 Last updated,Last updated
 Latitude,خط العرض
 Learn more,اعرف المزيد
 Learning...,التعلم...
-leaving only a relative URL starting with a slash character. Ie. /some_url.,الاكتفاء بترك عنوان URL يبدأ بخط مائل مثال some_url/
 Legend,مفتاح مصطلحات الخريطة
 Lengthy reindex process,Lengthy reindex process
 Library,مكتبة
@@ -414,7 +426,9 @@ Lost connection to the server. Your changes may be lost,Lost connection to the s
 low,منخفض/ أدنى/ قليل/ صغير
 Manage site settings and configuration,إدارة إعدادات الموقع
 Map,خريطة
+Map api key,Map api key
 Map api key tooltip,An API key is required to use Mapbox or Google Maps.
+Map provider,Map provider
 Map view,عرض الخريطة
 MapBox,MapBox
 Mapping conflict error,"A reindex of your collection is necessary. The reason may vary 
@@ -453,6 +467,7 @@ Multimedia fill description,"will attempt to fill the container, using it's enti
 Multimedia fit description,will show the entire media inside the container.
 Multiple date,Multiple date
 Multiple date range,Multiple date range
+Multiple inherited properties warning ([property 1] affects [property 2]),يؤثر
 Multiple relationships edit description,Making changes to this property will affect other properties on this template because they all share relationships with the same configuration.
 Multiple select,Multiple select
 Name,اسم
@@ -462,9 +477,13 @@ Name is too short,الاسم قصير جداً
 Name of the group,اسم المجموعة
 Narrow down your searches,ضيق نطاقات بحثك
 Narrow your search,ضيق نطاق بحثك
+Navigation menu tool tip part 1,"If it is an internal URL within this website, be sure to delete the first part"
+Navigation menu tool tip part 2,leaving only a relative URL starting with a slash character. Ie. /some_url.
 New entity,كيان جديد
+New group,New group
 New language added,أضيفت لغة جديدة
 New password,كلمة المرور الجديدة
+New relationship type,New relationship type
 New relationships group,مجموعة علاقات جديدة
 Next,التالي
 No,لا
@@ -492,6 +511,7 @@ No value,لا قيمة
 No Value,لا قيمة
 Non-matching,Non-matching
 Normal view,معاينة عادية
+Not Found,Not Found
 Nothing to see here! The selected documents are not using the selected thesaurus,لايوجد شيء لرؤيته هنا! المستندات المختارة لا تستخدم قائمة المفردات المختارة
 Number of sentences above threshold,عدد الجمل أزيد من الحد
 Obsolete,Obsolete
@@ -506,7 +526,7 @@ OCR error tip,The OCR engine couldn't read the document due to a malformed forma
 OCR PDF,تشغيل خاصية الOCR على الPDF
 of,من
 Ok,موافق
-Only allowed users will be able to see them,لن تتاح رؤيتها إلا للمستخدمين المسموح لهم
+OK,موافق
 "Only text, number and date properties are currently supported","Only text, number and date properties are currently supported"
 Ooops... please go,بئساً...اذهب من فضلك
 Oops! We couldn't find the thesaurus you're trying to edit. Try navigating back to this page through Settings.,بئساً! لم نستطع إيجاد قائمة المفردات التي تحاول تحريرها. حاول العودة إلى هذه الصفحة من خلال الإعدادات.
@@ -521,12 +541,14 @@ other,آخر
 out of,خارج
 Page,صفحة
 Page Javascript,صفحة جافا سكريبت
+Page name,Page name
 Pages,الصفحات
 Password,كلمه المرور
 Password changed success,Password changed success
 Password Error,خطأ كلمة المرور
 Password is too long,كلمة المرور طويلة جداً
 Password updated,تم تحديث كلمة المرور
+Paste URL here,Paste URL here
 PDF,PDF
 per page,per page
 Permission,إذن
@@ -545,7 +567,7 @@ Previous,سابق
 Primary Documents,المستندات الأولية
 Priority sorting,تصنيف حسب الأولوية
 Priority sorting description,"Properties marked as priority sorting will be used as default sorting criteria. If more than one property is marked as priority sorting the system will try to pick-up the best fit. When listing mixed template types, the system will pick-up the best combined priority sorting."
-private,خاص
+Private entities description,تنبيه: الكيانات (الإدخالات) المختارة سوف .لن تتاح رؤيتها إلا للمستخدمين المسموح لهم
 Private instance,قاعدة بيانات داخلية
 Processing,معالجة
 Properties,الخصائص
@@ -572,9 +594,10 @@ property text,Text
 Protect your account,احم حسابك
 Protection,حماية
 ProTip!,نصيحة احترافية!
-public,عام
 Public Endpoints,نقاط النهاية العامة
+Public entities description,Caution: the selected entities will be **public**. Anyone will be able to see them.
 Public form settings description,Here you can configure the public form destination and the whitelisted templates
+Public Form submit URL,Public Form submit URL
 Public form URL description,"If you have configured a public form and would like a different Uwazi collection to receive the submissions, enter its URL here."
 Public form whitelist description,"If you wish to include Public Forms on your pages, you must white-list the template IDs for which Public Forms are expected."
 Publish,انشر
@@ -585,6 +608,7 @@ RAW,RAW
 Re-uploaded document,Re-uploaded document
 Receiving email,البريد الالكتروني المستقبل
 Receiving email description,"If you have a contact form, this is the email address that will receive the form's submissions."
+Reference,Reference
 References,مراجع
 Reject,رفض
 Relationship,صلة
@@ -607,6 +631,7 @@ Required property,الخاصية المطلوبة
 Reset,إعادة ضبط
 Reset 2FA,إعادة تعيين المصادقة الثنائية
 Reset default translation,Reset default translation
+reset language warning,Are you sure you want to reset translation for this language?
 Reset Password,إعادة تعيين كلمة المرور
 Restricted,مُقَيَّد
 Return to login,العودة لتسجيل الدخول
@@ -676,11 +701,13 @@ Share entities with the public,Share entities with the public
 Share with people and groups,المشاركة مع الأشخاص والمجموعات
 Shared as editor,المشاركة كمحرر
 Shared as viewer,المشاركة كمشاهد
+Show actions,Show actions
 Show cookie policy,عرض سياسة ملف تعريف الارتباط
 Show filters,إظهار عوامل التصفية
 Show in cards,اظهر في البطاقات
 Show more,أظهر المزيد
 Show Suggestions,عرض الاقتراحات
+Show toolbar,Show toolbar
 shown of,مبين
 Sign in,تسجيل الدخول
 Single date,Single date
@@ -690,10 +717,13 @@ Single select,Single select
 Size,حجم
 Something went wrong,حدث خطأ ما
 Sort,تصنيف
+Sort ascending,Sort ascending
 Sort by,ترتيب حسب
+Sort descending,Sort descending
 sorted by,مرتبة حسب
 State,State
 State Legend,State Legend
+Storage,Storage
 Streets,Streets
 Strict mode,الوضع الصارم
 Style,نمط
@@ -717,6 +747,7 @@ Table of contents,جدول المحتويات
 Table view,معاينة الجدول
 Template,قالب
 Template conflict,Template conflict
+Template name,Template name
 Template with a long number of entities,"The template has changed and the associated entities will be re-indexed,
        this process may take several minutes, do you want to continue?"
 Templates,قوالب
@@ -725,12 +756,14 @@ Text references limit warning,Text references are temporarily limited to a maxim
 The current model was trained at,تلقى النموذج الحالي تدريباً في
 "The first step is to label a sample of your documents, so Uwazi can learn which topics to suggest when helping you label your collection.",تتمثل الخطوة الأولى في تسمية عينة من مستنداتك، لكي يعرف أوازي الموضوعات التي يجب اقتراحها عند مساعدتك في تسمية مجموعتك
 The import process threw an error:,نتج عن عملية الاستيراد الخطأ التالي:
+The request could not be processed.,The request could not be processed.
 The template contains errors,يحتوي القالب على أخطاء
 The token does not validate against the secret key!,The token does not validate against the secret key!
 There are no pages enabled for entity view,لا توجد صفحات ممكنة لمعاينة الكيان (الإدخال)
 There are no untranslated terms,There are no untranslated terms
 There are unsaved changes. Are you sure you want to discard them and switch to a different document?,There are unsaved changes. Are you sure you want to discard them and switch to a different document?
 Thesauri,قائمة المفردات
+Thesauri name,Thesauri name
 Thesaurus,Thesaurus
 Thesaurus saved,تم حفظ قائمة المفردات
 This action may take some time while we add the extra language to the entire collection.,This action may take some time while we add the extra language to the entire collection.
@@ -747,6 +780,7 @@ This property will be inherited from the related entities and shown as metadata 
 This property will be shown using all the width available.,ستظهر هذه الخاصية باستخدام كل العرض المتاح
 This property will be shown without the label.,ستظهر هذه الخاصية دون التسمية
 This relationship type is being used and cannot be deleted.,This relationship type is being used and cannot be deleted.
+this template,this template
 This template has associated entities,This template has associated entities
 This template will be used as default for new entities.,سيستخدم القالب قالباً افتراضياً للكيانات (للإدخالات) الجديدة
 This thesaurus is being used in document types and cannot be deleted.,This thesaurus is being used in document types and cannot be deleted.
@@ -763,6 +797,10 @@ to learn more about the components.,لمعرفة المزيد حول المكو�
 to view your authentication code and verify your identity.,لمعاينة رمز المصادقة الخاص بك والتحقق من هويتك.
 Tools,الأدوات
 topic suggestions tip,Improve the quality of this topic's suggestions by finding more sample documents with this label.
+Total entities,Total entities
+Total files,Total files
+"Total files from main documents, supporting files and custom uploads","Total files from main documents, supporting files and custom uploads"
+Total users,Total users
 Train model,نموذج القطار
 Training,Training
 Training model...,Training model...
@@ -778,10 +816,13 @@ Two-factor authentication failed.,Two-factor authentication failed.
 Two-factor authentication secret,Two-factor authentication secret
 Two-factor verification failed,فشل التحقق الثنائي (التحقق بخطوتين)
 Two-step verification,التحقق الثنائي (التحقق بخطوتين)
+Two-step verification successfully,"Congratulations!
+You have successfully configured two-step verification."
 Two-step verification token required,Two-step verification token required
 Type,نوع
+Unexpected error,Unexpected error
 Unlink,Unlink
-Unsupported OCR language,لغة الOCR غير مدعومة 
+Unsupported OCR language,لغة الOCR غير مدعومة
 Untranslated Terms,Untranslated Terms
 Update,تحديث
 UPDATE,تحديث
@@ -809,7 +850,7 @@ Uploads,تحميلات
 URL,عنوان URL
 Use,استخدام
 Use as filter,Use as filter
-Use custom landing page,خصص صفحة رئيسية 
+Use custom landing page,خصص صفحة رئيسية
 User,المستخدم
 User Interface,User Interface
 Username,اسم المستخدم
@@ -835,10 +876,12 @@ View in library,عرض في المكتبة
 View suggestions,مراجعة الاقتراحات
 WARNING,WARNING
 Warning: you are editing multiple entities. Fields marked with a,تنبيه: أنت تحرر كيانات (إدخالات) متعددة. الحقول تحمل علامة
+We can't find the page you're looking for.,We can't find the page you're looking for.
 We recommend labeling,نوصي بالتسمية
 Website analytics,تحليلات الموقع
 Welcome to Uwazi,مرحباً بكم في أوازي
 "Well, this is awkward...",إنه لأمر محرج...
+Whitelisted Templates,Whitelisted Templates
 will be updated with the same value.,سيحدث بالقيمة نفسها
 with,مع
 With great power comes great responsibility!,كلما ازدادت القوة، ازدادت معها المسؤولية!
@@ -850,7 +893,6 @@ You can also improve the model by providing more labeled documents.,يمكنك �
 You can create metadata templates in,يمكنك إنشاء قوالب البيانات الوصفية في
 You have labeled,لقد سميت
 "You have not connected an Uwazi instance, yet","You have not connected an Uwazi instance, yet"
-You have successfully configured two-step verification.,لقد كونت بنجاح التحقق الثنائي (التحقق بخطوتين)
 You should activate this feature for enhanced account security,يجب عليك تفعيل هذه الميزة لتحقيق تأمين أفضل للحساب
 Your account is protected by 2fa.,حسابك محمي بواسطة المصادقة الثنائية
 Zoom in,تكبير
